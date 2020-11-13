@@ -1,0 +1,7580 @@
+sent
+0	квартира	0 d NOUN,inan,femn,sing,nomn
+1	новая	1 d ADJF,Qual,femn,sing,nomn
+2	с	2 d PREP
+3	чистым	3 d ADJF,Qual,masc,sing,ablt
+4	отличным	4 d ADJF,Qual,masc,sing,ablt
+5	ремонтом	5 d NOUN,inan,masc,sing,ablt
+6	!	6 d PNCT
+/sent
+sent
+0	просторный	0 d ADJF,Qual,masc,sing,nomn
+1	балкон	1 d NOUN,inan,masc,sing,accs
+2	обитый	2 d PRTF,perf,tran,past,pssv,masc,sing,nomn
+3	вагонкой	3 d NOUN,inan,femn,sing,ablt
+4	с	4 d PREP
+5	ковровым	5 d ADJF,Qual,masc,sing,ablt
+6	покрытием	6 d NOUN,inan,neut,sing,ablt
+7	,	7 d PNCT
+8	комната	8 d NOUN,inan,femn,sing,nomn
+9	с	9 d PREP
+10	кирпичной	10 d ADJF,Qual,femn,sing,ablt
+11	стеной	11 d NOUN,inan,femn,sing,ablt
+12	и	12 d CONJ
+13	барной	13 d NOUN,anim,femn,Name,sing,ablt
+14	стойкой	14 d NOUN,inan,femn,sing,ablt
+15	вместо	15 d PREP
+16	подоконника	16 d NOUN,inan,masc,sing,gent
+17	,	17 d PNCT
+18	большой	18 d ADJF,Qual,femn,sing,gent
+19	вместительный	19 d ADJF,Qual,masc,sing,nomn
+20	гардероб	20 d NOUN,inan,masc,sing,nomn
+21	,	21 d PNCT
+22	в	22 d PREP
+23	ванной	23 d NOUN,inan,femn,sing,ablt
+24	комнате	24 d NOUN,inan,femn,sing,loct
+25	стиральная	25 d ADJF,Qual,femn,sing,nomn
+26	машинка	26 d NOUN,inan,femn,sing,nomn
+27	!	27 d PNCT
+/sent
+sent
+0	на	0 d PREP
+1	кухне	1 d NOUN,inan,femn,sing,loct
+2	есть	2 d INTJ
+3	все	3 d ADVB
+4	необходимое	4 d ADJF,Qual,neut,sing,nomn
+5	:	5 d PNCT
+6	плита	6 d NOUN,inan,femn,sing,nomn
+7	,	7 d PNCT
+8	холодильник	8 d NOUN,inan,masc,sing,nomn
+9	и	9 d CONJ
+10	посудомоечная	10 d ADJF,femn,sing,nomn
+11	машина	11 d NOUN,inan,femn,sing,nomn
+12	,	12 d PNCT
+13	микроволновая	13 d ADJF,femn,sing,nomn
+14	печь	14 d INFN,impf,tran
+15	,	15 d PNCT
+16	кроме_того	16 d ADVB
+17	пол	17 d NOUN,inan,femn,Fixd,Abbr,sing,nomn
+18	на	18 d PREP
+19	кухне	19 d NOUN,inan,femn,sing,loct
+20	с	20 d PREP
+21	подогревом	21 d NOUN,inan,masc,sing,ablt
+22	(	22 d PNCT
+23	будут	23 d VERB,impf,intr,plur,3per,futr,indc
+24	шторки	24 d NOUN,inan,femn,sing,gent
+25	.	25 d PNCT
+26	)	26 d PNCT
+/sent
+sent
+0	сумма	0 d NOUN,inan,femn,sing,nomn
+1	аренды	1 d NOUN,inan,femn,sing,gent
+2	не	2 d PRCL
+3	включает	3 d VERB,impf,tran,sing,3per,pres,indc
+4	в	4 d PREP
+5	себя	5 d NPRO,Anph,sing,accs
+6	коммунальные	6 d ADJF,plur,nomn
+7	услуги	7 d NOUN,inan,femn,sing,gent
+8	!	8 d PNCT
+/sent
+sent
+0	мы	0 d NPRO,1per,plur,nomn
+1	изменяем	1 d VERB,impf,intr,plur,1per,pres,indc
+2	себя	2 d NPRO,Anph,sing,accs
+3	в_основном	3 d ADJF,Qual,masc,sing,loct
+4	по	4 d PREP
+5	одной	5 d ADJF,Apro,femn,sing,gent
+6	из	6 d PREP
+7	двух	7 d NUMR,masc,gent
+8	причин	8 d NOUN,inan,femn,plur,gent
+9	—	9 d PNCT
+10	вдохновение	10 d NOUN,inan,neut,sing,accs
+11	или	11 d CONJ
+12	отчаяние	12 d NOUN,inan,neut,sing,nomn
+13	.	13 d PNCT
+/sent
+sent
+0	спасибо	0 d PRCL
+1	,	1 d PNCT
+2	очень	2 d ADVB
+3	дельные	3 d ADJF,Qual,plur,nomn
+4	советы	4 d NOUN,inan,masc,plur,accs
+5	,	5 d PNCT
+6	особенно	6 d ADVB
+7	для	7 d PREP
+8	начинающих	8 d ADJF,Subx,plur,gent
+9	,	9 d PNCT
+10	в	10 d PREP
+11	частности	11 d NOUN,inan,femn,sing,loct
+12	для	12 d PREP
+13	меня	13 d NPRO,1per,sing,accs
+14	.	14 d PNCT
+/sent
+sent
+0	отдельное	0 d ADJF,Qual,neut,sing,nomn
+1	спасибо	1 d INTJ
+2	наталье	2 d NOUN,anim,femn,Name,sing,loct
+3	зиминой	3 d NOUN,inan,femn,sing,ablt
+4	за	4 d PREP
+5	подробное	5 d ADJF,neut,sing,nomn
+6	описание	6 d NOUN,inan,neut,sing,accs
+7	своих	7 d ADJF,Apro,Anph,plur,gent
+8	работ	8 d NOUN,inan,femn,plur,gent
+9	.	9 d PNCT
+/sent
+sent
+0	единственный	0 d ADJF,inan,masc,sing,accs
+1	сквер	1 d NOUN,inan,masc,sing,nomn
+2	в	2 d PREP
+3	саяногорске	3 d NOUN,inan,masc,Geox,sing,loct
+4	получил	4 d VERB,perf,tran,masc,sing,past,indc
+5	имя	5 d NOUN,inan,neut,sing,accs
+6	первого	6 d NOUN,inan,neut,sing,gent
+7	директора	7 d NOUN,anim,masc,plur,nomn
+8	завода	8 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	стукну	0 d VERB,perf,tran,sing,1per,futr,indc
+1	вам	1 d NPRO,2per,plur,datv
+2	в	2 d PREP
+3	любой	3 d NOUN,anim,femn,Name,sing,ablt
+4	корабль	4 d NOUN,inan,masc,sing,nomn
+5	за	5 d PREP
+6	20	6 d NUMB,intg
+7	любых	7 d ADJF,Apro,plur,gent
+8	коллекций	8 d NOUN,inan,femn,plur,gent
+9	,	9 d PNCT
+10	с	10 d PREP
+11	вами	11 d NPRO,2per,plur,ablt
+12	не	12 d PRCL
+13	плыву	13 d VERB,impf,intr,sing,1per,pres,indc
+/sent
+sent
+0	истинная	0 d ADJF,Qual,femn,sing,nomn
+1	сила	1 d NOUN,inan,femn,sing,nomn
+2	заложена	2 d PRTS,perf,past,pssv,femn,sing
+3	в	3 d PREP
+4	женском	4 d ADJF,neut,sing,loct
+5	молчании	5 d NOUN,inan,neut,sing,loct
+6	.	6 d PNCT
+/sent
+sent
+0	вы	0 d NPRO,2per,plur,nomn
+1	не	1 d PRCL
+2	представляете	2 d VERB,impf,tran,plur,2per,pres,indc
+3	...	3 d PNCT
+4	какие	4 d ADJF,Apro,plur,nomn
+5	вулканы	5 d NOUN,inan,masc,plur,nomn
+6	порой	6 d ADVB
+7	извергаются	7 d VERB,impf,intr,plur,3per,pres,indc
+8	,	8 d PNCT
+9	пока	9 d CONJ
+10	молчит	10 d VERB,impf,intr,sing,3per,pres,indc
+11	женщина	11 d NOUN,anim,femn,sing,nomn
+12	...	12 d PNCT
+/sent
+sent
+0	теннисисты	0 d NOUN,anim,masc,plur,nomn
+1	хакасии	1 d NOUN,inan,femn,Sgtm,Geox,sing,gent
+2	стали	2 d VERB,perf,intr,plur,past,indc
+3	победителями	3 d NOUN,anim,masc,plur,ablt
+4	чемпионата	4 d NOUN,inan,masc,sing,gent
+5	россии	5 d NOUN,inan,femn,Sgtm,Geox,sing,gent
+/sent
+sent
+0	мне	0 d NPRO,1per,sing,datv
+1	часто	1 d ADVB
+2	в	2 d PREP
+3	детстве	3 d NOUN,inan,neut,sing,loct
+4	говорили	4 d VERB,impf,tran,plur,past,indc
+5	,	5 d PNCT
+6	что	6 d CONJ
+7	я	7 d NPRO,1per,sing,nomn
+8	очень	8 d ADVB
+9	добрая	9 d ADJF,Qual,femn,sing,nomn
+10	и	10 d CONJ
+11	милая	11 d ADJF,Subx,Qual,femn,sing,nomn
+12	девочка	12 d NOUN,anim,femn,sing,nomn
+13	...	13 d PNCT
+/sent
+sent
+0	конверт	0 d NOUN,inan,masc,sing,nomn
+1	на	1 d PREP
+2	выписку	2 d NOUN,inan,femn,sing,accs
+3	и	3 d CONJ
+4	прогулку	4 d NOUN,inan,femn,sing,accs
+5	для	5 d PREP
+6	малыша	6 d NOUN,anim,masc,sing,gent
+7	0-3	7 d UNKN
+8	месяца	8 d NOUN,inan,masc,sing,gent
+9	.	9 d PNCT
+/sent
+sent
+0	больше	0 d ADVB
+1	всего	1 d ADVB
+2	в	2 d PREP
+3	жизни	3 d NOUN,inan,femn,sing,gent
+4	ненавижу	4 d VERB,impf,tran,sing,1per,pres,indc
+5	,	5 d PNCT
+6	когда	6 d CONJ
+7	мне	7 d NPRO,1per,sing,datv
+8	врут	8 d VERB,impf,tran,plur,3per,pres,indc
+9	.	9 d PNCT
+/sent
+sent
+0	жажда	0 d NOUN,inan,femn,sing,nomn
+1	живого	1 d NOUN,anim,masc,sing,gent
+2	общения	2 d NOUN,inan,neut,sing,gent
+3	,	3 d PNCT
+4	порождённая	4 d PRTF,perf,tran,past,pssv,femn,sing,nomn
+5	в_основном	5 d ADJF,Qual,masc,sing,loct
+6	индивидуальной	6 d ADJF,femn,sing,gent
+7	психологической	7 d ADJF,femn,sing,gent
+8	изоляцией	8 d NOUN,inan,femn,sing,ablt
+9	индивидуума	9 d NOUN,anim,masc,sing,gent
+10	(	10 d PNCT
+11	лучше	11 d PRCL
+12	сформулировать	12 d INFN,perf,tran
+13	не	13 d PRCL
+14	получилось	14 d VERB,perf,intr,neut,sing,past,indc
+15	,	15 d PNCT
+16	)	16 d PNCT
+17	порождает	17 d VERB,impf,tran,sing,3per,pres,indc
+18	таких	18 d ADJF,Apro,plur,gent
+19	тварей	19 d NOUN,anim,femn,plur,gent
+20	,	20 d PNCT
+21	как	21 d CONJ
+22	"	22 d PNCT
+23	мастер-классы	23 d NOUN,inan,masc,plur,nomn
+24	по	24 d PREP
+25	.	25 d PNCT
+26	.	26 d PNCT
+27	.	27 d PNCT
+28	.	28 d PNCT
+29	"	29 d PNCT
+/sent
+sent
+0	короче	0 d CONJ,Prnt
+1	:	1 d PNCT
+2	столько	2 d CONJ
+3	-	3 d PNCT
+4	то	4 d CONJ
+5	"	5 d PNCT
+6	я	6 d NPRO,1per,sing,nomn
+7	как	7 d CONJ
+8	я	8 d NPRO,1per,sing,nomn
+9	,	9 d PNCT
+10	"	10 d PNCT
+11	остальное	11 d ADJF,Apro,neut,sing,accs
+12	"	12 d PNCT
+13	я	13 d NPRO,1per,sing,nomn
+14	как	14 d CONJ
+15	мы	15 d NPRO,1per,plur,nomn
+16	,	16 d PNCT
+17	"	17 d PNCT
+18	а	18 d CONJ
+19	если	19 d CONJ
+20	только	20 d PRCL
+21	первое	21 d NOUN,inan,neut,sing,nomn
+22	,	22 d PNCT
+23	то	23 d CONJ
+24	это	24 d PRCL
+25	—	25 d PNCT
+26	привет	26 d NOUN,inan,masc,sing,nomn
+27	психические	27 d ADJF,plur,nomn
+28	расстройства	28 d NOUN,inan,neut,sing,gent
+29	.	29 d PNCT
+/sent
+sent
+0	жажда	0 d NOUN,inan,femn,sing,nomn
+1	живого	1 d NOUN,anim,masc,sing,gent
+2	общения	2 d NOUN,inan,neut,sing,gent
+3	плодит	3 d VERB,impf,tran,sing,3per,pres,indc
+4	сущности	4 d NOUN,inan,femn,sing,loct
+5	,	5 d PNCT
+6	но	6 d CONJ
+7	признаться	7 d CONJ,Prnt
+8	себе	8 d NPRO,Anph,sing,datv
+9	в	9 d PREP
+10	"	10 d PNCT
+11	себе	11 d PRCL
+12	"	12 d PNCT
+13	патологически	13 d ADVB
+14	не	14 d PRCL
+15	может	15 d VERB,impf,intr,sing,3per,pres,indc
+16	!	16 d PNCT
+/sent
+sent
+0	как_если_бы	0 d NOUN,inan,masc,Orgn,plur,nomn
+1	это	1 d PRCL
+2	было	2 d PRCL
+3	бы	3 d PRCL
+4	очень	4 d ADVB
+5	стыдно	5 d ADVB
+6	.	6 d PNCT
+/sent
+sent
+0	у	0 d PREP
+1	кого-то	1 d NPRO,masc,sing,accs
+2	они	2 d NPRO,3per,Anph,plur,nomn
+3	отсутствуют	3 d VERB,impf,intr,plur,3per,pres,indc
+4	вовсе	4 d ADVB
+5	.	5 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	мастер-класс	1 d NOUN,inan,masc,sing,nomn
+2	по	2 d PREP
+3	вязанию	3 d NOUN,inan,neut,sing,datv
+4	на	4 d PREP
+5	спицах	5 d NOUN,inan,femn,plur,loct
+6	"	6 d PNCT
+7	плюс	7 d CONJ
+8	к	8 d PREP
+9	этому	9 d NPRO,neut,sing,datv
+10	"	10 d PNCT
+11	мастер-класс	11 d NOUN,inan,masc,sing,nomn
+12	по	12 d PREP
+13	пиар-менеджменту	13 d NOUN,inan,masc,sing,datv
+14	"	14 d PNCT
+15	как_бы	15 d NOUN,inan,masc,Orgn,plur,nomn
+16	намекают	16 d VERB,impf,intr,plur,3per,pres,indc
+17	:	17 d PNCT
+18	свяжете	18 d VERB,perf,tran,plur,2per,futr,indc
+19	и	19 d CONJ
+20	продадите	20 d VERB,perf,tran,plur,2per,futr,indc
+21	!	21 d PNCT
+/sent
+sent
+0	вот	0 d PRCL
+1	это	1 d PRCL
+2	был	2 d VERB,impf,intr,masc,sing,past,indc
+3	бы	3 d PRCL
+4	космос	4 d NOUN,inan,masc,sing,accs
+5	!	5 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	понимаю	1 d VERB,impf,tran,sing,1per,pres,indc
+2	,	2 d PNCT
+3	как	3 d CONJ
+4	можно	4 d PRED,pres
+5	ничего	5 d NPRO,neut,sing,gent
+6	не	6 d PRCL
+7	чувствовать	7 d INFN,impf,tran
+8	к	8 d PREP
+9	человеку	9 d NOUN,anim,masc,sing,datv
+10	,	10 d PNCT
+11	которому	11 d ADJF,Apro,Subx,Anph,masc,sing,datv
+12	ты	12 d NPRO,2per,sing,nomn
+13	писал	13 d VERB,impf,tran,masc,sing,past,indc
+14	,	14 d PNCT
+15	говорил	15 d VERB,impf,tran,masc,sing,past,indc
+16	эти	16 d ADJF,Apro,Subx,Anph,plur,nomn
+17	три	17 d NUMR,inan,accs
+18	священных	18 d ADJF,Qual,plur,gent
+19	слова	19 d NOUN,inan,neut,sing,gent
+20	.	20 d PNCT
+/sent
+sent
+0	ведь	0 d CONJ
+1	,	1 d PNCT
+2	либо	2 d CONJ
+3	ты	3 d NPRO,2per,sing,nomn
+4	не	4 d PRCL
+5	любил	5 d VERB,impf,tran,masc,sing,past,indc
+6	,	6 d PNCT
+7	либо	7 d CONJ
+8	врал	8 d VERB,impf,tran,masc,sing,past,indc
+9	,	9 d PNCT
+10	что	10 d CONJ
+11	любил	11 d VERB,impf,tran,masc,sing,past,indc
+12	.	12 d PNCT
+/sent
+sent
+0	разве	0 d CONJ
+1	можно	1 d PRED,pres
+2	разлюбить	2 d INFN,perf,tran
+3	того	3 d ADJF,Apro,Subx,Anph,neut,sing,gent
+4	,	4 d PNCT
+5	к	5 d PREP
+6	которому	6 d ADJF,Apro,Subx,Anph,masc,sing,datv
+7	у	7 d PREP
+8	тебя	8 d NPRO,2per,sing,accs
+9	были	9 d VERB,impf,intr,plur,past,indc
+10	искренние	10 d ADJF,Qual,plur,nomn
+11	чувства	11 d NOUN,inan,neut,sing,gent
+12	,	12 d PNCT
+13	которому	13 d ADJF,Apro,Subx,Anph,masc,sing,datv
+14	ты	14 d NPRO,2per,sing,nomn
+15	говорил	15 d VERB,impf,tran,masc,sing,past,indc
+16	,	16 d PNCT
+17	что	17 d CONJ
+18	ты	18 d NPRO,2per,sing,nomn
+19	его	19 d NPRO,masc,3per,Anph,sing,accs
+20	любишь	20 d VERB,impf,tran,sing,2per,pres,indc
+21	.	21 d PNCT
+/sent
+sent
+0	объясните	0 d VERB,perf,tran,plur,2per,futr,indc
+1	мне	1 d NPRO,1per,sing,datv
+2	,	2 d PNCT
+3	как	3 d CONJ
+4	после	4 d ADVB
+5	всего	5 d ADVB
+6	этого	6 d NPRO,neut,sing,gent
+7	,	7 d PNCT
+8	можно	8 d PRED,pres
+9	верить	9 d INFN,impf,intr
+10	людям	10 d NOUN,anim,masc,plur,datv
+11	,	11 d PNCT
+12	которые	12 d ADJF,Apro,Subx,Anph,plur,nomn
+13	говорят	13 d CONJ,Prnt
+14	,	14 d PNCT
+15	что	15 d CONJ
+16	они	16 d NPRO,3per,Anph,plur,nomn
+17	любят	17 d VERB,impf,tran,plur,3per,pres,indc
+18	тебя	18 d NPRO,2per,sing,accs
+19	,	19 d PNCT
+20	в	20 d PREP
+21	сотый	21 d ADJF,Anum,inan,masc,sing,accs
+22	раз	22 d NOUN,inan,masc,sing,accs
+23	.	23 d PNCT
+/sent
+sent
+0	иногда	0 d ADVB
+1	этот	1 d ADJF,Apro,Subx,Anph,inan,masc,sing,accs
+2	мир	2 d NOUN,inan,masc,sing,accs
+3	отстой	3 d NOUN,inan,masc,sing,nomn
+4	,	4 d PNCT
+5	так_что	5 d ADVB,Ques
+6	я	6 d NPRO,1per,sing,nomn
+7	ухожу	7 d VERB,perf,tran,sing,1per,futr,indc
+8	в	8 d PREP
+9	свой	9 d ADJF,Apro,Anph,inan,masc,sing,accs
+10	.	10 d PNCT
+/sent
+sent
+0	все	0 d ADVB
+1	дело	1 d NOUN,inan,neut,sing,nomn
+2	в	2 d PREP
+3	нежелании	3 d NOUN,inan,neut,sing,loct
+4	каждого	4 d ADJF,Apro,neut,sing,gent
+5	:	5 d PNCT
+/sent
+sent
+0	начиная	0 d GRND,impf,tran,pres
+1	с	1 d PREP
+2	малого	2 d NOUN,inan,neut,sing,gent
+3	все	3 d ADJF,Apro,plur,nomn
+4	это	4 d PRCL
+5	перерастает	5 d VERB,impf,intr,sing,3per,pres,indc
+6	в	6 d PREP
+7	большее	7 d ADJF,neut,sing,nomn
+8	и	8 d CONJ
+9	становиться	9 d INFN,impf,intr
+10	нашей	10 d ADJF,Apro,femn,sing,gent
+11	частью	11 d ADVB
+12	,	12 d PNCT
+13	сущностью	13 d NOUN,inan,femn,sing,ablt
+14	.	14 d PNCT
+/sent
+sent
+0	поэтому	0 d ADVB
+1	люди	1 d NOUN,anim,masc,plur,nomn
+2	перестают	2 d VERB,impf,intr,plur,3per,pres,indc
+3	доверять	3 d INFN,impf,tran
+4	,	4 d PNCT
+5	ищут	5 d VERB,impf,tran,plur,3per,pres,indc
+6	подводные	6 d ADJF,Qual,plur,nomn
+7	камни	7 d NOUN,inan,masc,plur,nomn
+8	,	8 d PNCT
+9	и	9 d CONJ
+10	что	10 d PRCL
+11	самое	11 d ADJF,Apro,neut,sing,nomn
+12	грустное	12 d ADJF,Qual,neut,sing,nomn
+13	ведь	13 d CONJ
+14	находят	14 d VERB,perf,tran,plur,3per,futr,indc
+15	.	15 d PNCT
+/sent
+sent
+0	только	0 d CONJ
+1	вот	1 d PRCL
+2	камень	2 d NOUN,inan,masc,sing,nomn
+3	этот	3 d ADJF,Apro,Subx,Anph,inan,masc,sing,accs
+4	—	4 d PNCT
+5	это	5 d PRCL
+6	ты	6 d NPRO,2per,sing,nomn
+7	сам	7 d ADJF,Apro,masc,sing,nomn
+8	!	8 d PNCT
+/sent
+sent
+0	выскажусь	0 d VERB,perf,intr,sing,1per,futr,indc
+1	искажёнными	1 d ADJF,Qual,plur,ablt
+2	словами	2 d NOUN,inan,neut,plur,ablt
+3	одного	3 d ADJF,Apro,neut,sing,gent
+4	автора	4 d NOUN,anim,masc,sing,gent
+5	,	5 d PNCT
+6	которого	6 d ADJF,Apro,Subx,Anph,neut,sing,gent
+7	часто	7 d ADVB
+8	никто	8 d NPRO,sing,nomn
+9	читать	9 d INFN,impf,tran
+10	не	10 d PRCL
+11	хочет	11 d VERB,impf,tran,sing,3per,pres,indc
+12	:	12 d PNCT
+13	"	13 d PNCT
+14	левиафан	14 d NOUN,anim,masc,sing,nomn
+15	в	15 d PREP
+16	головах	16 d NOUN,inan,femn,plur,loct
+17	!	17 d PNCT
+18	"	18 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	пора	1 d NOUN,inan,femn,sing,nomn
+2	ли	2 d PRCL
+3	просыпаться	3 d INFN,impf,intr
+4	господа	4 d NOUN,anim,masc,plur,nomn
+5	?	5 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	комплект	1 d NOUN,inan,masc,sing,nomn
+2	входит	2 d VERB,impf,intr,sing,3per,pres,indc
+3	:	3 d PNCT
+4	комбинезон	4 d NOUN,inan,masc,sing,nomn
+5	,	5 d PNCT
+6	шапка	6 d NOUN,inan,femn,sing,nomn
+7	,	7 d PNCT
+8	варежки	8 d NOUN,inan,femn,sing,gent
+9	,	9 d PNCT
+10	пинетки	10 d NOUN,inan,femn,sing,gent
+11	,	11 d PNCT
+12	слюнявчик	12 d NOUN,inan,masc,sing,nomn
+/sent
+sent
+0	мимо	0 d PREP
+1	проходит	1 d VERB,impf,tran,sing,3per,pres,indc
+2	муж	2 d NOUN,anim,masc,sing,nomn
+3	и	3 d CONJ
+4	стыдит	4 d VERB,impf,tran,sing,3per,pres,indc
+5	сына	5 d NOUN,anim,masc,sing,gent
+6	:	6 d PNCT
+/sent
+sent
+0	ответ	0 d NOUN,inan,masc,sing,accs
+1	не	1 d PRCL
+2	заставил	2 d VERB,perf,tran,masc,sing,past,indc
+3	себя	3 d NPRO,Anph,sing,accs
+4	ждать	4 d INFN,impf,tran
+5	:	5 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	ой	1 d INTJ
+2	-	2 d PNCT
+3	ой	3 d INTJ
+4	-	4 d PNCT
+5	ой	5 d INTJ
+6	,	6 d PNCT
+7	а	7 d CONJ
+8	сам	8 d ADJF,Apro,masc,sing,nomn
+9	-	9 d PNCT
+10	то	10 d CONJ
+11	с	11 d PREP
+12	мамой	12 d NOUN,anim,femn,sing,ablt
+13	спишь	13 d VERB,impf,intr,sing,2per,pres,indc
+14	каждый	14 d ADJF,Apro,inan,masc,sing,accs
+15	день	15 d NOUN,inan,masc,sing,accs
+16	,	16 d PNCT
+17	как	17 d CONJ
+18	маленький	18 d ADJF,Qual,masc,sing,nomn
+19	!	19 d PNCT
+/sent
+sent
+0	мечты	0 d NOUN,inan,femn,sing,gent
+1	же	1 d PRCL
+2	сильных	2 d ADJF,Qual,plur,gent
+3	—	3 d PNCT
+4	формируют	4 d VERB,impf,tran,plur,3per,pres,indc
+5	действительность	5 d NOUN,inan,femn,sing,accs
+6	.	6 d PNCT
+/sent
+sent
+0	20	0 d NUMB,intg
+1	открыток	1 d NOUN,inan,femn,plur,gent
+2	о	2 d PREP
+3	непостижимой	3 d ADJF,Qual,femn,sing,gent
+4	женской	4 d ADJF,femn,sing,gent
+5	сущности	5 d NOUN,inan,femn,sing,loct
+/sent
+sent
+0	женщины	0 d NOUN,anim,femn,plur,nomn
+1	—	1 d PNCT
+2	прекрасные	2 d ADJF,Qual,plur,nomn
+3	,	3 d PNCT
+4	непредсказуемые	4 d ADJF,plur,nomn
+5	и	5 d CONJ
+6	восхитительные	6 d ADJF,Qual,plur,nomn
+7	существа	7 d NOUN,inan,neut,sing,gent
+8	,	8 d PNCT
+9	которые	9 d ADJF,Apro,Subx,Anph,plur,nomn
+10	способны	10 d ADJS,Qual,plur
+11	удивлять	11 d INFN,impf,tran
+12	даже	12 d PRCL
+13	самих	13 d ADJF,Apro,plur,gent
+14	себя	14 d NPRO,Anph,sing,accs
+15	,	15 d PNCT
+16	что	16 d CONJ
+17	уж	17 d ADVB
+18	говорить	18 d INFN,impf,tran
+19	об	19 d PREP,Vpre
+20	остальной	20 d ADJF,Apro,masc,sing,nomn
+21	части	21 d NOUN,inan,femn,sing,gent
+/sent
+sent
+0	в	0 d PREP
+1	пути	1 d NOUN,inan,masc,sing,loct
+2	,	2 d PNCT
+3	приедет	3 d VERB,perf,intr,sing,3per,futr,indc
+4	31	4 d NUMB,intg
+5	апреля	5 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	можно	0 d PRED,pres
+1	бронировать	1 d INFN,perf,tran
+2	и	2 d CONJ
+3	сразу	3 d ADVB
+4	оплачивать	4 d INFN,impf,tran
+/sent
+sent
+0	достоинство	0 d NOUN,inan,neut,sing,accs
+1	мужчины	1 d NOUN,anim,masc,plur,nomn
+2	не	2 d PRCL
+3	в	3 d PREP
+4	деньгах	4 d NOUN,inan,femn,plur,loct
+5	,	5 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	в	1 d PREP
+2	красоте	2 d NOUN,inan,femn,sing,datv
+3	и	3 d CONJ
+4	даже	4 d PRCL
+5	не	5 d PRCL
+6	в	6 d PREP
+7	словах	7 d NOUN,inan,neut,plur,loct
+8	,	8 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	в	1 d PREP
+2	понимании	2 d NOUN,inan,neut,sing,loct
+3	того	3 d ADJF,Apro,Subx,Anph,neut,sing,gent
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	есть	6 d INTJ
+7	на	7 d PRCL
+8	свете	8 d NOUN,inan,masc,Sgtm,sing,loct
+/sent
+sent
+0	его	0 d NPRO,masc,3per,Anph,sing,accs
+1	семья	1 d NOUN,inan,femn,sing,nomn
+2	,	2 d PNCT
+3	и	3 d CONJ
+4	он	4 d NPRO,masc,3per,Anph,sing,nomn
+5	за	5 d PREP
+6	всех	6 d ADJF,Apro,plur,gent
+7	в	7 d PREP
+8	ответе	8 d NOUN,inan,masc,sing,loct
+9	.	9 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	ждите	1 d VERB,impf,tran,plur,impr,excl
+2	чуда	2 d NOUN,inan,neut,sing,gent
+3	,	3 d PNCT
+4	чудите	4 d VERB,impf,intr,plur,2per,pres,indc
+5	сами	5 d ADJF,Apro,plur,nomn
+6	.	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	бегите	1 d VERB,perf,intr,plur,impr,excl
+2	,	2 d PNCT
+3	бегите	3 d VERB,perf,intr,plur,impr,excl
+4	от	4 d PREP
+5	пессимистов	5 d NOUN,anim,masc,plur,gent
+6	,	6 d PNCT
+7	скептиков	7 d NOUN,anim,masc,plur,gent
+8	,	8 d PNCT
+9	нытиков	9 d NOUN,anim,masc,plur,gent
+10	.	10 d PNCT
+11	)	11 d PNCT
+12	.	12 d PNCT
+13	.	13 d PNCT
+14	.	14 d PNCT
+15	@	15 d PNCT
+/sent
+sent
+0	выращивай	0 d VERB,impf,tran,sing,impr,excl
+1	пшеницу	1 d NOUN,inan,femn,sing,accs
+2	,	2 d PNCT
+3	если	3 d CONJ
+4	ты	4 d NPRO,2per,sing,nomn
+5	агроном	5 d NOUN,anim,masc,sing,nomn
+6	,	6 d PNCT
+7	борись	7 d VERB,impf,intr,sing,impr,excl
+8	за	8 d PREP
+9	большую	9 d ADJF,Qual,femn,sing,accs
+10	правду	10 d NOUN,inan,femn,sing,accs
+11	,	11 d PNCT
+12	за	12 d PREP
+13	добро	13 d ADVB
+14	и	14 d PRCL
+15	справедливость	15 d NOUN,inan,femn,sing,accs
+16	,	16 d PNCT
+17	если	17 d CONJ
+18	ты	18 d NPRO,2per,sing,nomn
+19	писатель	19 d NOUN,anim,masc,sing,nomn
+20	.	20 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	не	1 d PRCL
+2	оправдывай	2 d VERB,impf,tran,sing,impr,excl
+3	себя	3 d NPRO,Anph,sing,accs
+4	,	4 d PNCT
+5	если	5 d CONJ
+6	сделаешь	6 d VERB,perf,tran,sing,2per,futr,indc
+7	плохо	7 d PRED,pres
+8	.	8 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	могу	1 d VERB,impf,intr,sing,1per,pres,indc
+2	вам	2 d NPRO,2per,plur,datv
+3	создать	3 d INFN,perf,tran
+4	счастье	4 d NOUN,inan,neut,sing,nomn,V-be
+/sent
+sent
+0	помню	0 d VERB,impf,tran,sing,1per,pres,indc
+1	и	1 d CONJ
+2	никогда	2 d ADVB
+3	не	3 d PRCL
+4	забуду	4 d VERB,perf,tran,sing,1per,futr,indc
+5	!	5 d PNCT
+/sent
+sent
+0	послушай	0 d VERB,perf,tran,sing,impr,excl
+1	эту	1 d ADJF,Apro,Subx,Anph,femn,sing,accs
+2	богиню	2 d NOUN,anim,femn,sing,accs
+3	и	3 d CONJ
+4	почувствуй	4 d VERB,perf,tran,sing,impr,excl
+5	себя	5 d NPRO,Anph,sing,accs
+6	слизнем	6 d NOUN,anim,masc,sing,ablt
+/sent
+sent
+0	у	0 d PREP
+1	меня	1 d NPRO,1per,sing,accs
+2	болела	2 d VERB,impf,intr,femn,sing,past,indc
+3	голова	3 d NOUN,inan,femn,sing,nomn
+4	)	4 d PNCT
+5	и	5 d CONJ
+6	я	6 d NPRO,1per,sing,nomn
+7	не	7 d PRCL
+8	хотела	8 d VERB,impf,tran,femn,sing,past,indc
+9	фотографироваться	9 d INFN,impf,intr
+10	!	10 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	этом	1 d NPRO,neut,sing,loct
+2	сезоне	2 d NOUN,inan,masc,sing,loct
+3	очень	3 d ADVB
+4	актуальны	4 d ADJS,Qual,plur
+5	!	5 d PNCT
+/sent
+sent
+0	самые	0 d ADJF,Apro,plur,nomn
+1	лучшие	1 d ADJF,Supr,Qual,plur,nomn
+2	акции	2 d NOUN,inan,femn,sing,gent
+3	для	3 d PREP
+4	подружек	4 d NOUN,anim,femn,plur,gent
+5	!	5 d PNCT
+/sent
+sent
+0	!	0 d PNCT
+1	спешите	1 d VERB,impf,intr,plur,2per,pres,indc
+2	записаться	2 d INFN,perf,intr
+3	на	3 d PREP
+4	май	4 d NOUN,inan,masc,Sgtm,sing,nomn
+5	месяц	5 d NOUN,inan,masc,sing,accs
+6	уже	6 d ADVB
+7	сейчас	7 d ADVB
+8	!	8 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	ты	1 d NPRO,2per,sing,nomn
+2	ей	2 d NPRO,femn,3per,Anph,sing,datv
+3	уже	3 d ADVB
+4	сказал	4 d VERB,perf,tran,masc,sing,past,indc
+5	о	5 d PREP
+6	своих	6 d ADJF,Apro,Anph,plur,gent
+7	чувствах	7 d NOUN,inan,neut,plur,loct
+8	?	8 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	нет	1 d PRCL
+2	,	2 d PNCT
+3	у	3 d PREP
+4	неё	4 d NPRO,femn,3per,Anph,sing,gent,Af-p
+5	парень	5 d NOUN,anim,masc,sing,nomn
+6	есть	6 d INTJ
+7	.	7 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	ну	1 d PRCL
+2	ты	2 d NPRO,2per,sing,nomn
+3	подожди	3 d VERB,perf,tran,sing,impr,excl
+4	ещё	4 d ADVB
+5	,	5 d PNCT
+6	у	6 d PREP
+7	неё	7 d NPRO,femn,3per,Anph,sing,gent,Af-p
+8	и	8 d CONJ
+9	дети	9 d NOUN,anim,masc,plur,nomn
+10	будут	10 d VERB,impf,intr,plur,3per,futr,indc
+11	.	11 d PNCT
+/sent
+sent
+0	на	0 d PREP
+1	твоих	1 d ADJF,Apro,plur,gent
+2	ладонях	2 d NOUN,inan,femn,plur,loct
+3	всё	3 d ADJF,Apro,neut,sing,nomn
+4	начертано	4 d PRTS,perf,past,pssv,neut,sing
+5	о	5 d PREP
+6	нас	6 d NPRO,1per,plur,gent
+7	,	7 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	тебя	1 d NPRO,2per,sing,accs
+2	искала	2 d VERB,impf,tran,femn,sing,past,indc
+3	столько	3 d ADVB
+4	раз	4 d ADVB
+5	,	5 d PNCT
+6	столько	6 d CONJ
+7	раз	7 d ADVB
+8	.	8 d PNCT
+/sent
+sent
+0	всё	0 d ADVB
+1	,	1 d PNCT
+2	что	2 d CONJ
+3	ты	3 d NPRO,2per,sing,nomn
+4	захочешь	4 d VERB,perf,tran,sing,2per,futr,indc
+5	,	5 d PNCT
+6	мы	6 d NPRO,1per,plur,nomn
+7	разделим	7 d VERB,perf,tran,plur,1per,futr,indc
+8	пополам	8 d ADVB
+9	,	9 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	тебя	1 d NPRO,2per,sing,accs
+2	нашла	2 d VERB,perf,tran,femn,sing,past,indc
+3	и	3 d CONJ
+4	больше	4 d ADVB
+5	никому	5 d NPRO,sing,datv
+6	не	6 d PRCL
+7	отдам	7 d VERB,perf,tran,sing,1per,futr,indc
+8	.	8 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	смотри	1 d VERB,impf,tran,sing,impr,excl
+2	,	2 d PNCT
+3	какой	3 d ADJF,Apro,femn,sing,gent
+4	урод	4 d NOUN,anim,masc,sing,nomn
+5	—	5 d PNCT
+6	!	6 d PNCT
+7	"	7 d PNCT
+8	сказал	8 d VERB,perf,tran,masc,sing,past,indc
+9	мальчишка	9 d NOUN,anim,masc,sing,nomn
+10	маме	10 d NOUN,anim,femn,sing,datv
+11	,	11 d PNCT
+/sent
+sent
+0	смеясь	0 d GRND,impf,intr,pres
+1	и	1 d CONJ
+2	тыча	2 d GRND,impf,tran,pres
+3	пальцем	3 d NOUN,inan,masc,sing,ablt
+4	в	4 d PREP
+5	лохматого	5 d ADJF,Qual,masc,sing,gent
+6	кота	6 d NOUN,anim,masc,sing,accs
+7	.	7 d PNCT
+/sent
+sent
+0	со	0 d PREP,Vpre
+1	злобой	1 d NOUN,inan,femn,sing,ablt
+2	хохоча	2 d GRND,impf,intr,pres
+3	в	3 d PREP
+4	него	4 d NPRO,masc,3per,Anph,sing,gent,Af-p
+5	он	5 d NPRO,masc,3per,Anph,sing,nomn
+6	кинул	6 d VERB,perf,tran,masc,sing,past,indc
+7	камень	7 d NOUN,inan,masc,sing,nomn
+8	,	8 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	для	1 d PREP
+2	кота	2 d NOUN,anim,masc,sing,accs
+3	давно	3 d ADVB
+4	пропала	4 d VERB,perf,intr,femn,sing,past,indc
+5	доброта	5 d NOUN,inan,femn,sing,nomn
+6	...	6 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	ведь	1 d PRCL
+2	когда-то	2 d ADVB
+3	он	3 d NPRO,masc,3per,Anph,sing,nomn
+4	холеный	4 d ADJF,masc,sing,nomn,Infr
+5	был	5 d VERB,impf,intr,masc,sing,past,indc
+6	и	6 d CONJ
+7	сытый	7 d ADJF,masc,sing,nomn
+/sent
+sent
+0	обыкновенный	0 d ADJF,Qual,masc,sing,nomn
+1	кот	1 d NOUN,anim,masc,sing,nomn
+2	,	2 d PNCT
+3	как	3 d CONJ
+4	многие	4 d NPRO,plur,nomn
+5	вокруг	5 d ADVB
+6	.	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	жил	1 d VERB,impf,intr,masc,sing,past,indc
+2	себе	2 d NPRO,Anph,sing,datv
+3	в	3 d PREP
+4	тепле	4 d NOUN,inan,neut,Sgtm,sing,loct
+5	,	5 d PNCT
+6	от	6 d PREP
+7	зла	7 d NOUN,inan,neut,sing,gent
+8	и	8 d CONJ
+9	бед	9 d NOUN,inan,femn,plur,gent
+10	укрытый	10 d ADJF,Qual,masc,sing,nomn
+11	,	11 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	славный	1 d ADJF,Qual,masc,sing,nomn
+2	человек	2 d NOUN,anim,masc,sing,nomn
+3	был	3 d VERB,impf,intr,masc,sing,past,indc
+4	ему	4 d NPRO,masc,3per,Anph,sing,datv
+5	бог	5 d NOUN,anim,masc,sing,nomn
+6	и	6 d CONJ
+7	друг	7 d NOUN,anim,masc,sing,nomn
+8	.	8 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	жизнь	1 d NOUN,inan,femn,sing,accs
+2	у	2 d PREP
+3	нас	3 d NPRO,1per,plur,gent
+4	одна	4 d ADJF,Apro,femn,sing,nomn
+5	,	5 d PNCT
+6	не	6 d PRCL
+7	девять	7 d NUMR,nomn
+8	,	8 d PNCT
+9	как	9 d CONJ
+10	у	10 d PREP
+11	кошки	11 d NOUN,inan,femn,sing,gent
+12	,	12 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	смерть	1 d NOUN,inan,femn,sing,nomn
+2	вольна	2 d ADJS,Qual,femn,sing
+3	прийти	3 d INFN,perf,intr
+4	в	4 d PREP
+5	любой	5 d NOUN,anim,femn,Name,sing,ablt
+6	тяжёлый	6 d ADJF,Qual,masc,sing,nomn
+7	час	7 d NOUN,inan,masc,sing,accs
+8	.	8 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	вот	1 d PRCL
+2	—	2 d PNCT
+3	бездомный	3 d ADJF,Qual,masc,sing,nomn
+4	кот	4 d NOUN,anim,masc,sing,nomn
+5	,	5 d PNCT
+6	без	6 d PREP
+7	крыши	7 d NOUN,inan,femn,sing,gent
+8	и	8 d CONJ
+9	без	9 d PREP
+10	крошки	10 d NOUN,inan,femn,sing,gent
+11	,	11 d PNCT
+/sent
+sent
+0	под	0 d PREP
+1	взглядами	1 d NOUN,inan,masc,plur,ablt
+2	чужих	2 d NOUN,inan,neut,plur,gent
+3	и	3 d CONJ
+4	равнодушных	4 d ADJF,Qual,plur,gent
+5	глаз	5 d NOUN,inan,masc,plur,gent
+6	.	6 d PNCT
+/sent
+sent
+0	давно	0 d ADVB
+1	свалялась	1 d VERB,perf,intr,femn,sing,past,indc
+2	шерсть	2 d NOUN,inan,femn,sing,nomn
+3	,	3 d PNCT
+4	топорщится	4 d VERB,impf,intr,sing,3per,pres,indc
+5	клоками	5 d NOUN,inan,masc,plur,ablt,Infr
+6	,	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	он	1 d NPRO,masc,3per,Anph,sing,nomn
+2	лишь	2 d PRCL
+3	чудом	3 d ADVB
+4	жив	4 d ADJS,Qual,masc,sing
+5	,	5 d PNCT
+6	побитый	6 d PRTF,perf,tran,past,pssv,masc,sing,nomn
+7	и	7 d CONJ
+8	хромой	8 d NOUN,inan,femn,Sgtm,Geox,sing,ablt
+9	.	9 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	,	1 d PNCT
+2	знаете	2 d CONJ,Prnt
+3	,	3 d PNCT
+4	порой	4 d ADVB
+5	,	5 d PNCT
+6	безлунными	6 d ADJF,Qual,plur,ablt
+7	ночами	7 d NOUN,inan,femn,plur,ablt
+/sent
+sent
+0	по	0 d PREP
+1	улицам	1 d NOUN,inan,femn,plur,datv
+2	бредёт	2 d VERB,impf,intr,sing,3per,pres,indc
+3	,	3 d PNCT
+4	а	4 d CONJ
+5	в	5 d PREP
+6	мыслях	6 d NOUN,inan,femn,plur,loct
+7	сам	7 d ADJF,Apro,masc,sing,nomn
+8	не	8 d PRCL
+9	свой	9 d ADJF,Apro,Anph,inan,masc,sing,accs
+10	.	10 d PNCT
+/sent
+sent
+0	что	0 d CONJ
+1	в	1 d PREP
+2	мыслях	2 d NOUN,inan,femn,plur,loct
+3	у	3 d PREP
+4	кота	4 d NOUN,anim,masc,sing,accs
+5	?	5 d PNCT
+/sent
+sent
+0	хоть	0 d CONJ
+1	мир	1 d NOUN,inan,masc,sing,accs
+2	такой	2 d ADJF,Apro,femn,sing,gent
+3	большой	3 d ADJF,Qual,femn,sing,gent
+4	,	4 d PNCT
+5	а	5 d CONJ
+6	он	6 d NPRO,masc,3per,Anph,sing,nomn
+7	-	7 d PNCT
+8	ничтожно	8 d ADVB
+9	мал	9 d ADJS,Qual,masc,sing
+10	.	10 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	думает	1 d VERB,impf,intr,sing,3per,pres,indc
+2	о	2 d PREP
+3	том	3 d ADJF,Apro,Subx,Anph,neut,sing,loct
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	,	6 d PNCT
+7	если	7 d CONJ
+8	б	8 d PRCL
+9	было	9 d PRCL
+10	можно	10 d PRED,pres
+/sent
+sent
+0	то	0 d CONJ
+1	он	1 d NPRO,masc,3per,Anph,sing,nomn
+2	все	2 d ADJF,Apro,plur,nomn
+3	девять	3 d NUMR,nomn
+4	жизней	4 d NOUN,inan,femn,plur,gent
+5	хозяину	5 d NOUN,anim,masc,sing,datv
+6	отдал	6 d VERB,perf,tran,masc,sing,past,indc
+7	.	7 d PNCT
+/sent
+sent
+0	костюмы	0 d NOUN,inan,masc,plur,accs
+1	—	1 d PNCT
+2	2	2 d NUMB,intg
+3	и	3 d CONJ
+4	3	4 d NUMB,intg
+5	фото	5 d NOUN,inan,neut,Fixd,sing,loct
+6	в	6 d PREP
+7	живую	7 d ADJF,Qual,femn,sing,accs
+8	,	8 d PNCT
+9	кто	9 d NPRO,masc,sing,nomn
+10	ждёт	10 d VERB,impf,tran,sing,3per,pres,indc
+11	.	11 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	вот	1 d PRCL
+2	сколько	2 d CONJ
+3	бы	3 d PRCL
+4	ни	4 d PRCL
+5	было	5 d PRCL
+6	у	6 d PREP
+7	тебя	7 d NPRO,2per,sing,accs
+8	мальчишек	8 d NOUN,anim,masc,plur,gent
+9	,	9 d PNCT
+10	ты	10 d NPRO,2per,sing,nomn
+11	понимаешь	11 d VERB,impf,tran,sing,2per,pres,indc
+12	,	12 d PNCT
+13	что	13 d CONJ
+14	это	14 d PRCL
+15	иллюзия	15 d NOUN,inan,femn,sing,nomn
+16	,	16 d PNCT
+17	настоящие	17 d ADJF,plur,nomn
+18	чувства	18 d NOUN,inan,neut,sing,gent
+19	у	19 d PREP
+20	тебя	20 d NPRO,2per,sing,accs
+21	лишь	21 d PRCL
+22	только	22 d PRCL
+23	к	23 d PREP
+24	нему	24 d NPRO,masc,3per,Anph,sing,datv,Af-p
+25	.	25 d PNCT
+/sent
+sent
+0	один	0 d ADJF,Apro,masc,sing,nomn
+1	,	1 d PNCT
+2	любимый	2 d ADJF,Subx,Qual,masc,sing,nomn
+3	,	3 d PNCT
+4	родной	4 d ADJF,masc,sing,nomn
+5	,	5 d PNCT
+6	но	6 d CONJ
+7	хоть	7 d PRCL
+8	и	8 d PRCL
+9	не	9 d PRCL
+10	твой	10 d ADJF,Apro,masc,sing,nomn
+11	.	11 d PNCT
+/sent
+sent
+0	так	0 d CONJ
+1	хочется	1 d VERB,impf,intr,Impe,sing,pres,indc
+2	взять	2 d INFN,perf,tran
+3	и	3 d CONJ
+4	сказать	4 d INFN,perf,tran
+5	,	5 d PNCT
+6	"	6 d PNCT
+7	ну	7 d PRCL
+8	почему	8 d ADVB,Ques
+9	же	9 d PRCL
+10	мы	10 d NPRO,1per,plur,nomn
+11	не	11 d PRCL
+12	вместе	12 d ADVB
+13	?	13 d PNCT
+14	"	14 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	не	1 d PRCL
+2	хочу	2 d VERB,impf,tran,sing,1per,pres,indc
+3	себя	3 d NPRO,Anph,sing,accs
+4	обманывать	4 d INFN,impf,tran
+5	,	5 d PNCT
+6	я	6 d NPRO,1per,sing,nomn
+7	не	7 d PRCL
+8	хочу	8 d VERB,impf,tran,sing,1per,pres,indc
+9	делать	9 d INFN,impf,tran
+10	себе	10 d NPRO,Anph,sing,datv
+11	больно	11 d ADVB,Prdx
+12	,	12 d PNCT
+13	я	13 d NPRO,1per,sing,nomn
+14	просто	14 d PRCL
+15	хочу	15 d VERB,impf,tran,sing,1per,pres,indc
+16	любить	16 d INFN,impf,tran
+17	,	17 d PNCT
+18	любить	18 d INFN,impf,tran
+19	его	19 d NPRO,masc,3per,Anph,sing,accs
+20	!	20 d PNCT
+/sent
+sent
+0	самая	0 d ADJF,Apro,femn,sing,nomn
+1	большая	1 d ADJF,Qual,femn,sing,nomn
+2	подборка	2 d NOUN,inan,femn,sing,nomn
+3	советских	3 d ADJF,plur,gent
+4	мультфильмов	4 d NOUN,inan,masc,plur,gent
+5	онлайн	5 d ADVB
+6	.	6 d PNCT
+/sent
+sent
+0	порадуй	0 d VERB,perf,tran,sing,impr,excl
+1	своих	1 d ADJF,Apro,Anph,plur,gent
+2	детей	2 d NOUN,anim,masc,plur,gent
+3	и	3 d CONJ
+4	внуков	4 d NOUN,anim,masc,plur,gent
+5	!	5 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	в	1 d PREP
+2	жизни	2 d NOUN,inan,femn,sing,gent
+3	ничего	3 d NPRO,neut,sing,gent
+4	не	4 d PRCL
+5	выигрывала	5 d VERB,impf,tran,femn,sing,past,indc
+6	!	6 d PNCT
+/sent
+sent
+0	кроме	0 d PREP
+1	того	1 d ADJF,Apro,Subx,Anph,neut,sing,gent
+2	раза	2 d NOUN,inan,masc,sing,gent
+3	,	3 d PNCT
+4	когда	4 d CONJ
+5	я	5 d NPRO,1per,sing,nomn
+6	накурилась	6 d VERB,perf,intr,femn,sing,past,indc
+7	и	7 d CONJ
+8	случайно	8 d ADVB
+9	выиграла	9 d VERB,perf,tran,femn,sing,past,indc
+10	конкурс	10 d NOUN,inan,masc,sing,nomn
+11	по	11 d PREP
+12	поеданию	12 d NOUN,inan,neut,Sgtm,sing,datv
+13	хот-догов	13 d NOUN,inan,femn,plur,gent
+14	.	14 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	лишь	1 d PRCL
+2	с	2 d PREP
+3	тобою	3 d NPRO,2per,sing,ablt,V-oy
+4	обещает	4 d VERB,impf,tran,sing,3per,pres,indc
+5	тепло	5 d ADVB,Prdx
+6	.	6 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	быть	1 d INFN,impf,intr
+2	хочу	2 d VERB,impf,tran,sing,1per,pres,indc
+3	твоим	3 d ADJF,Apro,plur,datv
+4	любимым	4 d ADJF,Subx,Qual,masc,sing,ablt
+5	.	5 d PNCT
+/sent
+sent
+0	твоя	0 d ADJF,Apro,femn,sing,nomn
+1	любовь	1 d NOUN,inan,femn,sing,nomn
+2	всё	2 d ADJF,Apro,neut,sing,nomn
+3	что	3 d CONJ
+4	мне	4 d NPRO,1per,sing,datv
+5	надо	5 d PRED,pres
+6	.	6 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	не	1 d PRCL
+2	придумала	2 d VERB,perf,tran,femn,sing,past,indc
+3	названия	3 d NOUN,inan,neut,sing,gent
+4	,	4 d PNCT
+5	прости	5 d VERB,perf,tran,sing,impr,excl
+/sent
+sent
+0	ведь	0 d CONJ
+1	каждый	1 d ADJF,Apro,inan,masc,sing,accs
+2	раз	2 d NOUN,inan,masc,sing,accs
+3	—	3 d PNCT
+4	убийство	4 d NOUN,inan,neut,sing,accs
+5	это	5 d PRCL
+6	.	6 d PNCT
+/sent
+sent
+0	так	0 d CONJ
+1	неужели	1 d PRCL
+2	жалости	2 d NOUN,inan,femn,sing,gent
+3	нет	3 d PRED,pres
+4	в	4 d PREP
+5	сердце	5 d NOUN,inan,neut,sing,nomn
+6	?	6 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	верю	1 d VERB,impf,intr,sing,1per,pres,indc
+2	в	2 d PREP
+3	это	3 d PRCL
+4	я	4 d NPRO,1per,sing,nomn
+5	,	5 d PNCT
+6	прости	6 d VERB,perf,tran,sing,impr,excl
+7	...	7 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	знаю	1 d VERB,impf,tran,sing,1per,pres,indc
+2	,	2 d PNCT
+3	светлее	3 d COMP,Qual
+4	нет	4 d PRED,pres
+5	тебя	5 d NPRO,2per,sing,accs
+6	!	6 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	лишь	1 d PRCL
+2	потерян	2 d ADJS,Qual,masc,sing
+3	,	3 d PNCT
+4	но	4 d CONJ
+5	это	5 d PRCL
+6	не	6 d PRCL
+7	беда	7 d NOUN,inan,femn,sing,nomn
+8	!	8 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	растоплю	1 d VERB,perf,tran,sing,1per,futr,indc
+2	тот	2 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+3	холод	3 d NOUN,inan,masc,sing,nomn
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	в	6 d PREP
+7	тебе	7 d NPRO,2per,sing,datv
+/sent
+sent
+0	все	0 d ADVB
+1	вечно	1 d ADVB
+2	ведёт	2 d VERB,impf,tran,sing,3per,pres,indc
+3	к	3 d PREP
+4	очередной	4 d ADJF,masc,sing,nomn
+5	черте	5 d NOUN,inan,femn,sing,datv
+6	...	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	буду	1 d VERB,impf,intr,sing,1per,futr,indc
+2	по	2 d PREP
+3	пятам	3 d NOUN,inan,femn,plur,datv
+4	ходить	4 d INFN,impf,intr
+/sent
+sent
+0	и	0 d CONJ
+1	буду	1 d VERB,impf,intr,sing,1per,futr,indc
+2	каждый	2 d ADJF,Apro,inan,masc,sing,accs
+3	шаг	3 d NOUN,inan,masc,sing,nomn
+4	смирять	4 d INFN,impf,tran
+5	.	5 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	будешь	1 d VERB,impf,intr,sing,2per,futr,indc
+2	станом	2 d NOUN,inan,masc,sing,ablt
+3	для	3 d PREP
+4	меня	4 d NPRO,1per,sing,accs
+5	,	5 d PNCT
+/sent
+sent
+0	орудием	0 d NOUN,inan,neut,sing,ablt
+1	и	1 d CONJ
+2	крылом	2 d NOUN,inan,neut,sing,ablt
+3	пребуду	3 d VERB,perf,intr,sing,1per,futr,indc
+4	я	4 d NPRO,1per,sing,nomn
+5	!	5 d PNCT
+/sent
+sent
+0	спасёт	0 d VERB,perf,tran,sing,3per,futr,indc
+1	от	1 d PREP
+2	собственных	2 d ADJF,plur,gent
+3	ужасных	3 d ADJF,Qual,plur,gent
+4	глаз	4 d NOUN,inan,masc,plur,gent
+5	.	5 d PNCT
+/sent
+sent
+0	пойду	0 d VERB,perf,intr,sing,1per,futr,indc
+1	за	1 d PREP
+2	край	2 d NOUN,inan,masc,sing,nomn
+3	лишь	3 d PRCL
+4	за	4 d PREP
+5	тобой	5 d NPRO,2per,sing,ablt
+6	,	6 d PNCT
+/sent
+sent
+0	ведь	0 d CONJ
+1	и	1 d PRCL
+2	я	2 d NPRO,1per,sing,nomn
+3	была	3 d VERB,impf,intr,femn,sing,past,indc
+4	такой	4 d ADJF,Apro,femn,sing,gent
+5	:	5 d PNCT
+/sent
+sent
+0	была	0 d VERB,impf,intr,femn,sing,past,indc
+1	потеряна	1 d PRTS,perf,past,pssv,femn,sing
+2	и	2 d CONJ
+3	не	3 d PRCL
+4	жива	4 d ADJS,Qual,femn,sing
+/sent
+sent
+0	пока	0 d CONJ
+1	твой	1 d ADJF,Apro,masc,sing,nomn
+2	образ	2 d NOUN,inan,masc,sing,nomn
+3	не	3 d PRCL
+4	увидела	4 d VERB,perf,tran,femn,sing,past,indc
+5	.	5 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	покажу	1 d VERB,perf,tran,sing,1per,futr,indc
+2	тебе	2 d NPRO,2per,sing,datv
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	есть	5 d INTJ
+/sent
+sent
+0	не	0 d PRCL
+1	только	1 d PRCL
+2	крови	2 d NOUN,inan,femn,sing,gent
+3	поединков	3 d NOUN,inan,masc,plur,gent
+4	сеть	4 d NOUN,inan,femn,sing,nomn
+5	,	5 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	только	1 d PRCL
+2	лишь	2 d PRCL
+3	жестокости	3 d NOUN,inan,femn,sing,gent
+4	огонь	4 d NOUN,inan,masc,sing,nomn
+5	,	5 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	и	1 d PRCL
+2	ласковой	2 d ADJF,Qual,femn,sing,gent
+3	воды	3 d NOUN,inan,femn,sing,gent
+4	покой	4 d VERB,impf,tran,sing,impr,excl
+5	.	5 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	нужно	1 d PRED,pres
+2	гнаться	2 d INFN,impf,intr
+3	так	3 d CONJ
+4	за	4 d PREP
+5	силой	5 d ADVB
+6	.	6 d PNCT
+/sent
+sent
+0	прошу	0 d VERB,impf,tran,sing,1per,pres,indc
+1	,	1 d PNCT
+2	не	2 d PRCL
+3	будь	3 d VERB,impf,intr,sing,impr,excl
+4	ты	4 d NPRO,2per,sing,nomn
+5	так	5 d CONJ
+6	жесток	6 d ADJS,Qual,masc,sing
+7	.	7 d PNCT
+/sent
+sent
+0	однако	0 d INTJ
+1	,	1 d PNCT
+2	продолжу	2 d VERB,perf,tran,sing,1per,futr,indc
+3	быть	3 d INFN,impf,intr
+4	такой	4 d ADJF,Apro,femn,sing,gent
+5	же	5 d PRCL
+6	милой	6 d NOUN,anim,femn,Name,sing,ablt
+7	,	7 d PNCT
+/sent
+sent
+0	даже	0 d CONJ
+1	если	1 d CONJ
+2	не	2 d PRCL
+3	прекратится	3 d VERB,perf,intr,sing,3per,futr,indc
+4	холода	4 d NOUN,inan,masc,sing,gent
+5	поток	5 d NOUN,inan,masc,sing,accs
+6	.	6 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	знаю	1 d VERB,impf,tran,sing,1per,pres,indc
+2	,	2 d PNCT
+3	светлее	3 d COMP,Qual
+4	нет	4 d PRED,pres
+5	тебя	5 d NPRO,2per,sing,accs
+6	!	6 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	лишь	1 d PRCL
+2	потерян	2 d ADJS,Qual,masc,sing
+3	,	3 d PNCT
+4	но	4 d CONJ
+5	это	5 d PRCL
+6	не	6 d PRCL
+7	беда	7 d NOUN,inan,femn,sing,nomn
+8	!	8 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	растоплю	1 d VERB,perf,tran,sing,1per,futr,indc
+2	тот	2 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+3	холод	3 d NOUN,inan,masc,sing,nomn
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	в	6 d PREP
+7	тебе	7 d NPRO,2per,sing,datv
+/sent
+sent
+0	все	0 d ADVB
+1	вечно	1 d ADVB
+2	ведёт	2 d VERB,impf,tran,sing,3per,pres,indc
+3	к	3 d PREP
+4	очередной	4 d ADJF,masc,sing,nomn
+5	черте	5 d NOUN,inan,femn,sing,datv
+6	...	6 d PNCT
+/sent
+sent
+0	мне	0 d NPRO,1per,sing,datv
+1	прошлое	1 d NOUN,inan,neut,sing,nomn
+2	мешает	2 d VERB,impf,intr,sing,3per,pres,indc
+3	жить	3 d INFN,impf,intr
+4	спокойно	4 d ADVB
+5	.	5 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	дал	1 d VERB,perf,tran,masc,sing,past,indc
+2	мне	2 d NPRO,1per,sing,datv
+3	жизнь	3 d NOUN,inan,femn,sing,accs
+4	—	4 d PNCT
+5	она	5 d NPRO,femn,3per,Anph,sing,nomn
+6	твоя	6 d ADJF,Apro,femn,sing,nomn
+7	.	7 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	коль	1 d CONJ
+2	ненужной	2 d ADJF,Qual,femn,sing,gent
+3	стану	3 d VERB,perf,intr,sing,1per,futr,indc
+4	—	4 d PNCT
+5	отними	5 d VERB,perf,tran,sing,impr,excl
+6	.	6 d PNCT
+/sent
+sent
+0	мешать	0 d INFN,impf,intr
+1	не	1 d PRCL
+2	буду	2 d VERB,impf,intr,sing,1per,futr,indc
+3	в	3 d PREP
+4	этом	4 d NPRO,neut,sing,loct
+5	лишь	5 d PRCL
+6	тогда	6 d ADVB,Dmns
+7	,	7 d PNCT
+/sent
+sent
+0	когда	0 d CONJ
+1	вернётся	1 d VERB,perf,intr,sing,3per,futr,indc
+2	тот	2 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+3	,	3 d PNCT
+4	кому	4 d NOUN,inan,femn,sing,accs
+5	я	5 d NPRO,1per,sing,nomn
+6	так	6 d CONJ
+7	верна	7 d ADJS,Qual,femn,sing
+8	.	8 d PNCT
+/sent
+sent
+0	была	0 d VERB,impf,intr,femn,sing,past,indc
+1	такой	1 d ADJF,Apro,femn,sing,gent
+2	же	2 d PRCL
+3	,	3 d PNCT
+4	но	4 d CONJ
+5	теперь	5 d ADVB
+6	,	6 d PNCT
+/sent
+sent
+0	сияет	0 d VERB,impf,intr,sing,3per,pres,indc
+1	ясною	1 d ADJF,Qual,femn,sing,ablt,V-oy
+2	тропой	2 d NOUN,inan,femn,sing,ablt
+3	мой	3 d ADJF,Apro,masc,sing,nomn
+4	путь	4 d NOUN,inan,masc,sing,nomn
+/sent
+sent
+0	где	0 d CONJ
+1	ты	1 d NPRO,2per,sing,nomn
+2	один	2 d ADJF,Apro,masc,sing,nomn
+3	лишь	3 d PRCL
+4	цель	4 d NOUN,inan,femn,sing,nomn
+/sent
+sent
+0	где	0 d CONJ
+1	ты	1 d NPRO,2per,sing,nomn
+2	—	2 d PNCT
+3	жизни	3 d NOUN,inan,femn,sing,gent
+4	моей	4 d ADJF,Apro,femn,sing,gent
+5	суть	5 d VERB,impf,intr,plur,3per,pres,indc,Arch
+6	.	6 d PNCT
+/sent
+sent
+0	или	0 d CONJ
+1	умру	1 d VERB,perf,intr,sing,1per,futr,indc
+2	от	2 d PREP
+3	рук	3 d NOUN,inan,femn,plur,gent
+4	твоих	4 d ADJF,Apro,plur,gent
+5	в	5 d PREP
+6	сражении	6 d NOUN,inan,neut,sing,loct
+7	с	7 d PREP
+8	тобой	8 d NPRO,2per,sing,ablt
+/sent
+sent
+0	или	0 d CONJ
+1	спасу	1 d NOUN,inan,masc,sing,datv
+2	тебя	2 d NPRO,2per,sing,accs
+3	в	3 d PREP
+4	бою	4 d NOUN,inan,masc,sing,loc2
+5	со	5 d PREP,Vpre
+6	злой	6 d ADJF,Qual,masc,sing,nomn
+7	судьбой	7 d NOUN,inan,femn,sing,ablt
+8	...	8 d PNCT
+/sent
+sent
+0	где	0 d CONJ
+1	я	1 d NPRO,1per,sing,nomn
+2	—	2 d PNCT
+3	лишь	3 d CONJ
+4	враг	4 d NOUN,anim,masc,sing,nomn
+5	,	5 d PNCT
+6	идущий	6 d PRTF,impf,intr,pres,actv,masc,sing,nomn
+7	за	7 d PREP
+8	тобой	8 d NPRO,2per,sing,ablt
+9	во	9 d PREP,Vpre
+10	тьму	10 d NOUN,inan,femn,sing,accs
+11	.	11 d PNCT
+/sent
+sent
+0	у	0 d PREP
+1	меня	1 d NPRO,1per,sing,accs
+2	3	2 d NUMB,intg
+3	разных	3 d ADJF,Qual,plur,gent
+4	личности	4 d NOUN,inan,femn,sing,gent
+5	:	5 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	одна	1 d ADJF,Apro,femn,sing,nomn
+2	,	2 d PNCT
+3	где	3 d CONJ
+4	я	4 d NPRO,1per,sing,nomn
+5	общительная	5 d ADJF,Qual,femn,sing,nomn
+6	и	6 d CONJ
+7	громкая	7 d ADJF,Qual,femn,sing,nomn
+/sent
+sent
+0	-	0 d PNCT
+1	одна	1 d ADJF,Apro,femn,sing,nomn
+2	,	2 d PNCT
+3	где	3 d CONJ
+4	я	4 d NPRO,1per,sing,nomn
+5	тихая	5 d ADJF,Qual,femn,sing,nomn
+6	и	6 d CONJ
+7	чертовски	7 d ADVB
+8	спокойная	8 d ADJF,Qual,femn,sing,nomn
+/sent
+sent
+0	-	0 d PNCT
+1	одна	1 d ADJF,Apro,femn,sing,nomn
+2	,	2 d PNCT
+3	где	3 d CONJ
+4	я	4 d NPRO,1per,sing,nomn
+5	ненавижу	5 d VERB,impf,tran,sing,1per,pres,indc
+6	всех	6 d ADJF,Apro,plur,gent
+7	и	7 d CONJ
+8	каждая	8 d ADJF,Apro,femn,sing,nomn
+9	малейшая	9 d ADJF,Supr,Qual,femn,sing,nomn
+10	вещь	10 d NOUN,inan,femn,sing,nomn
+11	раздражает	11 d VERB,impf,tran,sing,3per,pres,indc
+12	меня	12 d NPRO,1per,sing,accs
+/sent
+sent
+0	самое	0 d ADJF,Apro,neut,sing,nomn
+1	идеальное	1 d ADJF,Qual,neut,sing,nomn
+2	женское	2 d ADJF,neut,sing,nomn
+3	состояние	3 d NOUN,inan,neut,sing,accs
+4	—	4 d PNCT
+5	"	5 d PNCT
+6	до	6 d PREP
+7	фонаря	7 d NOUN,inan,masc,sing,gent
+8	—	8 d PNCT
+9	"	9 d PNCT
+10	светло	10 d ADVB,Prdx
+11	,	11 d PNCT
+12	тепло	12 d ADVB,Prdx
+13	,	13 d PNCT
+14	сказочно	14 d ADVB
+15	!	15 d PNCT
+/sent
+sent
+0	голосовые	0 d ADJF,plur,nomn
+1	,	1 d PNCT
+2	музыкальные	2 d ADJF,Qual,inan,plur,accs
+3	,	3 d PNCT
+4	прикольные	4 d ADJF,plur,nomn
+5	поздравления	5 d NOUN,inan,neut,sing,gent
+6	,	6 d PNCT
+7	признания	7 d NOUN,inan,neut,sing,gent
+8	и	8 d CONJ
+9	извинения	9 d NOUN,inan,neut,sing,gent
+10	.	10 d PNCT
+/sent
+sent
+0	по	0 d PREP
+1	любому	1 d NPRO,masc,sing,datv
+2	поводу	2 d NOUN,inan,masc,sing,datv
+3	и	3 d CONJ
+4	без	4 d PREP
+5	!	5 d PNCT
+/sent
+sent
+0	4	0 d NUMB,intg
+1	совета	1 d NOUN,inan,masc,sing,gent
+2	для	2 d PREP
+3	поднятия	3 d NOUN,inan,neut,sing,gent
+4	уровня	4 d NOUN,inan,masc,sing,gent
+5	тестостерона	5 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	опишу	1 d VERB,perf,tran,sing,1per,futr,indc
+2	твой	2 d ADJF,Apro,masc,sing,nomn
+3	образ	3 d NOUN,inan,masc,sing,nomn
+4	в	4 d PREP
+5	стихотворении	5 d NOUN,inan,neut,sing,loct
+6	,	6 d PNCT
+/sent
+sent
+0	напишу	0 d VERB,perf,tran,sing,1per,futr,indc
+1	про	1 d PREP
+2	тебя	2 d NPRO,2per,sing,accs
+3	,	3 d PNCT
+4	как	4 d CONJ
+5	о	5 d PREP
+6	лучшем	6 d ADJF,Supr,Qual,masc,sing,loct
+7	явлении	7 d NOUN,inan,neut,sing,loct
+8	,	8 d PNCT
+/sent
+sent
+0	лучшие	0 d ADJF,Supr,Qual,plur,nomn
+1	вещи	1 d ADJS,plur
+2	в	2 d PREP
+3	жизни	3 d NOUN,inan,femn,sing,gent
+4	—	4 d PNCT
+5	бесплатны	5 d ADJS,Qual,plur
+6	:	6 d PNCT
+/sent
+sent
+0	объятия	0 d NOUN,inan,neut,sing,gent
+1	,	1 d PNCT
+2	улыбки	2 d NOUN,inan,femn,sing,gent
+3	,	3 d PNCT
+4	друзья	4 d NOUN,anim,masc,plur,nomn
+5	,	5 d PNCT
+6	поцелуи	6 d NOUN,inan,masc,plur,nomn
+7	,	7 d PNCT
+8	сон	8 d NOUN,inan,masc,sing,nomn
+9	,	9 d PNCT
+/sent
+sent
+0	любовь	0 d NOUN,inan,femn,sing,nomn
+1	,	1 d PNCT
+2	смех	2 d NOUN,inan,masc,sing,nomn
+3	и	3 d CONJ
+4	хорошее	4 d ADJF,Qual,neut,sing,accs
+5	настроение	5 d NOUN,inan,neut,sing,accs
+6	!	6 d PNCT
+/sent
+sent
+0	мама	0 d NOUN,anim,femn,sing,nomn
+1	максима	1 d NOUN,inan,masc,sing,gent
+2	сегодня	2 d ADVB
+3	буквально	3 d ADVB
+4	удивила	4 d VERB,perf,tran,femn,sing,past,indc
+5	меня	5 d NPRO,1per,sing,accs
+6	...	6 d PNCT
+/sent
+sent
+0	ну	0 d PRCL
+1	или	1 d PRCL
+2	вот	2 d PRCL
+3	она	3 d NPRO,femn,3per,Anph,sing,nomn
+4	,	4 d PNCT
+5	взрослая	5 d ADJF,Qual,femn,sing,nomn
+6	жизнь	6 d NOUN,inan,femn,sing,accs
+7	наших	7 d ADJF,Apro,plur,gent
+8	деток	8 d NOUN,anim,femn,plur,gent
+9	...	9 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	смотрю	1 d VERB,impf,tran,sing,1per,pres,indc
+2	на	2 d PREP
+3	все	3 d ADVB
+4	,	4 d PNCT
+5	я	5 d NPRO,1per,sing,nomn
+6	все	6 d ADJF,Apro,plur,nomn
+7	ещё	7 d ADVB
+8	надеюсь	8 d VERB,impf,intr,sing,1per,pres,indc
+9	,	9 d PNCT
+10	что	10 d CONJ
+11	люди	11 d NOUN,anim,masc,plur,nomn
+12	действительно	12 d ADVB
+13	хорошие	13 d ADJF,Qual,plur,nomn
+14	в	14 d PREP
+15	глубине	15 d NOUN,inan,femn,sing,loct
+16	души	16 d NOUN,inan,femn,sing,gent
+17	.	17 d PNCT
+/sent
+sent
+0	если	0 d CONJ
+1	вы	1 d NPRO,2per,plur,nomn
+2	любите	2 d VERB,impf,tran,plur,2per,pres,indc
+3	,	3 d PNCT
+4	а	4 d CONJ
+5	вас	5 d NPRO,2per,plur,accs
+6	нет	6 d PRED,pres
+7	—	7 d PNCT
+8	отпустите	8 d VERB,perf,tran,plur,2per,futr,indc
+9	.	9 d PNCT
+/sent
+sent
+0	если	0 d CONJ
+1	вас	1 d NPRO,2per,plur,accs
+2	любят	2 d VERB,impf,tran,plur,3per,pres,indc
+3	,	3 d PNCT
+4	а	4 d CONJ
+5	вы	5 d NPRO,2per,plur,nomn
+6	нет	6 d PRED,pres
+7	—	7 d PNCT
+8	оцените	8 d VERB,perf,tran,plur,2per,futr,indc
+9	и	9 d CONJ
+10	присмотритесь	10 d VERB,perf,intr,plur,2per,futr,indc
+11	.	11 d PNCT
+/sent
+sent
+0	или	0 d CONJ
+1	радоваться	1 d INFN,impf,intr
+2	тому	2 d ADJF,Apro,Subx,Anph,masc,sing,datv
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	подарила	5 d VERB,perf,tran,femn,sing,past,indc
+6	тебе	6 d NPRO,2per,sing,datv
+7	природа	7 d NOUN,inan,femn,sing,nomn
+8	!	8 d PNCT
+/sent
+sent
+0	была	0 d VERB,impf,intr,femn,sing,past,indc
+1	организованна	1 d ADJS,femn,sing
+2	концертная	2 d ADJF,Qual,femn,sing,nomn
+3	программа	3 d NOUN,inan,femn,sing,nomn
+4	и	4 d CONJ
+5	выставка	5 d NOUN,inan,femn,sing,nomn
+6	рисунков	6 d NOUN,inan,masc,plur,gent
+7	.	7 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	загадаешь	1 d VERB,perf,tran,sing,2per,futr,indc
+2	в	2 d PREP
+3	эту	3 d ADJF,Apro,Subx,Anph,femn,sing,accs
+4	полночь	4 d NOUN,inan,femn,sing,nomn
+5	то	5 d CONJ
+6	же	6 d PRCL
+7	,	7 d PNCT
+8	что	8 d CONJ
+9	и	9 d PRCL
+10	я	10 d NPRO,1per,sing,nomn
+11	,	11 d PNCT
+/sent
+sent
+0	поймав	0 d GRND,perf,tran,past
+1	тот	1 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+2	самый	2 d ADJF,Apro,masc,sing,nomn
+3	миг	3 d NOUN,inan,masc,sing,accs
+4	когда	4 d CONJ
+5	стрелки	5 d NOUN,inan,femn,sing,gent
+6	по	6 d PREP
+7	нулям	7 d NOUN,inan,masc,plur,datv
+8	,	8 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	первым	1 d ADJF,Anum,masc,sing,ablt
+2	январским	2 d ADJF,masc,sing,ablt
+3	утром	3 d ADVB
+4	нас	4 d NPRO,1per,plur,gent
+5	заберут	5 d VERB,perf,tran,plur,3per,futr,indc
+6	друг	6 d NOUN,anim,masc,sing,nomn
+7	у	7 d PREP
+8	друга	8 d NOUN,anim,masc,sing,gent
+9	,	9 d PNCT
+/sent
+sent
+0	сегодня	0 d ADVB
+1	бог	1 d NOUN,anim,masc,sing,nomn
+2	проснулся	2 d VERB,perf,intr,masc,sing,past,indc
+3	утром	3 d ADVB
+4	рано	4 d ADVB,Prdx
+5	...	5 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	жалобы	1 d NOUN,inan,femn,sing,gent
+2	и	2 d CONJ
+3	просьбы	3 d NOUN,inan,femn,sing,gent
+4	почитал	4 d VERB,impf,tran,masc,sing,past,indc
+5	...	5 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	людям	1 d NOUN,anim,masc,plur,datv
+2	из	2 d PREP
+3	кувшина	3 d NOUN,inan,masc,sing,gent
+4	без	4 d PREP
+5	обмана	5 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	и	0 d CONJ
+1	место	1 d NOUN,inan,neut,sing,accs
+2	есть	2 d INTJ
+3	для	3 d PREP
+4	чуда	4 d NOUN,inan,neut,sing,gent
+5	не	5 d PRCL
+6	у	6 d PREP
+7	всех	7 d ADJF,Apro,plur,gent
+8	.	8 d PNCT
+/sent
+sent
+0	то	0 d CONJ
+1	завистью	1 d NOUN,inan,femn,sing,ablt
+2	,	2 d PNCT
+3	враждой	3 d NOUN,inan,femn,Sgtm,sing,ablt
+4	подпёрта	4 d PRTS,perf,past,pssv,femn,sing
+5	дверца	5 d NOUN,inan,femn,sing,nomn
+6	...	6 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	у	1 d PREP
+2	кого-то	2 d NPRO,masc,sing,accs
+3	до	3 d PREP
+4	краёв	4 d NOUN,inan,masc,plur,gent
+5	разлита	5 d PRTS,perf,past,pssv,femn,sing
+/sent
+sent
+0	печаль	0 d NOUN,inan,femn,sing,nomn
+1	и	1 d CONJ
+2	безысходность	2 d NOUN,inan,femn,sing,nomn
+3	,	3 d PNCT
+4	вот	4 d PRCL
+5	беда	5 d NOUN,inan,femn,sing,nomn
+6	.	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	бог	1 d NOUN,anim,masc,sing,nomn
+2	жалел	2 d VERB,impf,tran,masc,sing,past,indc
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	сердце	5 d NOUN,inan,neut,sing,nomn
+6	это	6 d PRCL
+7	скрыто	7 d ADJS,Qual,neut,sing
+8	...	8 d PNCT
+/sent
+sent
+0	любви	0 d NOUN,inan,femn,sing,loct
+1	хотел	1 d VERB,impf,tran,masc,sing,past,indc
+2	налить	2 d INFN,perf,tran
+3	,	3 d PNCT
+4	да	4 d CONJ
+5	вот	5 d PRCL
+6	куда	6 d NOUN,inan,femn,Sgtm,Geox,sing,nomn
+7	?	7 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	бог	1 d NOUN,anim,masc,sing,nomn
+2	грустил	2 d VERB,impf,intr,masc,sing,past,indc
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	люди	5 d NOUN,anim,masc,plur,nomn
+6	не	6 d PRCL
+7	умеют	7 d VERB,impf,intr,plur,3per,pres,indc
+/sent
+sent
+0	сердца	0 d NOUN,inan,neut,sing,gent
+1	и	1 d CONJ
+2	души	2 d NOUN,inan,femn,sing,gent
+3	чистить	3 d INFN,impf,tran
+4	от	4 d PREP
+5	обид	5 d NOUN,inan,femn,plur,gent
+6	...	6 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	с	1 d PREP
+2	годами	2 d ADVB
+3	в	3 d PREP
+4	сердце	4 d NOUN,inan,neut,sing,nomn
+5	каменеют	5 d VERB,impf,intr,plur,3per,pres,indc
+/sent
+sent
+0	и	0 d CONJ
+1	сердце	1 d NOUN,inan,neut,sing,nomn
+2	превращается	2 d VERB,impf,intr,sing,3per,pres,indc
+3	в	3 d PREP
+4	гранит	4 d NOUN,inan,masc,sing,nomn
+5	...	5 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	бог	1 d NOUN,anim,masc,sing,nomn
+2	ходил	2 d VERB,impf,intr,masc,sing,past,indc
+3	,	3 d PNCT
+4	смотрел	4 d VERB,impf,tran,masc,sing,past,indc
+5	и	5 d CONJ
+6	улыбался	6 d VERB,impf,intr,masc,sing,past,indc
+7	,	7 d PNCT
+/sent
+sent
+0	им	0 d NOUN,inan,neut,sing,gent,Abbr
+1	счастье	1 d NOUN,inan,neut,sing,nomn,V-be
+2	в	2 d PREP
+3	сердце	3 d NOUN,inan,neut,sing,nomn
+4	бережно	4 d ADVB
+5	вливал	5 d VERB,impf,tran,masc,sing,past,indc
+6	...	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	всех	1 d ADJF,Apro,plur,gent
+2	вокруг	2 d ADVB
+3	в	3 d PREP
+4	утрате	4 d NOUN,inan,femn,sing,loct
+5	обвиняли	5 d VERB,impf,tran,plur,past,indc
+6	,	6 d PNCT
+/sent
+sent
+0	забыв	0 d GRND,perf,tran,past
+1	в	1 d PREP
+2	самих	2 d ADJF,Apro,plur,gent
+3	себе	3 d NPRO,Anph,sing,datv
+4	вину	4 d NOUN,inan,femn,sing,accs
+5	искать	5 d INFN,impf,tran
+6	...	6 d PNCT
+/sent
+sent
+0	ведь	0 d CONJ
+1	если	1 d CONJ
+2	б	2 d PRCL
+3	мы	3 d NPRO,1per,plur,nomn
+4	могли	4 d VERB,impf,intr,plur,past,indc
+5	прощать	5 d INFN,impf,tran
+6	и	6 d CONJ
+7	верить	7 d INFN,impf,intr
+8	,	8 d PNCT
+/sent
+sent
+0	то	0 d CONJ
+1	бог	1 d NOUN,anim,masc,sing,nomn
+2	бы	2 d PRCL
+3	мог	3 d VERB,impf,intr,masc,sing,past,indc
+4	не	4 d PRCL
+5	каплей	5 d NOUN,inan,femn,sing,ablt
+6	счастье	6 d NOUN,inan,neut,sing,nomn,V-be
+7	мерить	7 d INFN,impf,tran
+8	,	8 d PNCT
+/sent
+sent
+0	кувшин	0 d NOUN,inan,masc,sing,nomn
+1	волшебный	1 d ADJF,Qual,masc,sing,nomn
+2	мог	2 d VERB,impf,intr,masc,sing,past,indc
+3	бы	3 d PRCL
+4	весь	4 d ADJF,Apro,inan,masc,sing,accs
+5	отдать	5 d INFN,perf,tran
+6	...	6 d PNCT
+/sent
+sent
+0	сегодня	0 d ADVB
+1	бог	1 d NOUN,anim,masc,sing,nomn
+2	проснулся	2 d VERB,perf,intr,masc,sing,past,indc
+3	на	3 d PREP
+4	рассвете	4 d NOUN,inan,masc,sing,loct
+5	.	5 d PNCT
+/sent
+sent
+0	огромный	0 d ADJF,Qual,masc,sing,nomn
+1	ящик	1 d NOUN,inan,masc,sing,accs
+2	с	2 d PREP
+3	просьбами	3 d NOUN,inan,femn,plur,ablt
+4	у	4 d PREP
+5	ног	5 d NOUN,inan,femn,plur,gent
+6	...	6 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	рядом	1 d NOUN,inan,masc,sing,ablt
+2	лишь	2 d PRCL
+3	один	3 d ADJF,Apro,masc,sing,nomn
+4	без	4 d PREP
+5	просьб	5 d NOUN,inan,femn,plur,gent
+6	конвертик	6 d NOUN,inan,masc,sing,nomn
+7	:	7 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	благодарю	1 d VERB,impf,tran,sing,1per,pres,indc
+2	тебя	2 d NPRO,2per,sing,accs
+3	за	3 d PREP
+4	все	4 d ADVB
+5	,	5 d PNCT
+6	мой	6 d ADJF,Apro,masc,sing,nomn
+7	бог	7 d NOUN,anim,masc,sing,nomn
+8	.	8 d PNCT
+9	.	9 d PNCT
+10	.	10 d PNCT
+11	"	11 d PNCT
+/sent
+sent
+0	один	0 d ADJF,Apro,masc,sing,nomn
+1	из	1 d PREP
+2	примеров	2 d NOUN,inan,masc,plur,gent
+3	как	3 d CONJ
+4	здравый	4 d ADJF,Qual,masc,sing,nomn
+5	смысл	5 d NOUN,inan,masc,sing,nomn
+6	помогает	6 d VERB,impf,intr,sing,3per,pres,indc
+7	в	7 d PREP
+8	жизни	8 d NOUN,inan,femn,sing,gent
+9	добиться	9 d INFN,perf,intr
+10	большего	10 d ADJF,neut,sing,gent
+11	)	11 d PNCT
+/sent
+sent
+0	вам	0 d NPRO,2per,plur,datv
+1	стирают	1 d VERB,impf,tran,plur,3per,pres,indc
+2	память	2 d NOUN,inan,femn,sing,accs
+3	,	3 d PNCT
+4	чтобы	4 d CONJ
+5	в	5 d PREP
+6	каждом	6 d ADJF,Apro,masc,sing,loct
+7	новом	7 d ADJF,Qual,masc,sing,loct
+8	воплощении	8 d NOUN,inan,neut,sing,loct
+9	вы	9 d NPRO,2per,plur,nomn
+10	не	10 d PRCL
+11	узнавали	11 d VERB,impf,tran,plur,past,indc
+12	ни	12 d PRCL
+13	друзей	13 d NOUN,anim,masc,plur,gent
+14	,	14 d PNCT
+15	ни	15 d CONJ
+16	врагов	16 d NOUN,anim,masc,plur,accs
+17	и	17 d CONJ
+18	даже	18 d PRCL
+19	не	19 d PRCL
+20	догадывались	20 d VERB,impf,intr,plur,past,indc
+21	,	21 d PNCT
+22	как	22 d CONJ
+23	много	23 d ADVB,Prdx
+24	общего	24 d ADJF,neut,sing,gent
+25	между	25 d PREP
+26	ними	26 d NPRO,3per,Anph,plur,ablt,Af-p
+27	.	27 d PNCT
+/sent
+sent
+0	огромная	0 d ADJF,Qual,femn,sing,nomn
+1	часть	1 d NOUN,inan,femn,sing,nomn
+2	человечества	2 d NOUN,inan,neut,sing,gent
+3	до	3 d PREP
+4	сих	4 d ADJF,Apro,Subx,plur,gent
+5	пор	5 d NOUN,inan,femn,plur,gent
+6	борется	6 d VERB,impf,intr,sing,3per,pres,indc
+7	за	7 d PREP
+8	элементарное	8 d ADJF,Qual,neut,sing,nomn
+9	физическое	9 d ADJF,neut,sing,nomn
+10	выживание	10 d NOUN,inan,neut,Sgtm,sing,nomn
+11	.	11 d PNCT
+/sent
+sent
+0	каждый	0 d ADJF,Apro,inan,masc,sing,accs
+1	день	1 d NOUN,inan,masc,sing,accs
+2	наполнен	2 d PRTS,perf,past,pssv,masc,sing
+3	беспокойством	3 d NOUN,inan,neut,sing,ablt
+4	,	4 d PNCT
+5	отчаянными	5 d ADJF,Qual,plur,ablt
+6	попытками	6 d NOUN,inan,femn,plur,ablt
+7	чего-то	7 d ADVB
+8	добиться	8 d INFN,perf,intr
+9	.	9 d PNCT
+/sent
+sent
+0	ум	0 d NOUN,inan,masc,sing,accs
+1	озабочен	1 d PRTS,perf,past,pssv,masc,sing
+2	основными	2 d ADJF,Qual,plur,ablt
+3	вопросами	3 d NOUN,inan,masc,plur,ablt
+4	жизни	4 d NOUN,inan,femn,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	есть	0 d INTJ
+1	ли	1 d PRCL
+2	крыша	2 d NOUN,inan,femn,sing,nomn
+3	над	3 d PREP
+4	головой	4 d NOUN,inan,femn,sing,ablt
+5	?	5 d PNCT
+/sent
+sent
+0	огромное	0 d ADJF,Qual,neut,sing,nomn
+1	количество	1 d NOUN,inan,neut,sing,nomn
+2	людей	2 d NOUN,anim,masc,plur,gent
+3	всё	3 d ADJF,Apro,neut,sing,nomn
+4	ещё	4 d ADVB
+5	ежедневно	5 d ADVB
+6	продолжают	6 d VERB,impf,tran,plur,3per,pres,indc
+7	беспокоиться	7 d INFN,impf,intr
+8	об	8 d PREP,Vpre
+9	этом	9 d NPRO,neut,sing,loct
+10	.	10 d PNCT
+/sent
+sent
+0	каждый	0 d ADJF,Apro,inan,masc,sing,accs
+1	месяц	1 d NOUN,inan,masc,sing,accs
+2	,	2 d PNCT
+3	лишь	3 d CONJ
+4	по	4 d PREP
+5	причине	5 d NOUN,inan,femn,sing,datv
+6	недоедания	6 d NOUN,inan,neut,sing,gent
+7	,	7 d PNCT
+8	умирают	8 d VERB,impf,intr,plur,3per,pres,indc
+9	тысячи	9 d NOUN,inan,femn,sing,gent
+10	людей	10 d NOUN,anim,masc,plur,gent
+11	.	11 d PNCT
+/sent
+sent
+0	меньшее	0 d ADJF,neut,sing,nomn
+1	количество	1 d NOUN,inan,neut,sing,nomn
+2	людей	2 d NOUN,anim,masc,plur,gent
+3	способны	3 d ADJS,Qual,plur
+4	довольствоваться	4 d INFN,impf,intr
+5	в	5 d PREP
+6	своей	6 d ADJF,Apro,Anph,femn,sing,gent
+7	жизни	7 d NOUN,inan,femn,sing,gent
+8	самым	8 d ADJF,Apro,plur,datv
+9	необходимым	9 d ADJF,Qual,plur,datv
+10	для	10 d PREP
+11	выживания	11 d NOUN,inan,neut,Sgtm,sing,gent
+12	,	12 d PNCT
+13	но	13 d CONJ
+14	и	14 d PRCL
+15	они	15 d NPRO,3per,Anph,plur,nomn
+16	борются	16 d VERB,impf,intr,plur,3per,pres,indc
+17	за	17 d PREP
+18	то	18 d PRCL
+19	,	19 d PNCT
+20	чтобы	20 d CONJ
+21	обеспечить	21 d INFN,perf,tran
+22	себя	22 d NPRO,Anph,sing,accs
+23	чем-то	23 d NPRO,neut,sing,ablt
+24	большим	24 d ADJF,masc,sing,ablt
+25	—	25 d PNCT
+26	чтобы	26 d CONJ
+27	была	27 d VERB,impf,intr,femn,sing,past,indc
+28	хотя_бы	28 d NOUN,inan,masc,Orgn,plur,nomn
+29	минимальная	29 d ADJF,femn,sing,nomn
+30	обеспеченность	30 d NOUN,inan,femn,sing,nomn
+31	;	31 d PNCT
+32	скромный	32 d ADJF,Qual,inan,masc,sing,accs
+33	,	33 d PNCT
+34	но	34 d CONJ
+35	приличный	35 d ADJF,Qual,masc,sing,nomn
+36	дом	36 d NOUN,inan,masc,sing,accs
+37	;	37 d PNCT
+38	чтобы	38 d CONJ
+39	завтра	39 d ADVB
+40	было	40 d PRCL
+41	лучше	41 d PRCL
+42	,	42 d PNCT
+43	чем	43 d CONJ
+44	вчера	44 d ADVB
+45	.	45 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	упорно	1 d ADVB
+2	работают	2 d VERB,impf,intr,plur,3per,pres,indc
+3	,	3 d PNCT
+4	они	4 d NPRO,3per,Anph,plur,nomn
+5	беспокоятся	5 d VERB,impf,intr,plur,3per,pres,indc
+6	о	6 d PREP
+7	том	7 d ADJF,Apro,Subx,Anph,neut,sing,loct
+8	,	8 d PNCT
+9	будут	9 d VERB,impf,intr,plur,3per,futr,indc
+10	ли	10 d PRCL
+11	когда-нибудь	11 d ADVB
+12	"	12 d PNCT
+13	процветать	13 d INFN,impf,intr
+14	"	14 d PNCT
+15	и	15 d CONJ
+16	как	16 d PRCL
+17	это	17 d PRCL
+18	сделать	18 d INFN,perf,tran
+19	.	19 d PNCT
+/sent
+sent
+0	ум	0 d NOUN,inan,masc,sing,accs
+1	озабочен	1 d PRTS,perf,past,pssv,masc,sing
+2	неотложными	2 d ADJF,Qual,plur,ablt
+3	и	3 d CONJ
+4	тревожными	4 d ADJF,Qual,plur,ablt
+5	вопросами	5 d NOUN,inan,masc,plur,ablt
+6	.	6 d PNCT
+/sent
+sent
+0	гораздо	0 d ADVB
+1	меньшее	1 d ADJF,neut,sing,nomn
+2	количество	2 d NOUN,inan,neut,sing,nomn
+3	людей	3 d NOUN,anim,masc,plur,gent
+4	имеют	4 d VERB,impf,tran,plur,3per,pres,indc
+5	всё	5 d ADJF,Apro,neut,sing,nomn
+6	,	6 d PNCT
+7	чего	7 d NPRO,neut,sing,gent
+8	они	8 d NPRO,3per,Anph,plur,nomn
+9	когда-либо	9 d ADVB
+10	хотели	10 d VERB,impf,tran,plur,past,indc
+11	добиться	11 d INFN,perf,intr
+12	—	12 d PNCT
+13	,	13 d PNCT
+14	фактически	14 d ADVB
+15	,	15 d PNCT
+16	всё	16 d ADVB
+17	,	17 d PNCT
+18	за	18 d PREP
+19	что	19 d PRCL
+20	борются	20 d VERB,impf,intr,plur,3per,pres,indc
+21	сейчас	21 d ADVB
+22	две	22 d NUMR,femn,nomn
+23	другие	23 d ADJF,Apro,Subx,plur,nomn
+24	группы	24 d NOUN,inan,femn,sing,gent
+25	.	25 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	интересно	1 d ADVB,Prdx
+2	то	2 d CONJ
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	многие	5 d NPRO,plur,nomn
+6	из	6 d PREP
+7	этой	7 d ADJF,Apro,Subx,Anph,femn,sing,gent
+8	последней	8 d ADJF,femn,sing,gent
+9	группы	9 d NOUN,inan,femn,sing,gent
+10	всё	10 d ADJF,Apro,neut,sing,nomn
+11	ещё	11 d ADVB
+12	хотят	12 d VERB,impf,tran,plur,3per,pres,indc
+13	чего-то	13 d ADVB
+14	большего	14 d ADJF,neut,sing,gent
+15	.	15 d PNCT
+/sent
+sent
+0	их	0 d NPRO,3per,Anph,plur,gent
+1	умы	1 d NOUN,inan,masc,plur,nomn
+2	озабочены	2 d PRTS,perf,past,pssv,plur
+3	тем	3 d CONJ
+4	,	4 d PNCT
+5	как	5 d CONJ
+6	удержать	6 d INFN,perf,tran
+7	то	7 d CONJ
+8	,	8 d PNCT
+9	что	9 d CONJ
+10	они	10 d NPRO,3per,Anph,plur,nomn
+11	приобрели	11 d VERB,perf,tran,plur,past,indc
+12	,	12 d PNCT
+13	и	13 d CONJ
+14	приумножить	14 d INFN,perf,tran
+15	свои	15 d ADJF,Apro,Anph,inan,plur,accs
+16	владения	16 d NOUN,inan,neut,sing,gent
+17	.	17 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	,	1 d PNCT
+2	кроме	2 d PREP
+3	этих	3 d ADJF,Apro,Subx,Anph,plur,gent
+4	трёх	4 d NUMR,gent
+5	групп	5 d NOUN,inan,femn,plur,gent
+6	,	6 d PNCT
+7	есть	7 d INTJ
+8	ещё	8 d PRCL
+9	и	9 d PRCL
+10	четвёртая	10 d ADJF,Anum,femn,sing,nomn
+11	.	11 d PNCT
+/sent
+sent
+0	эта	0 d ADJF,Apro,Subx,Anph,femn,sing,nomn
+1	группа	1 d NOUN,inan,femn,sing,nomn
+2	уже	2 d ADVB
+3	переросла	3 d ADJS,Qual,femn,sing
+4	потребность	4 d NOUN,inan,femn,sing,nomn
+5	в	5 d PREP
+6	накоплении	6 d NOUN,inan,neut,sing,loct
+7	материальных	7 d ADJF,plur,gent
+8	вещей	8 d ADJF,femn,sing,gent
+9	.	9 d PNCT
+/sent
+sent
+0	она	0 d NPRO,femn,3per,Anph,sing,nomn
+1	озабочена	1 d PRTS,perf,past,pssv,femn,sing
+2	духовной	2 d ADJF,Qual,femn,sing,ablt
+3	истиной	3 d NOUN,inan,femn,sing,ablt
+4	,	4 d PNCT
+5	духовной	5 d ADJF,Qual,femn,sing,ablt
+6	реальностью	6 d NOUN,inan,femn,sing,ablt
+7	,	7 d PNCT
+8	духовным	8 d ADJF,Qual,masc,sing,ablt
+9	опытом	9 d NOUN,inan,masc,sing,ablt
+10	.	10 d PNCT
+/sent
+sent
+0	люди	0 d NOUN,anim,masc,plur,nomn
+1	в	1 d PREP
+2	этой	2 d ADJF,Apro,Subx,Anph,femn,sing,gent
+3	группе	3 d NOUN,inan,femn,sing,loct
+4	воспринимают	4 d VERB,impf,tran,plur,3per,pres,indc
+5	жизнь	5 d NOUN,inan,femn,sing,accs
+6	,	6 d PNCT
+7	как	7 d CONJ
+8	встречу	8 d NOUN,inan,femn,sing,accs
+9	с	9 d PREP
+10	духовным	10 d ADJF,Qual,masc,sing,ablt
+11	,	11 d PNCT
+12	как	12 d CONJ
+13	путешествие	13 d NOUN,inan,neut,sing,accs
+14	души	14 d NOUN,inan,femn,sing,gent
+15	.	15 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	реагируют	1 d VERB,impf,intr,plur,3per,pres,indc
+2	на	2 d PREP
+3	все	3 d ADVB
+4	события	4 d NOUN,inan,neut,sing,gent
+5	человеческой	5 d ADJF,femn,sing,gent
+6	жизни	6 d NOUN,inan,femn,sing,gent
+7	в	7 d PREP
+8	этом	8 d NPRO,neut,sing,loct
+9	контексте	9 d NOUN,inan,masc,sing,loct
+10	.	10 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	рассматривают	1 d VERB,impf,tran,plur,3per,pres,indc
+2	весь	2 d ADJF,Apro,inan,masc,sing,accs
+3	человеческий	3 d ADJF,masc,sing,nomn
+4	опыт	4 d NOUN,inan,masc,sing,nomn
+5	в	5 d PREP
+6	рамках	6 d NOUN,inan,femn,plur,loct
+7	этой	7 d ADJF,Apro,Subx,Anph,femn,sing,gent
+8	парадигмы	8 d NOUN,inan,femn,sing,gent
+9	.	9 d PNCT
+/sent
+sent
+0	их	0 d NPRO,3per,Anph,plur,gent
+1	борьба	1 d NOUN,inan,femn,Sgtm,sing,nomn
+2	связана	2 d PRTS,perf,past,pssv,femn,sing
+3	с	3 d PREP
+4	поисками	4 d NOUN,inan,masc,plur,ablt
+5	бога	5 d NOUN,anim,masc,sing,gent
+6	,	6 d PNCT
+7	реализацией	7 d NOUN,inan,femn,sing,ablt
+8	себя	8 d NPRO,Anph,sing,accs
+9	,	9 d PNCT
+10	выражением	10 d NOUN,inan,neut,sing,ablt
+11	истины	11 d NOUN,inan,femn,sing,gent
+12	.	12 d PNCT
+/sent
+sent
+0	по_мере	0 d NOUN,inan,femn,sing,datv
+1	их	1 d NPRO,3per,Anph,plur,gent
+2	эволюции	2 d NOUN,inan,femn,sing,gent
+3	эта	3 d ADJF,Apro,Subx,Anph,femn,sing,nomn
+4	борьба	4 d NOUN,inan,femn,Sgtm,sing,nomn
+5	вовсе	5 d ADVB
+6	перестаёт	6 d VERB,impf,intr,sing,3per,pres,indc
+7	быть	7 d INFN,impf,intr
+8	борьбой	8 d NOUN,inan,femn,Sgtm,sing,ablt
+9	и	9 d CONJ
+10	становится	10 d VERB,impf,intr,sing,3per,pres,indc
+11	процессом	11 d NOUN,inan,masc,sing,ablt
+12	.	12 d PNCT
+/sent
+sent
+0	это	0 d PRCL
+1	процесс	1 d NOUN,inan,masc,sing,nomn
+2	самоопределения	2 d NOUN,inan,neut,sing,gent
+3	(	3 d PNCT
+4	а	4 d CONJ
+5	не	5 d PRCL
+6	самопознания	6 d NOUN,inan,neut,sing,gent
+7	,	7 d PNCT
+8	)	8 d PNCT
+9	роста	9 d NOUN,inan,masc,sing,gent
+10	(	10 d PNCT
+11	а	11 d CONJ
+12	не	12 d PRCL
+13	обучения	13 d NOUN,inan,neut,sing,gent
+14	,	14 d PNCT
+15	)	15 d PNCT
+16	бытия	16 d NOUN,inan,neut,sing,gent
+17	(	17 d PNCT
+18	а	18 d CONJ
+19	не	19 d PRCL
+20	делания	20 d NOUN,inan,neut,sing,gent
+21	.	21 d PNCT
+22	)	22 d PNCT
+/sent
+sent
+0	побудительным	0 d ADJF,masc,sing,ablt
+1	мотивом	1 d NOUN,inan,masc,sing,ablt
+2	для	2 d PREP
+3	устремления	3 d NOUN,inan,neut,sing,gent
+4	,	4 d PNCT
+5	приложения	5 d NOUN,inan,neut,sing,gent
+6	усилий	6 d NOUN,inan,neut,plur,gent
+7	,	7 d PNCT
+8	поиска	8 d NOUN,inan,masc,sing,gent
+9	,	9 d PNCT
+10	желания	10 d NOUN,inan,neut,sing,gent
+11	добиваться	11 d INFN,impf,intr
+12	успеха	12 d NOUN,inan,masc,sing,gent
+13	становится	13 d VERB,impf,intr,sing,3per,pres,indc
+14	совершенно	14 d ADVB
+15	иной	15 d ADJF,Apro,femn,sing,gent
+16	мотив	16 d NOUN,inan,masc,sing,nomn
+17	.	17 d PNCT
+/sent
+sent
+0	меняется	0 d VERB,impf,intr,sing,3per,pres,indc
+1	мотив	1 d NOUN,inan,masc,sing,nomn
+2	любых	2 d ADJF,Apro,plur,gent
+3	действий	3 d NOUN,inan,neut,plur,gent
+4	,	4 d PNCT
+5	а	5 d CONJ
+6	с	6 d PREP
+7	ним	7 d NPRO,masc,3per,Anph,sing,ablt,Af-p
+8	,	8 d PNCT
+9	также	9 d CONJ
+10	,	10 d PNCT
+11	меняется	11 d VERB,impf,intr,sing,3per,pres,indc
+12	и	12 d CONJ
+13	тот	13 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+14	,	14 d PNCT
+15	кто	15 d NPRO,masc,sing,nomn
+16	их	16 d NPRO,3per,Anph,plur,gent
+17	совершает	17 d VERB,impf,tran,sing,3per,pres,indc
+18	.	18 d PNCT
+/sent
+sent
+0	побудительный	0 d ADJF,masc,sing,nomn
+1	мотив	1 d NOUN,inan,masc,sing,nomn
+2	становится	2 d VERB,impf,intr,sing,3per,pres,indc
+3	процессом	3 d NOUN,inan,masc,sing,ablt
+4	,	4 d PNCT
+5	а	5 d CONJ
+6	тот	6 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+7	,	7 d PNCT
+8	кто	8 d NPRO,masc,sing,nomn
+9	делает	9 d VERB,impf,tran,sing,3per,pres,indc
+10	,	10 d PNCT
+11	становится	11 d VERB,impf,intr,sing,3per,pres,indc
+12	тем	12 d CONJ
+13	,	13 d PNCT
+14	кто	14 d NPRO,masc,sing,nomn
+15	просто	15 d PRCL
+16	есть	16 d INTJ
+17	.	17 d PNCT
+/sent
+sent
+0	если	0 d CONJ
+1	раньше	1 d COMP
+2	основными	2 d ADJF,Qual,plur,ablt
+3	заботами	3 d NOUN,inan,femn,plur,ablt
+4	были	4 d VERB,impf,intr,plur,past,indc
+5	заботы	5 d NOUN,inan,femn,sing,gent
+6	тела	6 d NOUN,inan,neut,sing,gent
+7	,	7 d PNCT
+8	то	8 d CONJ
+9	теперь	9 d ADVB
+10	заботы	10 d NOUN,inan,femn,sing,gent
+11	—	11 d PNCT
+12	это	12 d PRCL
+13	в_основном	13 d ADJF,Qual,masc,sing,loct
+14	заботы	14 d NOUN,inan,femn,sing,gent
+15	души	15 d NOUN,inan,femn,sing,gent
+16	.	16 d PNCT
+/sent
+sent
+0	изменилась	0 d VERB,perf,intr,femn,sing,past,indc
+1	цель	1 d NOUN,inan,femn,sing,nomn
+2	жизни	2 d NOUN,inan,femn,sing,gent
+3	,	3 d PNCT
+4	как	4 d CONJ
+5	и	5 d PRCL
+6	сама	6 d ADJF,Apro,femn,sing,nomn
+7	жизнь	7 d NOUN,inan,femn,sing,accs
+8	.	8 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	побуждение	1 d NOUN,inan,neut,sing,nomn
+2	к	2 d PREP
+3	величию	3 d NOUN,inan,neut,sing,datv
+4	"	4 d PNCT
+5	изменилось	5 d VERB,perf,intr,neut,sing,past,indc
+6	,	6 d PNCT
+7	а	7 d CONJ
+8	с	8 d PREP
+9	ним	9 d NPRO,masc,3per,Anph,sing,ablt,Af-p
+10	исчезла	10 d VERB,perf,intr,femn,sing,past,indc
+11	и	11 d CONJ
+12	потребность	12 d NOUN,inan,femn,sing,nomn
+13	сильно	13 d ADVB
+14	желать	14 d INFN,impf,tran
+15	чего-то	15 d ADVB
+16	,	16 d PNCT
+17	приобретать	17 d INFN,impf,tran
+18	,	18 d PNCT
+19	защищать	19 d INFN,impf,tran
+20	и	20 d CONJ
+21	приумножать	21 d INFN,impf,tran
+22	мирское	22 d ADJF,neut,sing,nomn
+23	имущество	23 d NOUN,inan,neut,sing,accs
+24	.	24 d PNCT
+/sent
+sent
+0	величие	0 d NOUN,inan,neut,sing,nomn
+1	не	1 d PRCL
+2	будет	2 d VERB,impf,intr,sing,3per,futr,indc
+3	больше	3 d COMP,Qual
+4	измеряться	4 d INFN,impf,intr
+5	тем	5 d CONJ
+6	,	6 d PNCT
+7	сколько	7 d CONJ
+8	человек	8 d NOUN,anim,masc,sing,nomn
+9	накопил	9 d VERB,perf,tran,masc,sing,past,indc
+10	.	10 d PNCT
+/sent
+sent
+0	мировые	0 d ADJF,plur,nomn
+1	ресурсы	1 d NOUN,inan,masc,plur,nomn
+2	справедливо	2 d ADVB
+3	будут	3 d VERB,impf,intr,plur,3per,futr,indc
+4	восприниматься	4 d INFN,impf,intr
+5	,	5 d PNCT
+6	как	6 d CONJ
+7	то	7 d PRCL
+8	,	8 d PNCT
+9	что	9 d CONJ
+10	принадлежит	10 d VERB,impf,intr,sing,3per,pres,indc
+11	всем	11 d ADJF,Apro,plur,datv
+12	людям	12 d NOUN,anim,masc,plur,datv
+13	мира	13 d NOUN,inan,masc,sing,gent
+14	.	14 d PNCT
+/sent
+sent
+0	все	0 d ADVB
+1	захотят	1 d VERB,perf,tran,plur,3per,futr,indc
+2	,	2 d PNCT
+3	чтобы	3 d CONJ
+4	было	4 d PRCL
+5	так	5 d PRCL
+6	.	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	в	1 d PREP
+2	формы	2 d NOUN,inan,femn,sing,gent
+3	жизни	3 d NOUN,inan,femn,sing,gent
+4	не	4 d PRCL
+5	одет	5 d ADJS,Qual,masc,sing
+6	.	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	вдруг	1 d ADVB
+2	,	2 d PNCT
+3	весёлый	3 d ADJF,Qual,masc,sing,nomn
+4	и	4 d CONJ
+5	могучий	5 d ADJF,Qual,masc,sing,nomn
+6	,	6 d PNCT
+/sent
+sent
+0	ударил	0 d VERB,perf,tran,masc,sing,past,indc
+1	в	1 d PREP
+2	струны	2 d NOUN,inan,femn,sing,gent
+3	и	3 d CONJ
+4	запел	4 d VERB,perf,tran,masc,sing,past,indc
+5	.	5 d PNCT
+/sent
+sent
+0	меж	0 d PREP
+1	хмурым	1 d ADJF,Qual,masc,sing,ablt
+2	небом	2 d NOUN,inan,neut,sing,ablt
+3	и	3 d CONJ
+4	землёй	4 d NOUN,inan,femn,sing,ablt
+5	,	5 d PNCT
+/sent
+sent
+0	ворвался	0 d VERB,perf,intr,masc,sing,past,indc
+1	он	1 d NPRO,masc,3per,Anph,sing,nomn
+2	в	2 d PREP
+3	поток	3 d NOUN,inan,masc,sing,accs
+4	событий	4 d NOUN,inan,neut,plur,gent
+5	,	5 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	падал	1 d VERB,impf,intr,masc,sing,past,indc
+2	издали	2 d VERB,perf,tran,plur,past,indc
+3	,	3 d PNCT
+4	с	4 d PREP
+5	наклоном	5 d NOUN,inan,masc,sing,ablt
+/sent
+sent
+0	и	0 d CONJ
+1	вся	1 d ADJF,Apro,femn,sing,nomn
+2	земля	2 d NOUN,inan,femn,sing,nomn
+3	могучим	3 d ADJF,Qual,masc,sing,ablt
+4	лоном	4 d NOUN,inan,neut,sing,ablt
+/sent
+sent
+0	улицы	0 d NOUN,inan,femn,sing,gent
+1	родного	1 d ADJF,masc,sing,gent
+2	города	2 d NOUN,inan,masc,sing,gent
+3	—	3 d PNCT
+4	в	4 d PREP
+5	лужах	5 d NOUN,inan,femn,plur,loct
+6	живут	6 d VERB,impf,intr,plur,3per,pres,indc
+7	утки	7 d NOUN,inan,femn,sing,gent
+8	!	8 d PNCT
+/sent
+sent
+0	.	0 d PNCT
+1	я	1 d NPRO,1per,sing,nomn
+2	буду	2 d VERB,impf,intr,sing,1per,futr,indc
+3	любить	3 d INFN,impf,tran
+4	тебя	4 d NPRO,2per,sing,accs
+5	чтобы	5 d CONJ
+6	не	6 d PRCL
+7	произошло	7 d VERB,perf,intr,neut,sing,past,indc
+8	...	8 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	когда	1 d CONJ
+2	я	2 d NPRO,1per,sing,nomn
+3	тебе	3 d NPRO,2per,sing,datv
+4	буду	4 d VERB,impf,intr,sing,1per,futr,indc
+5	нужна	5 d ADJS,Qual,femn,sing
+6	я	6 d NPRO,1per,sing,nomn
+7	не	7 d PRCL
+8	отвернусь	8 d VERB,perf,intr,sing,1per,futr,indc
+9	...	9 d PNCT
+/sent
+sent
+0	как_бы	0 d NOUN,inan,masc,Orgn,plur,nomn
+1	ты	1 d NPRO,2per,sing,nomn
+2	мне	2 d NPRO,1per,sing,datv
+3	больно	3 d ADVB,Prdx
+4	не	4 d PRCL
+5	сделал	5 d VERB,perf,tran,masc,sing,past,indc
+6	.	6 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	целую	1 d VERB,impf,tran,sing,1per,pres,indc
+2	тебя	2 d NPRO,2per,sing,accs
+3	каждой	3 d ADJF,Apro,femn,sing,gent
+4	строчкой	4 d NOUN,inan,femn,sing,ablt
+5	,	5 d PNCT
+/sent
+sent
+0	каждой	0 d ADJF,Apro,femn,sing,gent
+1	буквой	1 d NOUN,inan,femn,sing,ablt
+2	и	2 d CONJ
+3	даже	3 d PRCL
+4	точкой	4 d NOUN,inan,femn,sing,ablt
+5	.	5 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	грущу	1 d VERB,impf,intr,sing,1per,pres,indc
+2	и	2 d CONJ
+3	все	3 d ADVB
+4	жду	4 d VERB,impf,tran,sing,1per,pres,indc
+5	ответа	5 d NOUN,inan,masc,sing,gent
+6	.	6 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	этом	1 d NPRO,neut,sing,loct
+2	мире	2 d NOUN,inan,masc,sing,loct
+3	—	3 d PNCT
+4	нет	4 d PRCL
+5	расстояний	5 d NOUN,inan,neut,plur,gent
+6	,	6 d PNCT
+7	—	7 d PNCT
+/sent
+sent
+0	все	0 d ADVB
+1	зависит	1 d VERB,impf,intr,sing,3per,pres,indc
+2	от	2 d PREP
+3	наших	3 d ADJF,Apro,plur,gent
+4	желаний	4 d NOUN,inan,neut,plur,gent
+5	.	5 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	согрею	1 d VERB,perf,tran,sing,1per,futr,indc
+2	тебя	2 d NPRO,2per,sing,accs
+3	—	3 d PNCT
+4	дай	4 d VERB,perf,tran,sing,impr,excl
+5	мне	5 d NPRO,1per,sing,datv
+6	руку	6 d NOUN,inan,femn,sing,accs
+7	...	7 d PNCT
+/sent
+sent
+0	пусть	0 d CONJ
+1	не	1 d PRCL
+2	рядом	2 d NOUN,inan,masc,sing,ablt
+3	,	3 d PNCT
+4	а	4 d CONJ
+5	так	5 d PRCL
+6	бы	6 d PRCL
+7	хотелось	7 d VERB,impf,intr,Impe,neut,sing,past,indc
+8	.	8 d PNCT
+/sent
+sent
+0	это	0 d PRCL
+1	значит	1 d CONJ,Prnt
+2	,	2 d PNCT
+3	что	3 d CONJ
+4	мы	4 d NPRO,1per,plur,nomn
+5	—	5 d PNCT
+6	живые	6 d NOUN,anim,masc,plur,nomn
+7	.	7 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	чудеса	1 d NOUN,inan,neut,plur,nomn
+2	верим	2 d VERB,impf,intr,plur,1per,pres,indc
+3	,	3 d PNCT
+4	в	4 d PREP
+5	сказки	5 d NOUN,inan,femn,sing,gent
+6	земные	6 d ADJF,plur,nomn
+7	...	7 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	пока	1 d ADVB
+2	я	2 d NPRO,1per,sing,nomn
+3	целую	3 d VERB,impf,tran,sing,1per,pres,indc
+4	строчками	4 d NOUN,inan,femn,plur,ablt
+5	,	5 d PNCT
+/sent
+sent
+0	три	0 d NUMR,inan,accs
+1	свиньи	1 d NOUN,anim,femn,plur,nomn
+2	с	2 d PREP
+3	написанными	3 d PRTF,perf,tran,past,pssv,plur,ablt
+4	на	4 d PREP
+/sent
+sent
+0	даже	0 d CONJ
+1	не	1 d PRCL
+2	знаю	2 d VERB,impf,tran,sing,1per,pres,indc
+3	,	3 d PNCT
+4	как	4 d CONJ
+5	относиться	5 d INFN,impf,intr
+6	а	6 d CONJ
+7	этому	7 d NPRO,neut,sing,datv
+8	.	8 d PNCT
+/sent
+sent
+0	оказывается	0 d VERB,impf,intr,sing,3per,pres,indc
+1	,	1 d PNCT
+2	что	2 d CONJ
+3	все	3 d ADVB
+4	допускают	4 d VERB,impf,tran,plur,3per,pres,indc
+5	ошибки	5 d NOUN,inan,femn,sing,gent
+6	там	6 d ADVB,Dmns
+7	.	7 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	про	1 d PREP
+2	мои	2 d ADJF,Apro,plur,nomn
+3	все	3 d ADJF,Apro,plur,nomn
+4	косяки	4 d NOUN,inan,masc,plur,nomn
+5	сразу	5 d ADVB
+6	узнавало	6 d VERB,impf,tran,neut,sing,past,indc
+7	минимум	7 d NOUN,inan,masc,sing,nomn
+8	человек	8 d NOUN,anim,masc,sing,nomn
+9	5	9 d NUMB,intg
+10	в	10 d PREP
+11	первые	11 d ADJF,Anum,inan,plur,accs
+12	10	12 d NUMB,intg
+13	минут	13 d NOUN,inan,femn,plur,gent
+14	,	14 d PNCT
+15	спустя	15 d PREP
+16	ещё	16 d ADVB
+17	10	17 d NUMB,intg
+18	,	18 d PNCT
+19	ещё	19 d ADVB
+20	5	20 d NUMB,intg
+21	,	21 d PNCT
+22	потом	22 d ADVB
+23	человек	23 d NOUN,anim,masc,sing,nomn
+24	20	24 d NUMB,intg
+25	знало	25 d VERB,impf,tran,neut,sing,past,indc
+26	,	26 d PNCT
+27	что	27 d CONJ
+28	у	28 d PREP
+29	меня	29 d NPRO,1per,sing,accs
+30	что-то	30 d NPRO,neut,sing,nomn
+31	произошло	31 d VERB,perf,intr,neut,sing,past,indc
+32	.	32 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	просто	1 d PRCL
+2	веду	2 d VERB,impf,tran,sing,1per,pres,indc
+3	активную	3 d ADJF,Qual,femn,sing,accs
+4	экспансию	4 d NOUN,inan,femn,sing,accs
+5	в	5 d PREP
+6	любых	6 d ADJF,Apro,plur,gent
+7	местах	7 d NOUN,inan,neut,plur,loct
+8	,	8 d PNCT
+9	где	9 d CONJ
+10	только	10 d PRCL
+11	я	11 d NPRO,1per,sing,nomn
+12	не	12 d PRCL
+13	окажусь	13 d VERB,perf,intr,sing,1per,futr,indc
+14	.	14 d PNCT
+/sent
+sent
+0	поэтому	0 d ADVB
+1	,	1 d PNCT
+2	можно	2 d PRED,pres
+3	смело	3 d VERB,impf,intr,neut,sing,past,indc
+4	сказать	4 d INFN,perf,tran
+5	,	5 d PNCT
+6	что	6 d CONJ
+7	просто	7 d PRCL
+8	пришло	8 d ADJS,neut,sing
+9	время	9 d NOUN,inan,neut,sing,accs
+10	.	10 d PNCT
+/sent
+sent
+0	завёл	0 d VERB,perf,tran,masc,sing,past,indc
+1	здесь	1 d ADVB,Prdx
+2	связи	2 d NOUN,inan,femn,sing,loc2
+3	с	3 d PREP
+4	товарищами	4 d NOUN,anim,masc,plur,ablt
+5	,	5 d PNCT
+6	которые	6 d ADJF,Apro,Subx,Anph,plur,nomn
+7	от	7 d PREP
+8	налогов	8 d NOUN,inan,masc,plur,gent
+9	помогают	9 d VERB,impf,intr,plur,3per,pres,indc
+10	уйти	10 d INFN,perf,intr
+11	.	11 d PNCT
+/sent
+sent
+0	мне	0 d NPRO,1per,sing,datv
+1	дали	1 d VERB,perf,tran,plur,past,indc
+2	задание	2 d NOUN,inan,neut,sing,nomn
+3	заказать	3 d INFN,perf,tran
+4	на	4 d PREP
+5	себя	5 d NPRO,Anph,sing,accs
+6	три	6 d NUMR,inan,accs
+7	дебетовых	7 d ADJF,Qual,plur,gent
+8	карты	8 d NOUN,inan,femn,sing,gent
+9	сбера	9 d NOUN,anim,masc,sing,gent
+10	.	10 d PNCT
+/sent
+sent
+0	потом	0 d ADVB
+1	они	1 d NPRO,3per,Anph,plur,nomn
+2	через	2 d PREP
+3	них	3 d NPRO,3per,Anph,plur,gent,Af-p
+4	будут	4 d VERB,impf,intr,plur,3per,futr,indc
+5	деньги	5 d NOUN,inan,femn,sing,gent
+6	отмывать	6 d INFN,impf,tran
+7	.	7 d PNCT
+/sent
+sent
+0	говорят	0 d CONJ,Prnt
+1	,	1 d PNCT
+2	что	2 d CONJ
+3	не	3 d PRCL
+4	наркотики	4 d NOUN,inan,masc,plur,nomn
+5	,	5 d PNCT
+6	а_именно	6 d ADVB
+7	уход	7 d NOUN,inan,masc,sing,nomn
+8	от	8 d PREP
+9	налогов	9 d NOUN,inan,masc,plur,gent
+10	.	10 d PNCT
+/sent
+sent
+0	да	0 d CONJ
+1	,	1 d PNCT
+2	даже	2 d CONJ
+3	если	3 d CONJ
+4	наркотики	4 d NOUN,inan,masc,plur,nomn
+5	и	5 d CONJ
+6	их	6 d NPRO,3per,Anph,plur,gent
+7	там	7 d ADVB,Dmns
+8	заберут	8 d VERB,perf,tran,plur,3per,futr,indc
+9	,	9 d PNCT
+10	то	10 d CONJ
+11	мне	11 d NPRO,1per,sing,datv
+12	просто	12 d PRCL
+13	туда	13 d ADVB,Dmns
+14	сюда	14 d ADVB
+15	в	15 d PREP
+16	полицию	16 d NOUN,inan,femn,sing,accs
+17	походить	17 d INFN,perf,intr
+18	придётся	18 d VERB,perf,intr,sing,3per,futr,indc
+19	.	19 d PNCT
+/sent
+sent
+0	у	0 d PREP
+1	них	1 d NPRO,3per,Anph,plur,gent,Af-p
+2	офис	2 d NOUN,inan,masc,sing,nomn
+3	в	3 d PREP
+4	бизнес	4 d NOUN,inan,masc,sing,nomn
+5	центре	5 d NOUN,inan,masc,sing,loct
+6	.	6 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	даже	1 d PRCL
+2	доверил	2 d VERB,perf,tran,masc,sing,past,indc
+3	им	3 d NOUN,inan,neut,sing,gent,Abbr
+4	заказать	4 d INFN,perf,tran
+5	карты	5 d NOUN,inan,femn,sing,gent
+6	за	6 d PREP
+7	меня	7 d NPRO,1per,sing,accs
+8	на	8 d PREP
+9	моё	9 d ADJF,Apro,neut,sing,nomn
+10	имя	10 d NOUN,inan,neut,sing,accs
+11	(	11 d PNCT
+12	так	12 d CONJ
+13	можно	13 d PRED,pres
+14	делать	14 d INFN,impf,tran
+15	.	15 d PNCT
+16	)	16 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	дали	1 d VERB,perf,tran,plur,past,indc
+2	предоплату	2 d NOUN,inan,femn,sing,accs
+3	1000	3 d NUMB,intg
+4	и	4 d CONJ
+5	ещё	5 d ADVB
+6	3750	6 d NUMB,intg
+7	будет	7 d VERB,impf,intr,sing,3per,futr,indc
+8	,	8 d PNCT
+9	когда	9 d CONJ
+10	я	10 d NPRO,1per,sing,nomn
+11	заберу	11 d VERB,perf,tran,sing,1per,futr,indc
+12	карты	12 d NOUN,inan,femn,sing,gent
+13	и	13 d CONJ
+14	принесу	14 d VERB,perf,tran,sing,1per,futr,indc
+15	им	15 d NOUN,inan,neut,sing,gent,Abbr
+16	.	16 d PNCT
+/sent
+sent
+0	можно	0 d PRED,pres
+1	потом	1 d ADVB
+2	ещё	2 d ADVB
+3	будет	3 d VERB,impf,intr,sing,3per,futr,indc
+4	позаниматься	4 d INFN,perf,intr
+5	этим	5 d NPRO,neut,sing,ablt
+6	,	6 d PNCT
+7	если	7 d CONJ
+8	будет	8 d VERB,impf,intr,sing,3per,futr,indc
+9	желание	9 d NOUN,inan,neut,sing,nomn
+10	.	10 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	ведь	1 d CONJ
+2	тоже	2 d ADVB
+3	от	3 d PREP
+4	налогов	4 d NOUN,inan,masc,plur,gent
+5	уходить	5 d INFN,perf,tran
+6	буду	6 d VERB,impf,intr,sing,1per,futr,indc
+7	@	7 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	хочу	1 d VERB,impf,tran,sing,1per,pres,indc
+2	платить	2 d INFN,impf,tran
+3	в	3 d PREP
+4	карман	4 d NOUN,inan,masc,sing,nomn
+5	чиновникам	5 d NOUN,anim,masc,plur,datv
+6	и	6 d CONJ
+7	другу	7 d NOUN,anim,masc,sing,datv
+8	своему	8 d ADJF,Apro,Anph,masc,sing,datv
+9	—	9 d PNCT
+10	ледяному	10 d ADJF,masc,sing,datv
+11	принцу	11 d NOUN,anim,masc,sing,datv
+12	.	12 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	мне	1 d NPRO,1per,sing,datv
+2	друг	2 d NOUN,anim,masc,sing,nomn
+3	и	3 d CONJ
+4	всегда	4 d ADVB
+5	помогу	5 d VERB,perf,intr,sing,1per,futr,indc
+6	,	6 d PNCT
+7	но	7 d CONJ
+8	денег	8 d NOUN,inan,femn,plur,gent
+9	он	9 d NPRO,masc,3per,Anph,sing,nomn
+10	моих	10 d ADJF,Apro,plur,gent
+11	не	11 d PRCL
+12	будет	12 d VERB,impf,intr,sing,3per,futr,indc
+13	брать	13 d INFN,impf,tran
+14	.	14 d PNCT
+/sent
+sent
+0	т.к.	0 d UNKN
+1	это	1 d PRCL
+2	уже	2 d ADVB
+3	не	3 d PRCL
+4	дружба	4 d NOUN,inan,femn,sing,nomn
+5	совсем	5 d ADVB
+6	.	6 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	,	1 d PNCT
+2	думаю	2 d VERB,impf,intr,sing,1per,pres,indc
+3	,	3 d PNCT
+4	мы	4 d NPRO,1per,plur,nomn
+5	придумаем	5 d VERB,perf,tran,plur,1per,futr,indc
+6	что-то	6 d NPRO,neut,sing,nomn
+7	ещё	7 d ADVB
+8	более	8 d ADVB
+9	элегантное	9 d ADJF,Qual,neut,sing,nomn
+10	,	10 d PNCT
+11	чем	11 d CONJ
+12	этот	12 d ADJF,Apro,Subx,Anph,inan,masc,sing,accs
+13	финт	13 d NOUN,inan,masc,sing,nomn
+14	с	14 d PREP
+15	картами	15 d NOUN,inan,femn,plur,ablt
+16	.	16 d PNCT
+/sent
+sent
+0	на	0 d PREP
+1	всякий	1 d ADJF,Apro,masc,sing,nomn
+2	я	2 d NPRO,1per,sing,nomn
+3	сделал	3 d VERB,perf,tran,masc,sing,past,indc
+4	запись	4 d NOUN,inan,femn,sing,nomn
+5	нашего	5 d ADJF,Apro,neut,sing,gent
+6	разговора	6 d NOUN,inan,masc,sing,gent
+7	на	7 d PREP
+8	смартфон	8 d NOUN,inan,masc,sing,nomn
+9	и	9 d CONJ
+10	записал	10 d VERB,perf,tran,masc,sing,past,indc
+11	их	11 d NPRO,3per,Anph,plur,gent
+12	данные	12 d PRTF,perf,tran,past,pssv,plur,nomn
+13	.	13 d PNCT
+/sent
+sent
+0	имя	0 d NOUN,inan,neut,sing,accs
+1	одного	1 d ADJF,Apro,neut,sing,gent
+2	узнал	2 d VERB,perf,tran,masc,sing,past,indc
+3	,	3 d PNCT
+4	приметы	4 d NOUN,inan,femn,sing,gent
+5	запомнил	5 d VERB,perf,tran,masc,sing,past,indc
+6	,	6 d PNCT
+7	адрес	7 d NOUN,inan,masc,sing,accs
+8	офиса	8 d NOUN,inan,masc,sing,gent
+9	.	9 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	что	1 d PRCL
+2	для	2 d PREP
+3	вас	3 d NPRO,2per,plur,accs
+4	настоящее	4 d NOUN,inan,neut,sing,accs
+5	счастье	5 d NOUN,inan,neut,sing,nomn,V-be
+6	?	6 d PNCT
+/sent
+sent
+0	ресторан	0 d NOUN,inan,masc,sing,nomn
+1	на	1 d PREP
+2	невском	2 d ADJF,masc,sing,loct
+3	проспекте	3 d NOUN,inan,masc,sing,loct
+4	или	4 d CONJ
+5	счёт	5 d NOUN,inan,masc,sing,accs
+6	в	6 d PREP
+7	большом	7 d ADJF,Qual,masc,sing,loct
+8	банке	8 d NOUN,inan,femn,sing,datv
+9	?	9 d PNCT
+/sent
+sent
+0	у	0 d PREP
+1	всех	1 d ADJF,Apro,plur,gent
+2	своё	2 d ADJF,Apro,Anph,neut,sing,accs
+3	счастье	3 d NOUN,inan,neut,sing,nomn,V-be
+4	,	4 d PNCT
+5	а	5 d CONJ
+6	моё	6 d ADJF,Apro,neut,sing,nomn
+7	счастье	7 d NOUN,inan,neut,sing,nomn,V-be
+8	это	8 d PRCL
+9	улыбки	9 d NOUN,inan,femn,sing,gent
+10	дорогих	10 d ADJF,Qual,plur,gent
+11	людей	11 d NOUN,anim,masc,plur,gent
+12	.	12 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	те	1 d ADJF,Apro,Subx,Anph,plur,nomn
+2	натянутые	2 d ADJF,Qual,plur,nomn
+3	и	3 d CONJ
+4	фальшивые	4 d ADJF,Qual,plur,nomn
+5	,	5 d PNCT
+6	а	6 d CONJ
+7	самые	7 d ADJF,Apro,plur,nomn
+8	настоящие	8 d ADJF,plur,nomn
+9	и	9 d CONJ
+10	искренние	10 d ADJF,Qual,plur,nomn
+11	.	11 d PNCT
+/sent
+sent
+0	с	0 d PREP
+1	вами	1 d NPRO,2per,plur,ablt
+2	всегда	2 d ADVB
+3	тепло	3 d ADVB,Prdx
+4	(	4 d PNCT
+5	даже	5 d CONJ
+6	ночью	6 d ADVB
+7	на	7 d PRCL
+8	полу	8 d NOUN,anim,masc,Name,sing,datv
+9	в	9 d PREP
+10	закрытой	10 d ADJF,Qual,femn,sing,gent
+11	комнате	11 d NOUN,inan,femn,sing,loct
+12	.	12 d PNCT
+13	)	13 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	известия	1 d NOUN,inan,neut,sing,gent
+2	"	2 d PNCT
+3	узнали	3 d VERB,perf,tran,plur,past,indc
+4	о	4 d PREP
+5	возрождении	5 d NOUN,inan,neut,sing,loct
+6	"	6 d PNCT
+7	запорожца	7 d NOUN,anim,masc,sing,gent
+8	"	8 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	с	1 d PREP
+2	такими	2 d ADJF,Apro,plur,ablt
+3	идеями	3 d NOUN,inan,femn,plur,ablt
+4	,	4 d PNCT
+5	с	5 d PREP
+6	такими	6 d ADJF,Apro,plur,ablt
+7	проектами	7 d NOUN,inan,masc,plur,ablt
+8	мы	8 d NPRO,1per,plur,nomn
+9	бы	9 d PRCL
+10	горы	10 d NOUN,inan,femn,sing,gent
+11	свернули	11 d VERB,perf,intr,plur,past,indc
+12	.	12 d PNCT
+13	!	13 d PNCT
+14	.	14 d PNCT
+15	.	15 d PNCT
+16	.	16 d PNCT
+/sent
+sent
+0	никогда	0 d ADVB
+1	не	1 d PRCL
+2	изменяйте	2 d VERB,impf,intr,plur,impr,excl
+3	своим	3 d ADJF,Apro,Anph,plur,datv
+4	принципам	4 d NOUN,inan,masc,plur,datv
+5	—	5 d PNCT
+6	принципам	6 d NOUN,inan,masc,plur,datv
+7	свободы	7 d NOUN,inan,femn,sing,gent
+8	и	8 d CONJ
+9	духовности	9 d NOUN,inan,femn,sing,gent
+10	...	10 d PNCT
+11	иначе	11 d CONJ
+12	вы	12 d NPRO,2per,plur,nomn
+13	погибнете	13 d VERB,perf,intr,plur,2per,futr,indc
+14	...	14 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	робинзоне	1 d NOUN,inan,femn,sing,datv
+2	бесплатно	2 d ADVB
+3	раздают	3 d VERB,impf,tran,plur,3per,pres,indc
+4	второй	4 d ADJF,Anum,masc,sing,nomn
+5	корабль	5 d NOUN,inan,masc,sing,nomn
+6	!	6 d PNCT
+/sent
+sent
+0	может	0 d VERB,impf,intr,sing,3per,pres,indc
+1	искала	1 d VERB,impf,tran,femn,sing,past,indc
+2	повод	2 d NOUN,inan,masc,sing,nomn
+3	для	3 d PREP
+4	этой	4 d ADJF,Apro,Subx,Anph,femn,sing,gent
+5	самой	5 d ADJF,Apro,femn,sing,gent
+6	точки	6 d NOUN,inan,femn,sing,gent
+7	,	7 d PNCT
+8	где	8 d CONJ
+9	нету	9 d PRED,pres
+10	запятых	10 d NOUN,inan,femn,plur,gent
+11	,	11 d PNCT
+12	где	12 d CONJ
+13	расстаются	13 d VERB,impf,intr,plur,3per,pres,indc
+14	точно	14 d ADVB
+15	.	15 d PNCT
+/sent
+sent
+0	хочу	0 d VERB,impf,tran,sing,1per,pres,indc
+1	любить	1 d INFN,impf,tran
+2	и	2 d CONJ
+3	быть	3 d INFN,impf,intr
+4	любимым	4 d ADJF,Subx,Qual,masc,sing,ablt
+5	!	5 d PNCT
+/sent
+sent
+0	стоило	0 d VERB,impf,intr,Impe,neut,sing,past,indc
+1	задуматься	1 d INFN,perf,intr
+2	о	2 d PREP
+3	будущем	3 d NOUN,inan,neut,sing,loct
+4	,	4 d PNCT
+5	как	5 d CONJ
+6	всё	6 d ADVB
+7	стало	7 d VERB,perf,intr,neut,sing,past,indc
+8	проясняться	8 d INFN,impf,intr
+9	.	9 d PNCT
+/sent
+sent
+0	.	0 d PNCT
+1	я	1 d NPRO,1per,sing,nomn
+2	поставила	2 d VERB,perf,tran,femn,sing,past,indc
+3	для	3 d PREP
+4	себя	4 d NPRO,Anph,sing,accs
+5	цели	5 d NOUN,inan,femn,sing,gent
+6	,	6 d PNCT
+7	решила	7 d VERB,perf,tran,femn,sing,past,indc
+8	чего	8 d NPRO,neut,sing,gent
+9	я	9 d NPRO,1per,sing,nomn
+10	хочу	10 d VERB,impf,tran,sing,1per,pres,indc
+11	получить	11 d INFN,perf,tran
+12	от	12 d PREP
+13	жизни	13 d NOUN,inan,femn,sing,gent
+14	в	14 d PREP
+15	этом	15 d NPRO,neut,sing,loct
+16	году	16 d NOUN,inan,masc,sing,loc2
+17	,	17 d PNCT
+18	знаю	18 d VERB,impf,tran,sing,1per,pres,indc
+19	чего	19 d NPRO,neut,sing,gent
+20	смогу	20 d VERB,perf,intr,sing,1per,futr,indc
+21	добиться	21 d INFN,perf,intr
+22	сама	22 d ADJF,Apro,femn,sing,nomn
+23	,	23 d PNCT
+24	а	24 d CONJ
+25	с	25 d PREP
+26	чем	26 d CONJ
+27	мне	27 d NPRO,1per,sing,datv
+28	помогут	28 d VERB,perf,intr,plur,3per,futr,indc
+29	.	29 d PNCT
+/sent
+sent
+0	мне	0 d NPRO,1per,sing,datv
+1	даже	1 d PRCL
+2	не	2 d PRCL
+3	столько	3 d ADVB
+4	нужна	4 d ADJS,Qual,femn,sing
+5	вся	5 d ADJF,Apro,femn,sing,nomn
+6	эта	6 d ADJF,Apro,Subx,Anph,femn,sing,nomn
+7	поддержка	7 d NOUN,inan,femn,sing,nomn
+8	,	8 d PNCT
+9	сколько	9 d CONJ
+10	необходимо	10 d ADJS,Qual,neut,sing
+11	знать	11 d INFN,impf,tran
+12	о	12 d PREP
+13	том	13 d ADJF,Apro,Subx,Anph,neut,sing,loct
+14	,	14 d PNCT
+15	что	15 d CONJ
+16	люди	16 d NOUN,anim,masc,plur,nomn
+17	,	17 d PNCT
+18	которые	18 d ADJF,Apro,Subx,Anph,plur,nomn
+19	меня	19 d NPRO,1per,sing,accs
+20	окружают	20 d VERB,impf,tran,plur,3per,pres,indc
+21	готовы	21 d ADJS,Qual,plur
+22	на	22 d PREP
+23	всё	23 d ADVB
+24	ради	24 d PREP
+25	моего	25 d ADJF,Apro,neut,sing,gent
+26	счастья	26 d NOUN,inan,neut,sing,gent,V-be
+27	.	27 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	же	1 d PRCL
+2	,	2 d PNCT
+3	в	3 d PREP
+4	свою	4 d ADJF,Apro,Anph,femn,sing,accs
+5	очередь	5 d NOUN,inan,femn,sing,accs
+6	,	6 d PNCT
+7	готова	7 d ADJS,Qual,femn,sing
+8	на	8 d PREP
+9	всё	9 d ADVB
+10	ради	10 d PREP
+11	них	11 d NPRO,3per,Anph,plur,gent,Af-p
+12	.	12 d PNCT
+/sent
+sent
+0	у	0 d PREP
+1	нас	1 d NPRO,1per,plur,gent
+2	всё	2 d ADJF,Apro,neut,sing,nomn
+3	будет	3 d VERB,impf,intr,sing,3per,futr,indc
+4	хорошо	4 d ADVB,Prdx
+5	!	5 d PNCT
+/sent
+sent
+0	вся	0 d ADJF,Apro,femn,sing,nomn
+1	ценная	1 d ADJF,Qual,femn,sing,nomn
+2	информация	2 d NOUN,inan,femn,sing,nomn
+3	только	3 d PRCL
+4	здесь	4 d ADVB,Prdx
+5	!	5 d PNCT
+/sent
+sent
+0	обучение	0 d NOUN,inan,neut,sing,nomn
+1	,	1 d PNCT
+2	услуги	2 d NOUN,inan,femn,sing,gent
+3	и	3 d CONJ
+4	качественное	4 d ADJF,Qual,neut,sing,nomn
+5	решение	5 d NOUN,inan,neut,sing,accs
+6	проблем	6 d NOUN,inan,femn,plur,gent
+7	—	7 d PNCT
+8	только	8 d CONJ
+9	здесь	9 d ADVB,Prdx
+/sent
+sent
+0	тест	0 d NOUN,inan,masc,sing,nomn
+1	:	1 d PNCT
+2	знаете	2 d CONJ,Prnt
+3	ли	3 d PRCL
+4	вы	4 d NPRO,2per,plur,nomn
+5	географию	5 d NOUN,inan,femn,sing,accs
+6	россии	6 d NOUN,inan,femn,Sgtm,Geox,sing,gent
+7	/	7 d PNCT
+8	путешествия	8 d NOUN,inan,neut,sing,gent
+9	/	9 d PNCT
+10	моя	10 d ADJF,Apro,femn,sing,nomn
+11	планета	11 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	присоединяюсь	0 d VERB,impf,intr,sing,1per,pres,indc
+1	к	1 d PREP
+2	флешмобу	2 d NOUN,anim,masc,sing,datv
+3	и	3 d CONJ
+4	приглашаю	4 d VERB,impf,tran,sing,1per,pres,indc
+5	вас	5 d NPRO,2per,plur,accs
+6	!	6 d PNCT
+/sent
+sent
+0	идея	0 d NOUN,inan,femn,sing,nomn
+1	состоит	1 d VERB,impf,intr,sing,3per,pres,indc
+2	в	2 d PREP
+3	том	3 d ADJF,Apro,Subx,Anph,neut,sing,loct
+4	,	4 d PNCT
+5	чтобы	5 d CONJ
+6	заполнить	6 d INFN,perf,tran
+7	социальную	7 d ADJF,Qual,femn,sing,accs
+8	сеть	8 d NOUN,inan,femn,sing,nomn
+9	произведениями	9 d NOUN,inan,neut,plur,ablt
+10	искусства	10 d NOUN,inan,neut,sing,gent
+11	в	11 d PREP
+12	противовес	12 d NOUN,inan,masc,sing,accs
+13	палкам	13 d NOUN,inan,femn,plur,datv
+14	для	14 d PREP
+15	селфи	15 d NOUN,anim,masc,Sgtm,Fixd,Name,sing,nomn
+16	,	16 d PNCT
+17	хэштегам	17 d NOUN,anim,masc,plur,datv
+18	и	18 d CONJ
+19	фоткам	19 d NOUN,inan,femn,Infr,plur,datv
+20	еды	20 d NOUN,inan,femn,Sgtm,sing,gent
+21	.	21 d PNCT
+/sent
+sent
+0	каждый	0 d ADJF,Apro,inan,masc,sing,accs
+1	,	1 d PNCT
+2	кто	2 d NPRO,masc,sing,nomn
+3	поставит	3 d VERB,perf,tran,sing,3per,futr,indc
+4	"	4 d PNCT
+5	сердечко	5 d NOUN,inan,neut,sing,nomn
+6	,	6 d PNCT
+7	"	7 d PNCT
+8	получит	8 d VERB,perf,tran,sing,3per,futr,indc
+9	имя	9 d NOUN,inan,neut,sing,accs
+10	художника	10 d NOUN,anim,masc,sing,gent
+11	,	11 d PNCT
+12	произведение	12 d NOUN,inan,neut,sing,accs
+13	которого	13 d ADJF,Apro,Subx,Anph,neut,sing,gent
+14	он	14 d NPRO,masc,3per,Anph,sing,nomn
+15	должен	15 d ADJS,masc,sing
+16	будет	16 d VERB,impf,intr,sing,3per,futr,indc
+17	разместить	17 d INFN,perf,tran
+18	на	18 d PREP
+19	своей	19 d ADJF,Apro,Anph,femn,sing,gent
+20	странице	20 d NOUN,inan,femn,sing,loct
+21	с	21 d PREP
+22	этим	22 d NPRO,neut,sing,ablt
+23	текстом	23 d NOUN,inan,masc,sing,ablt
+24	.	24 d PNCT
+/sent
+sent
+0	мне	0 d NPRO,1per,sing,datv
+1	достался	1 d VERB,perf,intr,masc,sing,past,indc
+2	константин	2 d NOUN,anim,masc,Name,sing,nomn
+3	сомов	3 d ADJS,Qual,masc,sing
+4	"	4 d PNCT
+5	дама	5 d NOUN,anim,femn,sing,nomn
+6	в	6 d PREP
+7	голубом	7 d ADJF,Qual,masc,sing,loct
+8	"	8 d PNCT
+/sent
+sent
+0	она	0 d NPRO,femn,3per,Anph,sing,nomn
+1	хотела	1 d VERB,impf,tran,femn,sing,past,indc
+2	красивую	2 d ADJF,Qual,femn,sing,accs
+3	фигуру	3 d NOUN,inan,femn,sing,accs
+4	,	4 d PNCT
+5	плоский	5 d ADJF,Qual,masc,sing,nomn
+6	животик	6 d NOUN,inan,masc,sing,nomn
+7	,	7 d PNCT
+8	ключицу	8 d NOUN,inan,femn,sing,accs
+9	и	9 d CONJ
+10	расстояние	10 d NOUN,inan,neut,sing,nomn
+11	между	11 d PREP
+12	ляжками	12 d NOUN,inan,femn,plur,ablt
+13	,	13 d PNCT
+14	но	14 d CONJ
+15	душа	15 d GRND,impf,tran,pres
+16	требовала	16 d VERB,impf,tran,femn,sing,past,indc
+17	колбасы	17 d NOUN,inan,femn,sing,gent
+18	.	18 d PNCT
+/sent
+sent
+0	сегодня	0 d ADVB
+1	в	1 d PREP
+2	мюзик-холл	2 d NOUN,inan,masc,sing,nomn
+3	—	3 d PNCT
+4	приятности	4 d NOUN,inan,femn,sing,gent
+5	от	5 d PREP
+6	шеф-повара	6 d NOUN,anim,masc,sing,gent
+7	!	7 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	кричишь	1 d VERB,impf,intr,sing,2per,pres,indc
+2	,	2 d PNCT
+3	что	3 d CONJ
+4	я	4 d NPRO,1per,sing,nomn
+5	ненормальная	5 d ADJF,Qual,femn,sing,nomn
+6	.	6 d PNCT
+/sent
+sent
+0	сам	0 d ADJF,Apro,masc,sing,nomn
+1	хотел	1 d VERB,impf,tran,masc,sing,past,indc
+2	,	2 d PNCT
+3	чтоб	3 d CONJ
+4	любовь	4 d NOUN,inan,femn,sing,nomn
+5	нереальная	5 d ADJF,Qual,femn,sing,nomn
+6	,	6 d PNCT
+/sent
+sent
+0	чтобы	0 d CONJ
+1	пульс	1 d NOUN,inan,masc,sing,nomn
+2	твой	2 d ADJF,Apro,masc,sing,nomn
+3	зашкалил	3 d VERB,impf,tran,masc,sing,past,indc
+4	за	4 d PREP
+5	сто	5 d NOUN,inan,femn,Fixd,Abbr,sing,nomn
+6	,	6 d PNCT
+/sent
+sent
+0	чтобы	0 d CONJ
+1	кровь	1 d NOUN,inan,femn,sing,nomn
+2	твоя	2 d ADJF,Apro,femn,sing,nomn
+3	жидкая	3 d ADJF,Qual,femn,sing,nomn
+4	,	4 d PNCT
+5	бледная	5 d ADJF,Qual,femn,sing,nomn
+6	,	6 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	теперь	1 d ADVB
+2	ты	2 d NPRO,2per,sing,nomn
+3	кричишь	3 d VERB,impf,intr,sing,2per,pres,indc
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	я	6 d NPRO,1per,sing,nomn
+7	вредная	7 d ADJF,Qual,femn,sing,nomn
+8	,	8 d PNCT
+/sent
+sent
+0	что	0 d CONJ
+1	ревнива	1 d ADJS,Qual,femn,sing
+2	я	2 d NPRO,1per,sing,nomn
+3	за	3 d PREP
+4	пятерых	4 d NUMR,Coll,anim,accs
+5	,	5 d PNCT
+/sent
+sent
+0	стерв	0 d NOUN,anim,femn,plur,gent
+1	таких	1 d ADJF,Apro,plur,gent
+2	поискать	2 d INFN,perf,tran
+3	бы	3 d PRCL
+4	ещё	4 d ADVB
+5	,	5 d PNCT
+/sent
+sent
+0	что	0 d CONJ
+1	я	1 d NPRO,1per,sing,nomn
+2	женщина	2 d NOUN,anim,femn,sing,nomn
+3	очень	3 d ADVB
+4	развратная	4 d ADJF,Qual,femn,sing,nomn
+5	,	5 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	откуда	1 d ADVB,Ques
+2	ж	2 d CONJ
+3	ты	3 d NPRO,2per,sing,nomn
+4	выпал	4 d VERB,perf,intr,masc,sing,past,indc
+5	,	5 d PNCT
+6	нарядный	6 d ADJF,Qual,masc,sing,nomn
+7	мой	7 d ADJF,Apro,masc,sing,nomn
+8	?	8 d PNCT
+/sent
+sent
+0	чтоб	0 d CONJ
+1	не	1 d PRCL
+2	страстной	2 d ADJF,Qual,femn,sing,gent
+3	была	3 d VERB,impf,intr,femn,sing,past,indc
+4	,	4 d PNCT
+5	не	5 d PRCL
+6	строптивою	6 d ADJF,Qual,femn,sing,ablt,V-oy
+7	,	7 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	рот	1 d NOUN,inan,femn,plur,gent
+2	глядела	2 d VERB,impf,tran,femn,sing,past,indc
+3	с	3 d PREP
+4	восторгом	4 d NOUN,inan,masc,sing,ablt
+5	бы	5 d PRCL
+6	твой	6 d ADJF,Apro,masc,sing,nomn
+7	.	7 d PNCT
+/sent
+sent
+0	вьют	0 d VERB,impf,tran,plur,3per,pres,indc
+1	облака	1 d NOUN,inan,neut,sing,gent
+2	себя	2 d NPRO,Anph,sing,accs
+3	из	3 d PREP
+4	синевы	4 d NOUN,inan,femn,Sgtm,sing,gent
+5	,	5 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	я	1 d NPRO,1per,sing,nomn
+2	лежу	2 d VERB,impf,intr,sing,1per,pres,indc
+3	в	3 d PREP
+4	траве	4 d NOUN,inan,femn,sing,loct
+5	.	5 d PNCT
+/sent
+sent
+0	...	0 d PNCT
+1	и	1 d CONJ
+2	было	2 d PRCL
+3	сказано	3 d PRTS,perf,past,pssv,neut,sing
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	от	6 d PREP
+7	простых	7 d ADJF,Qual,plur,gent
+8	частей	8 d NOUN,inan,femn,plur,gent
+/sent
+sent
+0	а	0 d CONJ
+1	мысль	1 d NOUN,inan,femn,sing,nomn
+2	—	2 d PNCT
+3	от	3 d PREP
+4	облаков	4 d NOUN,inan,neut,plur,gent
+5	,	5 d PNCT
+6	плывущих	6 d PRTF,impf,intr,pres,actv,plur,gent
+7	мимо	7 d ADVB
+8	,	8 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	что	1 d PRCL
+2	когда-нибудь	2 d ADVB
+3	,	3 d PNCT
+4	в	4 d PREP
+5	такой	5 d ADJF,Apro,femn,sing,gent
+6	же	6 d PRCL
+7	светлый	7 d ADJF,Qual,masc,sing,nomn
+8	день	8 d NOUN,inan,masc,sing,accs
+9	,	9 d PNCT
+/sent
+sent
+0	все	0 d ADVB
+1	обратится	1 d VERB,perf,intr,sing,3per,futr,indc
+2	вновь	2 d ADVB
+3	к	3 d PREP
+4	своим	4 d ADJF,Apro,Anph,plur,datv
+5	пределам	5 d NOUN,inan,masc,plur,datv
+6	,	6 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	поплывёт	1 d VERB,perf,intr,sing,3per,futr,indc
+2	над	2 d PREP
+3	миром	3 d NOUN,inan,masc,sing,ablt
+4	опустелым	4 d ADJF,masc,sing,ablt
+/sent
+sent
+0	а	0 d CONJ
+1	тех	1 d ADJF,Apro,Subx,Anph,plur,gent
+2	кто	2 d NPRO,masc,sing,nomn
+3	остался	3 d VERB,perf,intr,masc,sing,past,indc
+4	рядом	4 d NOUN,inan,masc,sing,ablt
+5	со	5 d PREP,Vpre
+6	мной	6 d NPRO,1per,sing,ablt
+7	—	7 d PNCT
+8	ценю	8 d VERB,impf,tran,sing,1per,pres,indc
+9	,	9 d PNCT
+10	люблю	10 d VERB,impf,tran,sing,1per,pres,indc
+11	и	11 d CONJ
+12	уважаю	12 d VERB,impf,tran,sing,1per,pres,indc
+13	!	13 d PNCT
+/sent
+sent
+0	куда	0 d NOUN,inan,femn,Sgtm,Geox,sing,nomn
+1	можно	1 d PRED,pres
+2	пойти	2 d INFN,perf,intr
+3	в	3 d PREP
+4	сочи	4 d NOUN,inan,masc,Sgtm,Fixd,Geox,sing,loct
+5	?	5 d PNCT
+/sent
+sent
+0	предвкушала	0 d VERB,impf,tran,femn,sing,past,indc
+1	эти	1 d ADJF,Apro,Subx,Anph,plur,nomn
+2	выходные	2 d ADJF,plur,nomn
+3	,	3 d PNCT
+4	то	4 d CONJ
+5	что	5 d PRCL
+6	уеду	6 d VERB,perf,intr,sing,1per,futr,indc
+7	из	7 d PREP
+8	города	8 d NOUN,inan,masc,sing,gent
+9	,	9 d PNCT
+10	буду	10 d VERB,impf,intr,sing,1per,futr,indc
+11	наполняться	11 d INFN,impf,intr
+12	энергией	12 d NOUN,inan,femn,sing,ablt
+13	,	13 d PNCT
+14	чтоб	14 d CONJ
+15	свершать	15 d INFN,impf,tran
+16	свою	16 d ADJF,Apro,Anph,femn,sing,accs
+17	другие	17 d ADJF,Apro,Subx,plur,nomn
+18	желания	18 d NOUN,inan,neut,sing,gent
+19	.	19 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	то	1 d PRCL
+2	,	2 d PNCT
+3	что	3 d CONJ
+4	буду	4 d VERB,impf,intr,sing,1per,futr,indc
+5	на	5 d PREP
+6	следующей	6 d ADJF,femn,sing,gent
+7	неделе	7 d NOUN,inan,femn,sing,loct
+8	летать	8 d INFN,impf,intr
+9	на	9 d PREP
+10	параплане	10 d NOUN,inan,masc,sing,loct
+11	...	11 d PNCT
+12	далее	12 d ADVB
+13	пошли	13 d VERB,perf,tran,sing,impr,excl
+14	мечты	14 d NOUN,inan,femn,sing,gent
+15	,	15 d PNCT
+16	на	16 d PREP
+17	которые	17 d ADJF,Apro,Subx,Anph,plur,nomn
+18	я	18 d NPRO,1per,sing,nomn
+19	ещё	19 d ADVB
+20	не	20 d PRCL
+21	установила	21 d VERB,perf,tran,femn,sing,past,indc
+22	дату	22 d NOUN,inan,femn,sing,accs
+23	,	23 d PNCT
+24	и	24 d CONJ
+25	я	25 d NPRO,1per,sing,nomn
+26	почти	26 d ADVB
+27	уже	27 d ADVB
+28	долетела	28 d VERB,perf,intr,femn,sing,past,indc
+29	до	29 d PREP
+30	венеры	30 d NOUN,inan,femn,Sgtm,Geox,sing,gent
+/sent
+sent
+0	и	0 d CONJ
+1	только	1 d PRCL
+2	боль	2 d NOUN,inan,femn,sing,accs
+3	от	3 d PREP
+4	ссадины	4 d NOUN,inan,femn,sing,gent
+5	на	5 d PREP
+6	левой	6 d ADJF,Qual,femn,sing,gent
+7	руке	7 d NOUN,inan,femn,sing,loct
+8	вернула	8 d VERB,perf,tran,femn,sing,past,indc
+9	меня	9 d NPRO,1per,sing,accs
+10	на	10 d PREP
+11	землю	11 d NOUN,inan,femn,sing,accs
+12	,	12 d PNCT
+13	я	13 d NPRO,1per,sing,nomn
+14	уже	14 d ADVB
+15	не	15 d PRCL
+16	на	16 d PREP
+17	венере	17 d NOUN,inan,femn,Sgtm,Geox,sing,datv
+18	,	18 d PNCT
+19	а	19 d CONJ
+20	лежу	20 d VERB,impf,intr,sing,1per,pres,indc
+21	на	21 d PREP
+22	асфальте	22 d NOUN,inan,masc,sing,loct
+23	@	23 d PNCT
+/sent
+sent
+0	нужно	0 d PRED,pres
+1	было	1 d VERB,impf,intr,neut,sing,past,indc
+2	слушать	2 d INFN,impf,tran
+3	свою	3 d ADJF,Apro,Anph,femn,sing,accs
+4	интуицию	4 d NOUN,inan,femn,sing,accs
+5	,	5 d PNCT
+6	а	6 d CONJ
+7	не	7 d PRCL
+8	диспетчера	8 d NOUN,anim,masc,sing,gent
+9	.	9 d PNCT
+/sent
+sent
+0	нет	0 d PRCL
+1	времени	1 d NOUN,inan,neut,sing,gent
+2	...	2 d PNCT
+3	и	3 d CONJ
+4	очень	4 d ADVB
+5	много	5 d ADVB,Prdx
+/sent
+sent
+0	но	0 d CONJ
+1	безупречен	1 d ADJS,Qual,masc,sing
+2	в	2 d PREP
+3	дни	3 d NOUN,inan,masc,plur,accs
+4	...	4 d PNCT
+5	когда	5 d CONJ
+6	не	6 d PRCL
+/sent
+sent
+0	и	0 d CONJ
+1	идеален	1 d ADJS,Qual,masc,sing
+2	...	2 d PNCT
+3	с	3 d PREP
+4	выбритым	4 d PRTF,perf,tran,past,pssv,masc,sing,ablt
+5	лицом	5 d NOUN,inan,neut,sing,ablt
+6	...	6 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	его	1 d NPRO,masc,3per,Anph,sing,accs
+2	карманах	2 d NOUN,inan,masc,plur,loct
+3	...	3 d PNCT
+4	мятная	4 d ADJF,Qual,femn,sing,nomn
+5	жвачка	5 d NOUN,inan,femn,sing,nomn
+6	...	6 d PNCT
+/sent
+sent
+0	моя	0 d ADJF,Apro,femn,sing,nomn
+1	душа	1 d GRND,impf,tran,pres
+2	...	2 d PNCT
+3	кредитка	3 d NOUN,inan,femn,sing,nomn
+4	и	4 d CONJ
+5	права	5 d NOUN,inan,neut,sing,gent
+6	...	6 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	комнате	1 d NOUN,inan,femn,sing,loct
+2	2	2 d NUMB,intg
+3	кровати	3 d NOUN,inan,femn,sing,gent
+4	,	4 d PNCT
+5	стенка	5 d NOUN,inan,femn,sing,nomn
+6	,	6 d PNCT
+7	столик	7 d NOUN,inan,masc,sing,nomn
+8	,	8 d PNCT
+9	холодильник	9 d NOUN,inan,masc,sing,nomn
+10	,	10 d PNCT
+11	телевизор	11 d NOUN,inan,masc,sing,accs
+12	,	12 d PNCT
+13	интернет	13 d NOUN,inan,masc,sing,nomn
+14	.	14 d PNCT
+/sent
+sent
+0	если	0 d CONJ
+1	не	1 d PRCL
+2	можем	2 d VERB,impf,intr,plur,1per,pres,indc
+3	ответить	3 d INFN,perf,intr
+4	-	4 d PNCT
+5	пишите	5 d VERB,impf,tran,plur,impr,excl
+6	смс	6 d NOUN,inan,masc,Fixd,Abbr,sing,nomn
+7	или	7 d CONJ
+8	в	8 d PREP
+9	личку	9 d NOUN,inan,femn,sing,accs
+10	.	10 d PNCT
+/sent
+sent
+0	никогда	0 d ADVB
+1	не	1 d PRCL
+2	знаешь	2 d CONJ,Prnt
+3	,	3 d PNCT
+4	чем	4 d CONJ
+5	закончится	5 d VERB,perf,intr,sing,3per,futr,indc
+6	очередная	6 d ADJF,femn,sing,nomn
+7	история	7 d NOUN,inan,femn,sing,nomn
+8	в	8 d PREP
+9	твоей	9 d ADJF,Apro,femn,sing,ablt
+10	жизни	10 d NOUN,inan,femn,sing,gent
+11	,	11 d PNCT
+12	но	12 d CONJ
+13	пока	13 d ADVB
+14	она	14 d NPRO,femn,3per,Anph,sing,nomn
+15	длится	15 d VERB,impf,intr,sing,3per,pres,indc
+16	,	16 d PNCT
+17	цени	17 d VERB,impf,tran,sing,impr,excl
+18	каждый	18 d ADJF,Apro,inan,masc,sing,accs
+19	момент	19 d NOUN,inan,masc,sing,accs
+20	,	20 d PNCT
+21	каждую	21 d ADJF,Apro,femn,sing,accs
+22	секунду	22 d NOUN,inan,femn,sing,accs
+23	,	23 d PNCT
+24	каждый	24 d ADJF,Apro,inan,masc,sing,accs
+25	миг	25 d NOUN,inan,masc,sing,accs
+26	.	26 d PNCT
+/sent
+sent
+0	...	0 d PNCT
+1	и	1 d CONJ
+2	я	2 d NPRO,1per,sing,nomn
+3	больше	3 d COMP,Qual
+4	не	4 d PRCL
+5	переживаю	5 d VERB,impf,tran,sing,1per,pres,indc
+6	,	6 d PNCT
+7	не	7 d PRCL
+8	принесёшь	8 d VERB,perf,tran,sing,2per,futr,indc
+9	ли	9 d PRCL
+10	ты	10 d NPRO,2per,sing,nomn
+11	блох	11 d NOUN,anim,femn,plur,gent
+12	с	12 d PREP
+13	прогулки	13 d NOUN,inan,femn,sing,gent
+14	.	14 d PNCT
+15	!	15 d PNCT
+16	.	16 d PNCT
+17	.	17 d PNCT
+18	.	18 d PNCT
+/sent
+sent
+0	слышал	0 d VERB,impf,tran,masc,sing,past,indc
+1	когда-нибудь	1 d ADVB
+2	,	2 d PNCT
+3	как	3 d CONJ
+4	один	4 d ADJF,Apro,masc,sing,nomn
+5	человек	5 d NOUN,anim,masc,sing,nomn
+6	отучал	6 d VERB,impf,tran,masc,sing,past,indc
+7	свою	7 d ADJF,Apro,Anph,femn,sing,accs
+8	собаку	8 d NOUN,anim,femn,sing,accs
+9	бегать	9 d INFN,impf,intr
+10	за	10 d PREP
+11	машинами	11 d NOUN,inan,femn,plur,ablt
+12	,	12 d PNCT
+13	по	13 d PREP
+14	совету	14 d NOUN,inan,masc,sing,datv
+15	мудрого	15 d ADJF,Qual,masc,sing,gent
+16	товарища	16 d NOUN,anim,masc,sing,gent
+17	?	17 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	подводил	1 d VERB,impf,tran,masc,sing,past,indc
+2	её	2 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+3	к	3 d PREP
+4	машине	4 d NOUN,inan,femn,sing,datv
+5	и	5 d CONJ
+6	бил	6 d VERB,impf,tran,masc,sing,past,indc
+7	электрошокером	7 d NOUN,inan,masc,sing,ablt
+8	.	8 d PNCT
+/sent
+sent
+0	думаю	0 d VERB,impf,intr,sing,1per,pres,indc
+1	так	1 d CONJ
+2	же	2 d PRCL
+3	должно	3 d ADJS,neut,sing
+4	обращаться	4 d INFN,impf,intr
+5	с	5 d PREP
+6	кобелями	6 d NOUN,anim,masc,plur,ablt
+7	!	7 d PNCT
+/sent
+sent
+0	кобелей	0 d NOUN,anim,masc,plur,gent
+1	нужно	1 d PRED,pres
+2	воспитывать	2 d INFN,impf,tran
+3	,	3 d PNCT
+4	за	4 d PREP
+5	что	5 d PRCL
+6	я	6 d NPRO,1per,sing,nomn
+7	бы	7 d PRCL
+8	никогда	8 d ADVB
+9	не	9 d PRCL
+10	взялась	10 d VERB,perf,intr,femn,sing,past,indc
+11	.	11 d PNCT
+/sent
+sent
+0	—	0 d PNCT
+1	не	1 d PRCL
+2	хочу	2 d VERB,impf,tran,sing,1per,pres,indc
+3	быть	3 d INFN,impf,intr
+4	кому-то	4 d NPRO,masc,sing,datv
+5	хозяйкой	5 d NOUN,anim,femn,sing,ablt
+6	.	6 d PNCT
+/sent
+sent
+0	волк	0 d NOUN,anim,masc,sing,nomn
+1	всегда	1 d ADVB
+2	верен	2 d ADJS,Qual,masc,sing
+3	,	3 d PNCT
+4	и	4 d CONJ
+5	не	5 d PRCL
+6	надо	6 d PRED,pres
+7	ему	7 d NPRO,masc,3per,Anph,sing,datv
+8	для	8 d PREP
+9	этого	9 d NPRO,neut,sing,gent
+10	поводков	10 d ADJS,Qual,masc,sing
+11	!	11 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	никогда	1 d ADVB
+2	не	2 d PRCL
+3	говори	3 d VERB,impf,tran,sing,impr,excl
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	ты	6 d NPRO,2per,sing,nomn
+7	плохо	7 d PRED,pres
+8	живёшь	8 d VERB,impf,intr,sing,2per,pres,indc
+9	.	9 d PNCT
+10	бог	10 d NOUN,anim,masc,sing,nomn
+11	услышит	11 d VERB,perf,tran,sing,3per,futr,indc
+12	твои	12 d ADJF,Apro,plur,nomn
+13	слова	13 d NOUN,inan,neut,sing,gent
+14	и	14 d CONJ
+15	скажет	15 d VERB,perf,tran,sing,3per,futr,indc
+16	—	16 d PNCT
+17	:	17 d PNCT
+18	"	18 d PNCT
+19	ты	19 d NPRO,2per,sing,nomn
+20	не	20 d PRCL
+21	знаешь	21 d CONJ,Prnt
+22	,	22 d PNCT
+23	что	23 d CONJ
+24	такое	24 d ADJF,Apro,neut,sing,nomn
+25	плохая	25 d ADJF,Qual,femn,sing,nomn
+26	жизнь	26 d NOUN,inan,femn,sing,accs
+27	.	27 d PNCT
+28	.	28 d PNCT
+29	.	29 d PNCT
+30	"	30 d PNCT
+31	и	31 d CONJ
+32	даст	32 d VERB,perf,tran,sing,3per,futr,indc
+33	тебе	33 d NPRO,2per,sing,datv
+34	судьбу	34 d NOUN,inan,femn,sing,accs
+35	во	35 d PREP,Vpre
+36	много	36 d ADVB,Prdx
+37	раз	37 d NOUN,inan,masc,sing,accs
+38	худшую	38 d ADJF,Supr,Qual,femn,sing,accs
+39	...	39 d PNCT
+40	чтобы	40 d CONJ
+41	не	41 d PRCL
+42	случилось	42 d VERB,perf,intr,neut,sing,past,indc
+43	,	43 d PNCT
+44	говори	44 d VERB,impf,tran,sing,impr,excl
+45	—	45 d PNCT
+46	:	46 d PNCT
+47	"	47 d PNCT
+48	хорошо	48 d PRCL
+49	живу	49 d VERB,impf,intr,sing,1per,pres,indc
+50	.	50 d PNCT
+51	.	51 d PNCT
+52	.	52 d PNCT
+53	"	53 d PNCT
+54	тогда	54 d ADVB,Dmns
+55	бог	55 d NOUN,anim,masc,sing,nomn
+56	скажет	56 d VERB,perf,tran,sing,3per,futr,indc
+57	—	57 d PNCT
+58	:	58 d PNCT
+59	"	59 d PNCT
+60	ты	60 d NPRO,2per,sing,nomn
+61	не	61 d PRCL
+62	знаешь	62 d CONJ,Prnt
+63	,	63 d PNCT
+64	что	64 d CONJ
+65	такое	65 d ADJF,Apro,neut,sing,nomn
+66	хорошая	66 d ADJF,Qual,femn,sing,nomn
+67	жизнь	67 d NOUN,inan,femn,sing,accs
+68	,	68 d PNCT
+69	и	69 d CONJ
+70	даст	70 d VERB,perf,tran,sing,3per,futr,indc
+71	тебе	71 d NPRO,2per,sing,datv
+72	судьбу	72 d NOUN,inan,femn,sing,accs
+73	в	73 d PREP
+74	десятки	74 d NOUN,inan,femn,sing,gent
+75	раз	75 d NOUN,inan,masc,sing,accs
+76	лучше	76 d COMP,Qual
+77	.	77 d PNCT
+78	.	78 d PNCT
+79	.	79 d PNCT
+80	"	80 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	пусть	1 d PRCL
+2	тебе	2 d NPRO,2per,sing,datv
+3	плюют	3 d VERB,impf,intr,plur,3per,pres,indc
+4	в	4 d PREP
+5	спину	5 d NOUN,inan,masc,sing,datv
+6	.	6 d PNCT
+/sent
+sent
+0	5	0 d NUMB,intg
+1	лет	1 d NOUN,inan,masc,plur,gent
+2	как	2 d CONJ
+3	фамилию	3 d NOUN,inan,femn,sing,accs
+4	сменила	4 d VERB,perf,tran,femn,sing,past,indc
+5	и	5 d CONJ
+6	8	6 d NUMB,intg
+7	лет	7 d NOUN,inan,masc,plur,gent
+8	вместе	8 d ADVB
+9	!	9 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	россии	1 d NOUN,inan,femn,Sgtm,Geox,sing,gent
+2	создадут	2 d VERB,perf,tran,plur,3per,futr,indc
+3	кроссовер	3 d NOUN,inan,masc,sing,nomn
+4	в	4 d PREP
+5	стиле	5 d NOUN,inan,masc,sing,loct
+6	"	6 d PNCT
+7	запорожца	7 d NOUN,anim,masc,sing,gent
+8	"	8 d PNCT
+/sent
+sent
+0	любимый	0 d ADJF,Subx,Qual,masc,sing,nomn
+1	мужчина	1 d NOUN,anim,masc,sing,nomn
+2	—	2 d PNCT
+3	уютный	3 d ADJF,Qual,masc,sing,nomn
+4	,	4 d PNCT
+5	как	5 d CONJ
+6	дом	6 d NOUN,inan,masc,sing,accs
+7	.	7 d PNCT
+/sent
+sent
+0	с	0 d PREP
+1	ним	1 d NPRO,masc,3per,Anph,sing,ablt,Af-p
+2	думать	2 d INFN,impf,intr
+3	не	3 d PRCL
+4	будешь	4 d VERB,impf,intr,sing,2per,futr,indc
+5	:	5 d PNCT
+6	"	6 d PNCT
+7	что	7 d CONJ
+8	,	8 d PNCT
+9	там	9 d PRCL
+10	,	10 d PNCT
+11	за	11 d PREP
+12	окном	12 d NOUN,inan,neut,sing,ablt
+13	?	13 d PNCT
+14	"	14 d PNCT
+/sent
+sent
+0	мороз	0 d NOUN,anim,masc,Sgtm,Surn,sing,nomn
+1	или	1 d CONJ
+2	солнце	2 d NOUN,inan,neut,sing,nomn
+3	,	3 d PNCT
+4	иль	4 d CONJ
+5	ветер	5 d NOUN,inan,masc,sing,nomn
+6	,	6 d PNCT
+7	иль	7 d CONJ
+8	град	8 d NOUN,inan,masc,sing,nomn
+9	...	9 d PNCT
+/sent
+sent
+0	с	0 d PREP
+1	любимым	1 d ADJF,Subx,Qual,masc,sing,ablt
+2	мужчиной	2 d NOUN,anim,masc,sing,ablt
+3	не	3 d PRCL
+4	видишь	4 d VERB,impf,tran,sing,2per,pres,indc
+5	преград	5 d NOUN,inan,femn,plur,gent
+6	,	6 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	незаметны	1 d ADJS,Qual,plur
+2	и	2 d CONJ
+3	все	3 d ADVB
+4	нипочём	4 d ADVB
+5	,	5 d PNCT
+/sent
+sent
+0	все	0 d ADVB
+1	беды	1 d NOUN,inan,femn,sing,gent
+2	,	2 d PNCT
+3	печали	3 d NOUN,inan,femn,sing,gent
+4	теперь	4 d ADVB
+5	не	5 d PRCL
+6	причём	6 d CONJ
+7	.	7 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	надо	1 d PRED,pres
+2	быть	2 d INFN,impf,intr
+3	сильной	3 d ADJF,Qual,femn,sing,gent
+4	,	4 d PNCT
+5	не	5 d PRCL
+6	надо	6 d PRED,pres
+7	—	7 d PNCT
+8	"	8 d PNCT
+9	вперёд	9 d PREP
+10	.	10 d PNCT
+11	!	11 d PNCT
+12	"	12 d PNCT
+/sent
+sent
+0	слова	0 d NOUN,inan,neut,sing,gent
+1	утешенья	1 d NOUN,inan,neut,sing,gent,V-be
+2	всегда	2 d ADVB
+3	он	3 d NPRO,masc,3per,Anph,sing,nomn
+4	найдёт	4 d VERB,perf,tran,sing,3per,futr,indc
+5	.	5 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	слезы	1 d NOUN,inan,femn,sing,gent
+2	утрёт	2 d VERB,perf,tran,sing,3per,futr,indc
+3	,	3 d PNCT
+4	и	4 d CONJ
+5	подставит	5 d VERB,perf,tran,sing,3per,futr,indc
+6	плечо	6 d NOUN,inan,neut,sing,accs
+7	.	7 d PNCT
+/sent
+sent
+0	любимый	0 d ADJF,Subx,Qual,masc,sing,nomn
+1	мужчина	1 d NOUN,anim,masc,sing,nomn
+2	—	2 d PNCT
+3	что	3 d CONJ
+4	нужно	4 d PRED,pres
+5	ещё	5 d ADVB
+6	...	6 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	тот	1 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+2	тип	2 d NOUN,inan,masc,sing,accs
+3	девушек	3 d NOUN,anim,femn,plur,gent
+4	,	4 d PNCT
+5	которые	5 d ADJF,Apro,Subx,Anph,plur,nomn
+6	молчат	6 d VERB,impf,intr,plur,3per,pres,indc
+7	в	7 d PREP
+8	больших	8 d ADJF,plur,gent
+9	компаниях	9 d NOUN,inan,femn,plur,loct
+10	или	10 d CONJ
+11	рядом	11 d NOUN,inan,masc,sing,ablt
+12	с	12 d PREP
+13	людьми	13 d NOUN,anim,masc,plur,ablt
+14	,	14 d PNCT
+15	которых	15 d ADJF,Apro,Subx,Anph,plur,gent
+16	я	16 d NPRO,1per,sing,nomn
+17	не	17 d PRCL
+18	знаю	18 d VERB,impf,tran,sing,1per,pres,indc
+19	;	19 d PNCT
+20	вы	20 d NPRO,2per,plur,nomn
+21	можете	21 d VERB,impf,intr,plur,2per,pres,indc
+22	увидеть	22 d INFN,perf,tran
+23	меня	23 d NPRO,1per,sing,accs
+24	настоящую	24 d ADJF,femn,sing,accs
+25	,	25 d PNCT
+26	только	26 d CONJ
+27	если	27 d CONJ
+28	мы	28 d NPRO,1per,plur,nomn
+29	близки	29 d ADJS,Qual,plur
+30	.	30 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	много	1 d ADVB,Prdx
+2	улыбаюсь	2 d VERB,impf,intr,sing,1per,pres,indc
+3	и	3 d CONJ
+4	смеюсь	4 d VERB,impf,intr,sing,1per,pres,indc
+5	,	5 d PNCT
+6	особенно	6 d ADVB
+7	в	7 d PREP
+8	самое	8 d ADJF,Apro,neut,sing,nomn
+9	неподходящее	9 d ADJF,neut,sing,nomn
+10	время	10 d NOUN,inan,neut,sing,accs
+11	.	11 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	спотыкаюсь	1 d VERB,impf,intr,sing,1per,pres,indc
+2	о	2 d PREP
+3	воздух	3 d NOUN,inan,masc,sing,accs
+4	,	4 d PNCT
+5	когда	5 d CONJ
+6	поднимаюсь	6 d VERB,impf,intr,sing,1per,pres,indc
+7	по	7 d PREP
+8	лестнице	8 d NOUN,inan,femn,sing,datv
+9	,	9 d PNCT
+10	и	10 d CONJ
+11	когда	11 d CONJ
+12	люди	12 d NOUN,anim,masc,plur,nomn
+13	ставят	13 d VERB,impf,tran,plur,3per,pres,indc
+14	мне	14 d NPRO,1per,sing,datv
+15	подножки	15 d NOUN,inan,femn,sing,gent
+16	.	16 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	ненавижу	1 d VERB,impf,tran,sing,1per,pres,indc
+2	рассказывать	2 d INFN,impf,tran
+3	людям	3 d NOUN,anim,masc,plur,datv
+4	о	4 d PREP
+5	своих	5 d ADJF,Apro,Anph,plur,gent
+6	проблемах	6 d NOUN,inan,femn,plur,loct
+7	;	7 d PNCT
+8	они	8 d NPRO,3per,Anph,plur,nomn
+9	не	9 d PRCL
+10	обязаны	10 d PRTS,perf,past,pssv,plur
+11	обо	11 d PREP,Vpre,Infr
+12	мне	12 d NPRO,1per,sing,datv
+13	волноваться	13 d INFN,impf,intr
+14	.	14 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	—	1 d PNCT
+2	единственная	2 d ADJF,femn,sing,nomn
+3	,	3 d PNCT
+4	кто	4 d NPRO,masc,sing,nomn
+5	слушает	5 d VERB,impf,tran,sing,3per,pres,indc
+6	о	6 d PREP
+7	проблемах	7 d NOUN,inan,femn,plur,loct
+8	других	8 d ADJF,Apro,Subx,plur,gent
+9	людей	9 d NOUN,anim,masc,plur,gent
+10	.	10 d PNCT
+/sent
+sent
+0	мне	0 d NPRO,1per,sing,datv
+1	больше	1 d COMP,Qual
+2	нравится	2 d VERB,impf,intr,sing,3per,pres,indc
+3	думать	3 d INFN,impf,intr
+4	,	4 d PNCT
+5	чем	5 d CONJ
+6	говорить	6 d INFN,impf,tran
+7	.	7 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	странная	1 d ADJF,Qual,femn,sing,nomn
+2	,	2 d PNCT
+3	неуклюжая	3 d ADJF,Qual,femn,sing,nomn
+4	,	4 d PNCT
+5	стеснительная	5 d ADJF,Qual,femn,sing,nomn
+6	,	6 d PNCT
+7	чудная	7 d ADJF,Qual,femn,sing,nomn
+8	...	8 d PNCT
+9	я	9 d NPRO,1per,sing,nomn
+10	такая	10 d ADJF,Apro,femn,sing,nomn
+11	.	11 d PNCT
+/sent
+sent
+0	мужская	0 d ADJF,femn,sing,nomn
+1	логика	1 d NOUN,inan,femn,sing,nomn
+2	проста	2 d ADJS,Qual,femn,sing
+3	и	3 d CONJ
+4	показательна	4 d ADJS,Qual,femn,sing
+5	,	5 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	не	1 d PRCL
+2	стесняясь	2 d GRND,impf,intr,pres
+3	дураком	3 d NOUN,anim,masc,sing,ablt
+4	прослыть	4 d INFN,perf,intr
+5	,	5 d PNCT
+/sent
+sent
+0	поэт	0 d NOUN,anim,masc,sing,nomn
+1	сказал	1 d VERB,perf,tran,masc,sing,past,indc
+2	,	2 d PNCT
+3	что	3 d CONJ
+4	для	4 d PREP
+5	мужчин	5 d NOUN,anim,masc,plur,gent
+6	желательно	6 d ADVB
+/sent
+sent
+0	а	0 d CONJ
+1	я	1 d NPRO,1per,sing,nomn
+2	с	2 d PREP
+3	высот	3 d NOUN,inan,femn,plur,gent
+4	не	4 d PRCL
+5	поэтичной	5 d ADJF,Qual,femn,sing,gent
+6	лирики	6 d NOUN,inan,femn,sing,gent
+/sent
+sent
+0	и	0 d CONJ
+1	без	1 d PREP
+2	налёта	2 d NOUN,inan,masc,sing,gent
+3	умственных	3 d ADJF,Qual,plur,gent
+4	глубин	4 d NOUN,inan,femn,plur,gent
+/sent
+sent
+0	скажу	0 d VERB,perf,tran,sing,1per,futr,indc
+1	:	1 d PNCT
+2	чем	2 d CONJ
+3	меньше	3 d ADVB
+4	женщину	4 d NOUN,anim,femn,sing,accs
+5	вы	5 d NPRO,2per,plur,nomn
+6	любите	6 d VERB,impf,tran,plur,2per,pres,indc
+7	,	7 d PNCT
+/sent
+sent
+0	приглашаю	0 d VERB,impf,tran,sing,1per,pres,indc
+1	в	1 d PREP
+2	гости	2 d NOUN,anim,masc,plur,nomn
+3	с	3 d PREP
+4	семьёй	4 d NOUN,inan,femn,sing,ablt
+5	!	5 d PNCT
+/sent
+sent
+0	на	0 d PREP
+1	майские	1 d ADJF,plur,nomn
+2	шашлыки	2 d NOUN,inan,masc,plur,nomn
+3	и	3 d CONJ
+4	баню	4 d NOUN,inan,femn,sing,accs
+5	,	5 d PNCT
+6	от	6 d PREP
+7	вас	7 d NPRO,2per,plur,accs
+8	помощь	8 d NOUN,inan,femn,sing,accs
+9	в	9 d PREP
+10	огороде	10 d NOUN,inan,masc,sing,loct
+11	!	11 d PNCT
+/sent
+sent
+0	на	0 d PREP
+1	выходных	1 d ADJF,plur,gent
+2	еду	2 d NOUN,inan,femn,Sgtm,sing,accs
+3	на	3 d PREP
+4	склад	4 d NOUN,inan,masc,sing,nomn
+5	.	5 d PNCT
+/sent
+sent
+0	ищу	0 d VERB,impf,tran,sing,1per,pres,indc
+1	моделей	1 d NOUN,inan,femn,plur,gent
+2	для	2 d PREP
+3	сахарной	3 d ADJF,Qual,femn,sing,gent
+4	депиляции	4 d NOUN,inan,femn,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	спасибо	0 d PRCL
+1	огромное	1 d ADJF,Qual,neut,sing,nomn
+2	насте	2 d NOUN,inan,masc,sing,loct
+3	и	3 d CONJ
+4	алене	4 d NOUN,anim,masc,Name,sing,loct
+5	за	5 d PREP
+6	подготовку	6 d NOUN,inan,femn,sing,accs
+7	и	7 d CONJ
+8	выступление	8 d NOUN,inan,neut,sing,nomn
+9	на	9 d PREP
+10	выставке	10 d NOUN,inan,femn,sing,loct
+11	!	11 d PNCT
+/sent
+sent
+0	бесплатный	0 d ADJF,Qual,masc,sing,nomn
+1	вай-фай	1 d NOUN,inan,masc,sing,nomn
+2	,	2 d PNCT
+3	комнатные	3 d ADJF,plur,nomn
+4	растения	4 d NOUN,inan,neut,sing,gent
+5	и	5 d CONJ
+6	умные	6 d ADJF,Qual,plur,nomn
+7	лица	7 d NOUN,anim,neut,sing,gent
+8	школьников	8 d NOUN,anim,masc,plur,gent
+9	.	9 d PNCT
+/sent
+sent
+0	.	0 d PNCT
+1	дед	1 d NOUN,anim,masc,sing,nomn
+2	,	2 d PNCT
+3	родной	3 d ADJF,masc,sing,nomn
+4	,	4 d PNCT
+5	теперь	5 d ADVB
+6	и	6 d PRCL
+7	ты	7 d NPRO,2per,sing,nomn
+8	будешь	8 d VERB,impf,intr,sing,2per,futr,indc
+9	в	9 d PREP
+10	рядах	10 d NOUN,inan,masc,plur,loct
+11	"	11 d PNCT
+12	бессмертного	12 d ADJF,neut,sing,gent
+13	полка	13 d NOUN,inan,femn,sing,nomn
+14	.	14 d PNCT
+15	"	15 d PNCT
+/sent
+sent
+0	знаю	0 d VERB,impf,tran,sing,1per,pres,indc
+1	,	1 d PNCT
+2	что	2 d CONJ
+3	мама	3 d NOUN,anim,femn,sing,nomn
+4	сейчас	4 d ADVB
+5	смотрит	5 d VERB,impf,tran,sing,3per,pres,indc
+6	на	6 d PREP
+7	это	7 d PRCL
+8	фото	8 d NOUN,inan,neut,Fixd,sing,loct
+9	и	9 d CONJ
+10	плачет	10 d VERB,impf,intr,sing,3per,pres,indc
+11	.	11 d PNCT
+/sent
+sent
+0	дед	0 d NOUN,anim,masc,sing,nomn
+1	,	1 d PNCT
+2	спасибо	2 d PRCL
+3	тебе	3 d NPRO,2per,sing,datv
+4	за	4 d PREP
+5	победу	5 d NOUN,inan,femn,sing,accs
+/sent
+sent
+0	в	0 d PREP
+1	наличии	1 d NOUN,inan,neut,sing,loct
+2	42-46	2 d UNKN
+3	,	3 d PNCT
+4	на	4 d PREP
+5	мал	5 d ADJS,Qual,masc,sing
+6	рост	6 d NOUN,inan,masc,sing,nomn
+7	1000	7 d NUMB,intg
+/sent
+sent
+0	будет	0 d VERB,impf,intr,sing,3per,futr,indc
+1	мастер	1 d NOUN,anim,masc,sing,nomn
+2	класс	2 d NOUN,inan,masc,sing,nomn
+3	(	3 d PNCT
+4	черновой	4 d NOUN,anim,femn,Sgtm,Surn,sing,gent
+5	,	5 d PNCT
+6	будут	6 d VERB,impf,intr,plur,3per,futr,indc
+7	свои	7 d ADJF,Apro,Anph,inan,plur,accs
+8	)	8 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	что	1 d CONJ
+2	такое	2 d ADJF,Apro,neut,sing,nomn
+3	энергия	3 d NOUN,inan,femn,sing,nomn
+4	и	4 d CONJ
+5	как	5 d PRCL
+6	она	6 d NPRO,femn,3per,Anph,sing,nomn
+7	работает	7 d VERB,impf,intr,sing,3per,pres,indc
+8	.	8 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	энергетическое	1 d ADJF,neut,sing,nomn
+2	строение	2 d NOUN,inan,neut,sing,nomn
+3	человека	3 d NOUN,anim,masc,sing,gent
+4	(	4 d PNCT
+5	аура	5 d NOUN,inan,femn,sing,nomn
+6	,	6 d PNCT
+7	чакры	7 d NOUN,inan,femn,sing,gent
+8	,	8 d PNCT
+9	каналы	9 d NOUN,inan,masc,plur,accs
+10	)	10 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	концентрация	1 d NOUN,inan,femn,sing,nomn
+2	—	2 d PNCT
+3	что	3 d CONJ
+4	такое	4 d ADJF,Apro,neut,sing,nomn
+5	концентрация	5 d NOUN,inan,femn,sing,nomn
+6	и	6 d CONJ
+7	для	7 d PREP
+8	чего	8 d NPRO,neut,sing,gent
+9	она	9 d NPRO,femn,3per,Anph,sing,nomn
+10	нужна	10 d ADJS,Qual,femn,sing
+11	в	11 d PREP
+12	работе	12 d NOUN,inan,femn,sing,loct
+13	с	13 d PREP
+14	энергиями	14 d NOUN,inan,femn,plur,ablt
+/sent
+sent
+0	-	0 d PNCT
+1	как	1 d CONJ
+2	энергетические	2 d ADJF,inan,plur,accs
+3	программы	3 d NOUN,inan,femn,sing,gent
+4	влияют	4 d VERB,impf,intr,plur,3per,pres,indc
+5	на	5 d PREP
+6	человека	6 d NOUN,anim,masc,sing,gent
+7	и	7 d CONJ
+8	на	8 d PREP
+9	окружающего	9 d ADJF,masc,sing,gent
+10	мира	10 d NOUN,inan,masc,sing,gent
+11	.	11 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	дыхание	1 d NOUN,inan,neut,sing,accs
+2	(	2 d PNCT
+3	развитие	3 d NOUN,inan,neut,sing,accs
+4	чувствительности	4 d NOUN,inan,femn,sing,gent
+5	и	5 d CONJ
+6	массаж	6 d NOUN,inan,masc,sing,nomn
+7	на	7 d PREP
+8	клеточном	8 d ADJF,Qual,masc,sing,loct
+9	уровне	9 d NOUN,inan,masc,sing,loct
+10	)	10 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	в	1 d PREP
+2	перерыве	2 d NOUN,inan,masc,sing,loct
+3	чаепитие	3 d NOUN,inan,neut,sing,nomn
+4	китайского	4 d ADJF,neut,sing,gent
+5	чая	5 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	желаете	0 d VERB,impf,tran,plur,2per,pres,indc
+1	проводить	1 d INFN,impf,tran
+2	время	2 d NOUN,inan,neut,sing,accs
+3	в	3 d PREP
+4	интернете	4 d NOUN,inan,masc,sing,loct
+5	с	5 d PREP
+6	пользой	6 d NOUN,inan,femn,sing,ablt
+7	?	7 d PNCT
+/sent
+sent
+0	делюсь	0 d VERB,impf,intr,sing,1per,pres,indc
+1	идеей	1 d NOUN,inan,femn,sing,ablt
+2	,	2 d PNCT
+3	как	3 d CONJ
+4	это	4 d PRCL
+5	сделать	5 d INFN,perf,tran
+6	.	6 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	пустили	1 d VERB,perf,tran,plur,past,indc
+2	на	2 d PREP
+3	урок	3 d NOUN,inan,masc,sing,nomn
+4	,	4 d PNCT
+5	ну	5 d PRCL
+6	я	6 d NPRO,1per,sing,nomn
+7	же	7 d PRCL
+8	баба	8 d NOUN,anim,femn,sing,nomn
+9	крутая	9 d ADJF,Qual,femn,sing,nomn
+10	.	10 d PNCT
+/sent
+sent
+0	.	0 d PNCT
+1	весь	1 d ADJF,Apro,inan,masc,sing,accs
+2	урок	2 d NOUN,inan,masc,sing,nomn
+3	около	3 d PREP
+4	парты	4 d NOUN,inan,femn,sing,gent
+5	посидеть	5 d INFN,perf,intr
+6	,	6 d PNCT
+7	кто	7 d NPRO,masc,sing,nomn
+8	так	8 d CONJ
+9	сможет	9 d VERB,perf,intr,sing,3per,futr,indc
+10	и	10 d CONJ
+11	главное	11 d ADJF,Qual,neut,sing,nomn
+12	чтобы	12 d CONJ
+13	училка	13 d NOUN,anim,femn,sing,nomn
+14	не	14 d PRCL
+15	спалила	15 d VERB,perf,tran,femn,sing,past,indc
+/sent
+sent
+0	кто	0 d NPRO,masc,sing,nomn
+1	эти	1 d ADJF,Apro,Subx,Anph,plur,nomn
+2	доброжелатели	2 d NOUN,anim,masc,plur,nomn
+3	,	3 d PNCT
+4	которые	4 d ADJF,Apro,Subx,Anph,plur,nomn
+5	убедили	5 d VERB,perf,tran,plur,past,indc
+6	вас	6 d NPRO,2per,plur,accs
+7	,	7 d PNCT
+8	что	8 d CONJ
+9	без	9 d PREP
+10	мяса	10 d NOUN,inan,neut,Sgtm,sing,gent
+11	вы	11 d NPRO,2per,plur,nomn
+12	будете	12 d VERB,impf,intr,plur,2per,futr,indc
+13	хилы	13 d ADJS,Qual,plur
+14	,	14 d PNCT
+15	голодны	15 d ADJS,Qual,plur
+16	и	16 d CONJ
+17	вообще	17 d ADVB
+18	не	18 d PRCL
+19	проживёте	19 d VERB,perf,tran,plur,2per,futr,indc
+20	?	20 d PNCT
+/sent
+sent
+0	кто	0 d NPRO,masc,sing,nomn
+1	такой	1 d ADJF,Apro,femn,sing,gent
+2	заботливый	2 d ADJF,Qual,masc,sing,nomn
+3	продумал	3 d VERB,perf,tran,masc,sing,past,indc
+4	для	4 d PREP
+5	вас	5 d NPRO,2per,plur,accs
+6	миф	6 d NOUN,inan,masc,sing,nomn
+7	,	7 d PNCT
+8	что	8 d CONJ
+9	без	9 d PREP
+10	натурального	10 d ADJF,Qual,masc,sing,gent
+11	меха	11 d NOUN,inan,masc,sing,gent
+12	и	12 d CONJ
+13	кожи	13 d NOUN,inan,femn,sing,gent
+14	вы	14 d NPRO,2per,plur,nomn
+15	замёрзнете	15 d VERB,perf,intr,plur,2per,futr,indc
+16	и	16 d CONJ
+17	будете	17 d VERB,impf,intr,plur,2per,futr,indc
+18	не	18 d PRCL
+19	элегантны	19 d ADJS,Qual,plur
+20	?	20 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	скажу	1 d VERB,perf,tran,sing,1per,futr,indc
+2	тебе	2 d NPRO,2per,sing,datv
+3	,	3 d PNCT
+4	кто	4 d NPRO,masc,sing,nomn
+5	эти	5 d ADJF,Apro,Subx,Anph,plur,nomn
+6	люди	6 d NOUN,anim,masc,plur,nomn
+7	.	7 d PNCT
+/sent
+sent
+0	это	0 d PRCL
+1	те	1 d ADJF,Apro,Subx,Anph,plur,nomn
+2	же	2 d PRCL
+3	,	3 d PNCT
+4	кто	4 d NPRO,masc,sing,nomn
+5	греет	5 d VERB,impf,tran,sing,3per,pres,indc
+6	руки	6 d NOUN,inan,femn,sing,gent
+7	на	7 d PREP
+8	мистификациях	8 d NOUN,inan,femn,plur,loct
+9	типа	9 d NOUN,inan,masc,sing,gent
+10	спида	10 d NOUN,inan,masc,sing,gent
+11	и	11 d CONJ
+12	рака	12 d NOUN,anim,masc,sing,gent
+13	,	13 d PNCT
+14	это	14 d PRCL
+15	те	15 d ADJF,Apro,Subx,Anph,plur,nomn
+16	же	16 d PRCL
+17	люди	17 d NOUN,anim,masc,plur,nomn
+18	,	18 d PNCT
+19	которые	19 d ADJF,Apro,Subx,Anph,plur,nomn
+20	сдерживают	20 d VERB,impf,tran,plur,3per,pres,indc
+21	появление	21 d NOUN,inan,neut,sing,nomn
+22	электромобилей	22 d NOUN,inan,masc,plur,gent
+23	,	23 d PNCT
+24	чтобы	24 d CONJ
+25	продавать	25 d INFN,impf,tran
+26	вам	26 d NPRO,2per,plur,datv
+27	бензин	27 d NOUN,inan,masc,sing,nomn
+28	.	28 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	же	1 d PRCL
+2	продают	2 d VERB,impf,tran,plur,3per,pres,indc
+3	вам	3 d NPRO,2per,plur,datv
+4	наркотики	4 d NOUN,inan,masc,plur,nomn
+5	,	5 d PNCT
+6	водку	6 d NOUN,inan,femn,sing,accs
+7	и	7 d CONJ
+8	табак	8 d NOUN,inan,masc,sing,nomn
+9	.	9 d PNCT
+/sent
+sent
+0	это	0 d PRCL
+1	те	1 d ADJF,Apro,Subx,Anph,plur,nomn
+2	люди	2 d NOUN,anim,masc,plur,nomn
+3	,	3 d PNCT
+4	кому	4 d NOUN,inan,femn,sing,accs
+5	нужны	5 d ADJS,Qual,plur
+6	управляемые	6 d ADJF,plur,nomn
+7	,	7 d PNCT
+8	несведущие	8 d ADJF,Qual,plur,nomn
+9	и	9 d CONJ
+10	агрессивные	10 d ADJF,Qual,plur,nomn
+11	массы	11 d NOUN,inan,femn,sing,gent
+12	.	12 d PNCT
+/sent
+sent
+0	те	0 d ADJF,Apro,Subx,Anph,plur,nomn
+1	,	1 d PNCT
+2	кому	2 d NOUN,inan,femn,sing,accs
+3	нужен	3 d ADJS,Qual,masc,sing
+4	контроль	4 d NOUN,inan,masc,sing,accs
+5	над	5 d PREP
+6	обществом	6 d NOUN,inan,neut,sing,ablt
+7	и	7 d CONJ
+8	вашим	8 d ADJF,Apro,plur,datv
+9	сознанием	9 d NOUN,inan,neut,sing,ablt
+10	,	10 d PNCT
+11	в_том_числе	11 d NOUN,anim,masc,Name,sing,loct
+12	,	12 d PNCT
+13	с	13 d PREP
+14	помощью	14 d NOUN,inan,femn,sing,ablt
+15	мифов	15 d NOUN,inan,masc,plur,gent
+16	.	16 d PNCT
+/sent
+sent
+0	этим	0 d NPRO,neut,sing,ablt
+1	людям	1 d NOUN,anim,masc,plur,datv
+2	выгодна	2 d ADJS,Qual,femn,sing
+3	ваша	3 d ADJF,Apro,femn,sing,nomn
+4	от	4 d PREP
+5	них	5 d NPRO,3per,Anph,plur,gent,Af-p
+6	зависимость	6 d NOUN,inan,femn,sing,nomn
+7	.	7 d PNCT
+/sent
+sent
+0	им	0 d NOUN,inan,neut,sing,gent,Abbr
+1	наплевать	1 d INFN,perf,tran
+2	на	2 d PREP
+3	то	3 d PRCL
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	вы	6 d NPRO,2per,plur,nomn
+7	сокращаете	7 d VERB,impf,tran,plur,2per,pres,indc
+8	свою	8 d ADJF,Apro,Anph,femn,sing,accs
+9	жизнь	9 d NOUN,inan,femn,sing,accs
+10	и	10 d CONJ
+11	не	11 d PRCL
+12	живёте	12 d VERB,impf,intr,plur,2per,pres,indc
+13	полноценно	13 d ADVB
+14	.	14 d PNCT
+/sent
+sent
+0	им	0 d NOUN,inan,neut,sing,gent,Abbr
+1	наплевать	1 d INFN,perf,tran
+2	на	2 d PREP
+3	вас	3 d NPRO,2per,plur,accs
+4	,	4 d PNCT
+5	главное	5 d ADJF,Qual,neut,sing,nomn
+6	,	6 d PNCT
+7	что	7 d CONJ
+8	вы	8 d NPRO,2per,plur,nomn
+9	несёте	9 d VERB,impf,tran,plur,2per,pres,indc
+10	им	10 d NOUN,inan,neut,sing,gent,Abbr
+11	свои	11 d ADJF,Apro,Anph,inan,plur,accs
+12	деньги	12 d NOUN,inan,femn,sing,gent
+13	.	13 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	люди	1 d NOUN,anim,masc,plur,nomn
+2	с	2 d PREP
+3	завязанными	3 d PRTF,perf,tran,past,pssv,plur,ablt
+4	глазами	4 d NOUN,inan,masc,plur,ablt
+5	работают	5 d VERB,impf,intr,plur,3per,pres,indc
+6	на	6 d PREP
+7	мясников	7 d NOUN,anim,masc,plur,gent
+8	,	8 d PNCT
+9	и	9 d CONJ
+10	на	10 d PREP
+11	тех	11 d ADJF,Apro,Subx,Anph,plur,gent
+12	,	12 d PNCT
+13	кто	13 d NPRO,masc,sing,nomn
+14	насилуют	14 d VERB,impf,tran,plur,3per,pres,indc
+15	природу	15 d NOUN,inan,femn,sing,accs
+16	сотнями	16 d NOUN,inan,femn,plur,ablt
+17	способов	17 d NOUN,inan,masc,plur,gent
+18	.	18 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	могу	1 d VERB,impf,intr,sing,1per,pres,indc
+2	тебя	2 d NPRO,2per,sing,accs
+3	долго	3 d ADVB
+4	ждать	4 d INFN,impf,tran
+5	,	5 d PNCT
+/sent
+sent
+0	даже	0 d CONJ
+1	ночи	1 d NOUN,inan,femn,sing,loc2
+2	могу	2 d VERB,impf,intr,sing,1per,pres,indc
+3	не	3 d PRCL
+4	спать	4 d INFN,impf,intr
+/sent
+sent
+0	день	0 d NOUN,inan,masc,sing,accs
+1	и	1 d CONJ
+2	два	2 d NUMR,masc,nomn
+3	и	3 d CONJ
+4	весь	4 d ADJF,Apro,inan,masc,sing,accs
+5	год	5 d NOUN,inan,masc,sing,accs
+6	,	6 d PNCT
+7	наверно	7 d ADVB
+8	,	8 d PNCT
+/sent
+sent
+0	облетят	0 d VERB,perf,tran,plur,3per,futr,indc
+1	как	1 d CONJ
+2	листва	2 d NOUN,inan,femn,Sgtm,sing,nomn
+3	из	3 d PREP
+4	сада	4 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	только	0 d CONJ
+1	знать	1 d INFN,impf,tran
+2	бы	2 d PRCL
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	все	5 d ADVB
+6	не	6 d PRCL
+7	зря	7 d ADVB
+8	,	8 d PNCT
+/sent
+sent
+0	жизнерадостность	0 d NOUN,inan,femn,sing,nomn
+1	—	1 d PNCT
+2	это	2 d PRCL
+3	не	3 d PRCL
+4	только	4 d PRCL
+5	признак	5 d NOUN,inan,masc,sing,nomn
+6	здоровья	6 d NOUN,inan,neut,sing,gent
+7	,	7 d PNCT
+8	но	8 d CONJ
+9	ещё	9 d ADVB
+10	и	10 d PRCL
+11	самое	11 d ADJF,Apro,neut,sing,nomn
+12	действенное	12 d ADJF,Qual,neut,sing,accs
+13	средство	13 d NOUN,inan,neut,sing,nomn
+14	,	14 d PNCT
+15	избавляющее	15 d PRTF,impf,tran,pres,actv,neut,sing,nomn
+16	от	16 d PREP
+17	болезней	17 d NOUN,inan,femn,plur,gent
+18	.	18 d PNCT
+/sent
+sent
+0	родительский	0 d ADJF,masc,sing,nomn
+1	день	1 d NOUN,inan,masc,sing,accs
+2	в	2 d PREP
+3	пионерском	3 d ADJF,masc,sing,loct
+4	лагере	4 d NOUN,inan,masc,sing,loct
+5	.	5 d PNCT
+/sent
+sent
+0	маленькая	0 d ADJF,Qual,femn,sing,nomn
+1	девочка	1 d NOUN,anim,femn,sing,nomn
+2	(	2 d PNCT
+3	в	3 d PREP
+4	розовом	4 d ADJF,Qual,masc,sing,loct
+5	платьице	5 d NOUN,inan,neut,sing,nomn
+6	:	6 d PNCT
+7	)	7 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	дело	1 d NOUN,inan,neut,sing,nomn
+2	васильевой	2 d NOUN,anim,femn,Sgtm,Surn,sing,gent
+3	"	3 d PNCT
+4	оценивают	4 d VERB,impf,tran,plur,3per,pres,indc
+5	уже	5 d ADVB
+6	в	6 d PREP
+7	16	7 d NUMB,intg
+8	миллиардов	8 d NOUN,inan,masc,plur,gent
+/sent
+sent
+0	минфин	0 d NOUN,inan,masc,Orgn,sing,nomn
+1	предлагает	1 d VERB,impf,tran,sing,3per,pres,indc
+2	вернуться	2 d INFN,perf,intr
+3	к	3 d PREP
+4	оптимизации	4 d NOUN,inan,femn,sing,gent
+5	образования	5 d NOUN,inan,neut,sing,gent
+6	,	6 d PNCT
+7	здравоохранения	7 d NOUN,inan,neut,sing,gent
+8	и	8 d CONJ
+9	культуры	9 d NOUN,inan,femn,sing,gent
+/sent
+sent
+0	а	0 d CONJ
+1	в	1 d PREP
+2	городе	2 d NOUN,inan,masc,sing,loct
+3	планируется	3 d VERB,impf,intr,sing,3per,pres,indc
+4	такая	4 d ADJF,Apro,femn,sing,nomn
+5	расчистка	5 d NOUN,inan,femn,sing,nomn
+6	?	6 d PNCT
+/sent
+sent
+0	или	0 d CONJ
+1	ещё	1 d ADVB
+2	мало	2 d ADVB,Prdx
+3	проблем	3 d NOUN,inan,femn,plur,gent
+4	делают	4 d VERB,impf,tran,plur,3per,pres,indc
+5	падающие	5 d PRTF,impf,intr,pres,actv,plur,nomn
+6	ветки	6 d NOUN,inan,femn,sing,gent
+7	и	7 d CONJ
+8	деревья	8 d NOUN,inan,neut,plur,nomn
+9	?	9 d PNCT
+/sent
+sent
+0	добрый	0 d ADJF,Qual,masc,sing,nomn
+1	день	1 d NOUN,inan,masc,sing,accs
+2	дамы	2 d NOUN,anim,femn,plur,nomn
+3	и	3 d CONJ
+4	господа	4 d NOUN,anim,masc,plur,nomn
+5	,	5 d PNCT
+6	предлагаем	6 d VERB,impf,tran,plur,1per,pres,indc
+7	вам	7 d NPRO,2per,plur,datv
+8	новую	8 d ADJF,Qual,femn,sing,accs
+9	услугу	9 d NOUN,inan,femn,sing,accs
+10	.	10 d PNCT
+/sent
+sent
+0	гарант	0 d NOUN,anim,masc,sing,nomn
+1	вашей	1 d ADJF,Apro,femn,sing,gent
+2	сделки	2 d NOUN,inan,femn,sing,gent
+3	в	3 d PREP
+4	сети	4 d NOUN,inan,femn,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	адекватный	0 d ADJF,Qual,masc,sing,nomn
+1	подход	1 d NOUN,inan,masc,sing,nomn
+2	,	2 d PNCT
+3	быстрый	3 d ADJF,Qual,masc,sing,nomn
+4	старт	4 d NOUN,inan,masc,sing,nomn
+5	вашей	5 d ADJF,Apro,femn,sing,gent
+6	сделки	6 d NOUN,inan,femn,sing,gent
+7	.	7 d PNCT
+/sent
+sent
+0	любимый	0 d ADJF,Subx,Qual,masc,sing,nomn
+1	человек	1 d NOUN,anim,masc,sing,nomn
+2	—	2 d PNCT
+3	это	3 d PRCL
+4	тот	4 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+5	,	5 d PNCT
+6	кто	6 d NPRO,masc,sing,nomn
+7	будет	7 d VERB,impf,intr,sing,3per,futr,indc
+8	рядом	8 d NOUN,inan,masc,sing,ablt
+9	в	9 d PREP
+10	самые	10 d ADJF,Apro,plur,nomn
+11	трудные	11 d ADJF,Qual,plur,nomn
+12	моменты	12 d NOUN,inan,masc,plur,nomn
+13	и	13 d CONJ
+14	не	14 d PRCL
+15	откажется	15 d VERB,perf,intr,sing,3per,futr,indc
+16	от	16 d PREP
+17	тебя	17 d NPRO,2per,sing,accs
+18	,	18 d PNCT
+19	даже	19 d CONJ
+20	,	20 d PNCT
+21	если	21 d CONJ
+22	от	22 d PREP
+23	тебя	23 d NPRO,2per,sing,accs
+24	отвернётся	24 d VERB,perf,intr,sing,3per,futr,indc
+25	весь	25 d ADJF,Apro,inan,masc,sing,accs
+26	мир	26 d NOUN,inan,masc,sing,accs
+27	.	27 d PNCT
+/sent
+sent
+0	кроме_того	0 d ADVB
+1	,	1 d PNCT
+2	препарат	2 d NOUN,inan,masc,sing,nomn
+3	,	3 d PNCT
+4	жизненно	4 d ADVB
+5	необходимый	5 d ADJF,Qual,masc,sing,nomn
+6	мальчику	6 d NOUN,anim,masc,sing,datv
+7	,	7 d PNCT
+8	будет	8 d VERB,impf,intr,sing,3per,futr,indc
+9	внесёт	9 d VERB,perf,tran,sing,3per,futr,indc
+10	в	10 d PREP
+11	реестр	11 d NOUN,inan,masc,sing,nomn
+12	бесплатного	12 d ADJF,Qual,neut,sing,gent
+13	лекарственного	13 d ADJF,masc,sing,gent
+14	обеспечения	14 d NOUN,inan,neut,sing,gent
+15	лишь	15 d PRCL
+16	в	16 d PREP
+17	июле	17 d NOUN,inan,masc,sing,loct
+18	.	18 d PNCT
+/sent
+sent
+0	курс	0 d NOUN,inan,masc,sing,nomn
+1	лечения	1 d NOUN,inan,neut,sing,gent
+2	до	2 d PREP
+3	июля	3 d NOUN,inan,masc,sing,gent
+4	будет	4 d VERB,impf,intr,sing,3per,futr,indc
+5	стоить	5 d INFN,impf,intr,Impe
+6	80	6 d NUMB,intg
+7	тысяч	7 d NOUN,inan,femn,plur,gent
+8	рублей	8 d NOUN,inan,masc,plur,gent
+9	.	9 d PNCT
+/sent
+sent
+0	давайте	0 d VERB,impf,tran,plur,impr,excl
+1	вместе	1 d ADVB
+2	поможем	2 d VERB,perf,intr,plur,1per,futr,indc
+3	мальчику	3 d NOUN,anim,masc,sing,datv
+4	сохранить	4 d INFN,perf,tran
+5	жизнь	5 d NOUN,inan,femn,sing,accs
+/sent
+sent
+0	однажды	0 d ADVB
+1	ты	1 d NPRO,2per,sing,nomn
+2	встретишь	2 d VERB,perf,tran,sing,2per,futr,indc
+3	молодого	3 d ADJF,Qual,neut,sing,gent
+4	человека	4 d NOUN,anim,masc,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	в	1 d PREP
+2	конечном	2 d ADJF,Qual,masc,sing,loct
+3	итоге	3 d NOUN,inan,masc,sing,loct
+4	,	4 d PNCT
+5	он	5 d NPRO,masc,3per,Anph,sing,nomn
+6	захочет	6 d VERB,perf,tran,sing,3per,futr,indc
+7	выяснить	7 d INFN,perf,tran
+8	всё	8 d ADJF,Apro,neut,sing,nomn
+9	.	9 d PNCT
+/sent
+sent
+0	как	0 d CONJ
+1	ты	1 d NPRO,2per,sing,nomn
+2	ешь	2 d VERB,impf,tran,sing,2per,pres,indc
+3	,	3 d PNCT
+4	как	4 d CONJ
+5	ты	5 d NPRO,2per,sing,nomn
+6	танцуешь	6 d VERB,impf,tran,sing,2per,pres,indc
+7	,	7 d PNCT
+8	как	8 d CONJ
+9	ты	9 d NPRO,2per,sing,nomn
+10	чувствуешь	10 d VERB,impf,tran,sing,2per,pres,indc
+11	каждое	11 d ADJF,Apro,neut,sing,nomn
+12	мгновение	12 d NOUN,inan,neut,sing,nomn
+13	этого	13 d NPRO,neut,sing,gent
+14	дня	14 d NOUN,inan,masc,sing,gent
+15	.	15 d PNCT
+/sent
+sent
+0	как	0 d CONJ
+1	твоё	1 d ADJF,Apro,neut,sing,nomn
+2	лицо	2 d NOUN,inan,neut,sing,nomn
+3	выглядит	3 d VERB,impf,intr,sing,3per,pres,indc
+4	без	4 d PREP
+5	макияжа	5 d NOUN,inan,masc,sing,gent
+6	.	6 d PNCT
+/sent
+sent
+0	какой	0 d ADJF,Apro,femn,sing,gent
+1	ты	1 d NPRO,2per,sing,nomn
+2	любишь	2 d VERB,impf,tran,sing,2per,pres,indc
+3	шоколад	3 d NOUN,inan,masc,sing,nomn
+4	,	4 d PNCT
+5	какой	5 d ADJF,Apro,femn,sing,gent
+6	ты	6 d NPRO,2per,sing,nomn
+7	можешь	7 d VERB,impf,intr,sing,2per,pres,indc
+8	быть	8 d INFN,impf,intr
+9	сумасшедшей	9 d ADJF,femn,sing,gent
+10	время_от_времени	10 d VERB,perf,tran,sing,impr,excl
+11	,	11 d PNCT
+12	как	12 d CONJ
+13	некоторые	13 d ADJF,Apro,plur,nomn
+14	игры	14 d NOUN,inan,femn,sing,gent
+15	,	15 d PNCT
+16	песни	16 d NOUN,inan,femn,sing,gent
+17	и	17 d CONJ
+18	шоу	18 d NOUN,inan,neut,Fixd,sing,nomn
+19	делают	19 d VERB,impf,tran,plur,3per,pres,indc
+20	тебя	20 d NPRO,2per,sing,accs
+21	счастливой	21 d ADJF,Qual,femn,sing,loct
+22	.	22 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	будет	1 d VERB,impf,intr,sing,3per,futr,indc
+2	знать	2 d INFN,impf,tran
+3	о	3 d PREP
+4	тебе	4 d NPRO,2per,sing,datv
+5	всё	5 d ADJF,Apro,neut,sing,nomn
+6	.	6 d PNCT
+/sent
+sent
+0	он	0 d NPRO,masc,3per,Anph,sing,nomn
+1	,	1 d PNCT
+2	по-прежнему	2 d ADVB
+3	,	3 d PNCT
+4	будет	4 d VERB,impf,intr,sing,3per,futr,indc
+5	любить	5 d INFN,impf,tran
+6	тебя	6 d NPRO,2per,sing,accs
+7	.	7 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	это	1 d PRCL
+2	то	2 d PRCL
+3	же	3 d PRCL
+4	самое	4 d ADJF,Apro,neut,sing,nomn
+5	,	5 d PNCT
+6	что	6 d CONJ
+7	смотреть	7 d INFN,impf,tran
+8	в	8 d PREP
+9	могилу	9 d NOUN,inan,femn,sing,accs
+10	своей	10 d ADJF,Apro,Anph,femn,sing,gent
+11	любви	11 d NOUN,inan,femn,sing,loct
+12	.	12 d PNCT
+/sent
+sent
+0	или	0 d CONJ
+1	как	1 d PRCL
+2	целовать	2 d INFN,impf,tran
+3	ствол	3 d NOUN,inan,masc,sing,nomn
+4	заряженного	4 d PRTF,perf,tran,past,pssv,masc,sing,gent
+5	и	5 d CONJ
+6	готового	6 d ADJF,Qual,neut,sing,gent
+7	разнести	7 d INFN,perf,tran
+8	твою	8 d ADJF,Apro,femn,sing,accs
+9	голову	9 d NOUN,inan,femn,sing,accs
+10	на	10 d PREP
+11	куски	11 d NOUN,inan,masc,plur,accs
+12	пистолета	12 d NOUN,inan,masc,sing,gent
+13	.	13 d PNCT
+/sent
+sent
+0	если	0 d CONJ
+1	у	1 d PREP
+2	тебя	2 d NPRO,2per,sing,accs
+3	кроме	3 d PREP
+4	традиционных	4 d ADJF,plur,gent
+5	женских	5 d ADJF,plur,gent
+6	органов	6 d NOUN,inan,masc,plur,gent
+7	есть	7 d INTJ
+8	ещё	8 d PRCL
+9	и	9 d PRCL
+10	мозги	10 d NOUN,inan,GNdr,Pltm,plur,nomn
+11	,	11 d PNCT
+12	ты	12 d NPRO,2per,sing,nomn
+13	представляешь	13 d VERB,impf,tran,sing,2per,pres,indc
+14	собой	14 d NPRO,Anph,sing,ablt
+15	реальную	15 d ADJF,Qual,femn,sing,accs
+16	проблему	16 d NOUN,inan,femn,sing,accs
+17	.	17 d PNCT
+/sent
+sent
+0	день	0 d NOUN,inan,masc,sing,accs
+1	победы	1 d NOUN,inan,femn,sing,gent
+2	официально	2 d ADVB
+3	включили	3 d VERB,perf,tran,plur,past,indc
+4	в	4 d PREP
+5	календарь	5 d NOUN,inan,masc,sing,nomn
+6	еврейских	6 d ADJF,plur,gent
+7	праздников	7 d NOUN,inan,masc,plur,gent
+/sent
+sent
+0	еврейский	0 d ADJF,masc,sing,nomn
+1	религиозный	1 d ADJF,masc,sing,nomn
+2	календарь	2 d NOUN,inan,masc,sing,nomn
+3	пополнился	3 d VERB,perf,intr,masc,sing,past,indc
+4	новым	4 d ADJF,Qual,plur,datv
+5	праздником	5 d NOUN,inan,masc,sing,ablt
+6	—	6 d PNCT
+7	днём	7 d ADVB
+8	победы	8 d NOUN,inan,femn,sing,gent
+9	,	9 d PNCT
+10	который	10 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+11	евреи	11 d NOUN,anim,masc,plur,nomn
+12	по	12 d PREP
+13	всему	13 d ADJF,Apro,neut,sing,datv
+14	миру	14 d NOUN,inan,masc,sing,datv
+15	будут	15 d VERB,impf,intr,plur,3per,futr,indc
+16	отмечать	16 d INFN,impf,tran
+17	9	17 d NUMB,intg
+18	мая	18 d NOUN,inan,masc,Sgtm,sing,gent
+19	.	19 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	это	1 d PRCL
+2	первый	2 d ADJF,Anum,masc,sing,nomn
+3	случай	3 d NOUN,inan,masc,sing,nomn
+4	за	4 d PREP
+5	несколько	5 d ADVB
+6	столетий	6 d NOUN,inan,neut,plur,gent
+7	,	7 d PNCT
+8	когда	8 d CONJ
+9	был	9 d VERB,impf,intr,masc,sing,past,indc
+10	изменён	10 d PRTS,perf,past,pssv,masc,sing
+11	еврейский	11 d ADJF,masc,sing,nomn
+12	календарь	12 d NOUN,inan,masc,sing,nomn
+13	.	13 d PNCT
+/sent
+sent
+0	очень	0 d ADVB
+1	приятная	1 d ADJF,Qual,femn,sing,nomn
+2	атмосфера	2 d NOUN,inan,femn,sing,nomn
+3	и	3 d CONJ
+4	внимание	4 d NOUN,inan,neut,sing,accs
+5	администратора	5 d NOUN,anim,masc,sing,gent
+6	и	6 d CONJ
+7	мастера	7 d NOUN,anim,masc,plur,nomn
+8	.	8 d PNCT
+/sent
+sent
+0	современный	0 d ADJF,Qual,masc,sing,nomn
+1	подход	1 d NOUN,inan,masc,sing,nomn
+2	к	2 d PREP
+3	формированию	3 d NOUN,inan,neut,sing,datv
+4	заказа	4 d NOUN,inan,masc,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	рекомендую	0 d VERB,impf,tran,sing,1per,pres,indc
+1	всем	1 d ADJF,Apro,plur,datv
+2	,	2 d PNCT
+3	кто	3 d NPRO,masc,sing,nomn
+4	хочет	4 d VERB,impf,tran,sing,3per,pres,indc
+5	определиться	5 d INFN,perf,intr
+6	с	6 d PREP
+7	выбором	7 d NOUN,inan,masc,sing,ablt
+8	процедуры	8 d NOUN,inan,femn,sing,gent
+9	по	9 d PREP
+10	наращиванию	10 d NOUN,inan,neut,sing,datv
+11	волос	11 d NOUN,inan,masc,plur,gent
+12	.	12 d PNCT
+/sent
+sent
+0	телефонный	0 d ADJF,Qual,masc,sing,nomn
+1	разговор	1 d NOUN,inan,masc,sing,nomn
+2	с	2 d PREP
+3	ариной	3 d NOUN,anim,femn,Name,sing,ablt
+4	дал	4 d VERB,perf,tran,masc,sing,past,indc
+5	дополнительное	5 d ADJF,neut,sing,nomn
+6	понимание	6 d NOUN,inan,neut,sing,nomn
+7	качества	7 d NOUN,inan,neut,sing,gent
+8	услуг	8 d NOUN,inan,femn,plur,gent
+9	,	9 d PNCT
+10	которые	10 d ADJF,Apro,Subx,Anph,plur,nomn
+11	предлагает	11 d VERB,impf,tran,sing,3per,pres,indc
+12	её	12 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+13	студия	13 d NOUN,inan,femn,sing,nomn
+14	.	14 d PNCT
+/sent
+sent
+0	трансфер	0 d NOUN,inan,masc,sing,nomn
+1	в	1 d PREP
+2	аэропорты	2 d NOUN,inan,masc,plur,accs
+3	москвы	3 d NOUN,inan,femn,Sgtm,Geox,sing,gent
+4	и	4 d CONJ
+5	санкт-петербурга	5 d NOUN,inan,masc,Geox,sing,gent
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	присоединяюсь	1 d VERB,impf,intr,sing,1per,pres,indc
+2	к	2 d PREP
+3	флешмобу	3 d NOUN,anim,masc,sing,datv
+4	и	4 d CONJ
+5	приглашаю	5 d VERB,impf,tran,sing,1per,pres,indc
+6	вас	6 d NPRO,2per,plur,accs
+7	!	7 d PNCT
+/sent
+sent
+0	сейчас	0 d ADVB
+1	хороших	1 d ADJF,Qual,plur,gent
+2	жён	2 d NOUN,anim,femn,plur,gent
+3	не	3 d PRCL
+4	ищут	4 d VERB,impf,tran,plur,3per,pres,indc
+5	в	5 d PREP
+6	клубах	6 d NOUN,inan,masc,plur,loct
+7	,	7 d PNCT
+8	на	8 d PREP
+9	дискотеках	9 d NOUN,inan,femn,plur,loct
+10	и	10 d CONJ
+11	в	11 d PREP
+12	баре	12 d NOUN,inan,masc,sing,loct
+13	,	13 d PNCT
+14	а	14 d CONJ
+15	отбивают	15 d VERB,impf,tran,plur,3per,pres,indc
+16	у	16 d PREP
+17	дураков	17 d NOUN,anim,masc,plur,gent
+18	,	18 d PNCT
+19	которые	19 d ADJF,Apro,Subx,Anph,plur,nomn
+20	их	20 d NPRO,3per,Anph,plur,gent
+21	не	21 d PRCL
+22	ценят	22 d VERB,impf,tran,plur,3per,pres,indc
+23	.	23 d PNCT
+/sent
+sent
+0	полное	0 d ADJF,Qual,neut,sing,nomn
+1	восстановление	1 d NOUN,inan,neut,sing,nomn
+2	зрения	2 d NOUN,inan,neut,sing,gent
+3	для	3 d PREP
+4	всех	4 d ADJF,Apro,plur,gent
+5	!	5 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	смысл	1 d NOUN,inan,masc,sing,nomn
+2	плавания	2 d NOUN,inan,neut,sing,gent
+3	для	3 d PREP
+4	меня	4 d NPRO,1per,sing,accs
+5	—	5 d PNCT
+6	самоконтроль	6 d NOUN,inan,masc,sing,nomn
+7	,	7 d PNCT
+8	игра	8 d NOUN,inan,femn,sing,nomn
+9	с	9 d PREP
+10	новой	10 d ADJF,Qual,femn,sing,gent
+11	гравитацией	11 d NOUN,inan,femn,sing,ablt
+12	,	12 d PNCT
+13	обучение	13 d NOUN,inan,neut,sing,nomn
+14	тела	14 d NOUN,inan,neut,sing,gent
+15	в	15 d PREP
+16	полёте	16 d NOUN,inan,masc,sing,loct
+17	,	17 d PNCT
+18	обучение	18 d NOUN,inan,neut,sing,nomn
+19	мозга	19 d NOUN,inan,masc,sing,gent
+20	справляться	20 d INFN,impf,intr
+21	с	21 d PREP
+22	телом	22 d NOUN,inan,neut,sing,ablt
+23	,	23 d PNCT
+24	обучение	24 d NOUN,inan,neut,sing,nomn
+25	ума	25 d NOUN,inan,masc,sing,gent
+26	справляться	26 d INFN,impf,intr
+27	с	27 d PREP
+28	мозгом	28 d NOUN,inan,masc,sing,ablt
+/sent
+sent
+0	жизнь	0 d NOUN,inan,femn,sing,accs
+1	человека	1 d NOUN,anim,masc,sing,gent
+2	—	2 d PNCT
+3	это	3 d PRCL
+4	путь	4 d NOUN,inan,masc,sing,nomn
+5	от	5 d PREP
+6	одной	6 d ADJF,Apro,femn,sing,gent
+7	точки	7 d NOUN,inan,femn,sing,gent
+8	к	8 d PREP
+9	другой	9 d ADJF,Apro,Subx,femn,sing,gent
+10	.	10 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	в	1 d PREP
+2	промежутках	2 d NOUN,inan,masc,plur,loct
+3	между	3 d PREP
+4	этими	4 d ADJF,Apro,Subx,Anph,plur,ablt
+5	двумя	5 d NUMR,masc,ablt
+6	точками	6 d NOUN,inan,femn,plur,ablt
+7	человек	7 d NOUN,anim,masc,sing,nomn
+8	живёт	8 d VERB,impf,intr,sing,3per,pres,indc
+9	в	9 d PREP
+10	поисках	10 d NOUN,inan,masc,plur,loct
+11	гармонии	11 d NOUN,inan,femn,sing,gent
+12	.	12 d PNCT
+/sent
+sent
+0	27	0 d NUMB,intg
+1	апреля	1 d NOUN,inan,masc,sing,gent
+2	—	2 d PNCT
+3	день	3 d NOUN,inan,masc,sing,accs
+4	обнимашек	4 d NOUN,anim,femn,Name,plur,gent
+5	и	5 d CONJ
+6	подарков	6 d NOUN,inan,masc,plur,gent
+7	.	7 d PNCT
+/sent
+sent
+0	каждый	0 d ADJF,Apro,inan,masc,sing,accs
+1	парень	1 d NOUN,anim,masc,sing,nomn
+2	,	2 d PNCT
+3	обязан	3 d PRTS,perf,past,pssv,masc,sing
+4	обнять	4 d INFN,perf,tran
+5	свою	5 d ADJF,Apro,Anph,femn,sing,accs
+6	:	6 d PNCT
+7	девушку	7 d NOUN,anim,femn,sing,accs
+8	,	8 d PNCT
+9	подругу	9 d NOUN,anim,femn,sing,accs
+10	или	10 d CONJ
+11	одноклассницу	11 d NOUN,anim,femn,sing,accs
+12	при	12 d PREP
+13	встрече	13 d NOUN,inan,femn,sing,loct
+14	и	14 d CONJ
+15	подарить	15 d INFN,perf,tran
+16	какой-нибудь	16 d ADJF,Apro,inan,masc,sing,accs
+17	подарок	17 d NOUN,inan,masc,sing,nomn
+18	:	18 d PNCT
+19	3	19 d NUMB,intg
+/sent
+sent
+0	любить	0 d INFN,impf,tran
+1	—	1 d PNCT
+2	это	2 d PRCL
+3	не	3 d PRCL
+4	значит	4 d CONJ,Prnt
+5	смотреть	5 d INFN,impf,tran
+6	друг	6 d NOUN,anim,masc,sing,nomn
+7	на	7 d PREP
+8	друга	8 d NOUN,anim,masc,sing,gent
+9	,	9 d PNCT
+10	любить	10 d INFN,impf,tran
+11	—	11 d PNCT
+12	значит	12 d CONJ,Prnt
+13	вместе	13 d ADVB
+14	смотреть	14 d INFN,impf,tran
+15	в	15 d PREP
+16	одном	16 d ADJF,Apro,masc,sing,loct
+17	направление	17 d NOUN,inan,neut,sing,nomn
+18	.	18 d PNCT
+/sent
+sent
+0	при	0 d PREP
+1	некоторых	1 d ADJF,Apro,plur,loct
+2	видах	2 d NOUN,inan,masc,plur,loct
+3	плетения	3 d NOUN,inan,neut,sing,gent
+4	когда	4 d CONJ
+5	вращение	5 d NOUN,inan,neut,sing,nomn
+6	купола	6 d NOUN,inan,masc,sing,gent
+7	в	7 d PREP
+8	одну	8 d ADJF,Apro,femn,sing,accs
+9	сторону	9 d NOUN,inan,femn,sing,accs
+10	а	10 d CONJ
+11	колонны	11 d NOUN,inan,femn,sing,gent
+12	в	12 d PREP
+13	другую	13 d ADJF,Apro,Subx,femn,sing,accs
+14	возникает	14 d VERB,impf,intr,sing,3per,pres,indc
+15	дополнительно	15 d ADVB
+16	жестокость	16 d NOUN,inan,femn,sing,nomn
+17	и	17 d CONJ
+18	стягивание	18 d NOUN,inan,neut,sing,nomn
+19	купола	19 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	то_есть	0 d VERB,impf,intr,sing,3per,pres,indc
+1	значительно	1 d ADVB
+2	повышается	2 d VERB,impf,intr,sing,3per,pres,indc
+3	прочность	3 d NOUN,inan,femn,sing,nomn
+4	и	4 d CONJ
+5	устойчивость	5 d NOUN,inan,femn,sing,nomn
+6	/	6 d PNCT
+7	иногда	7 d ADVB
+8	на	8 d PRCL
+9	порядок	9 d NOUN,inan,masc,sing,accs
+10	/	10 d PNCT
+/sent
+sent
+0	вылеты	0 d NOUN,inan,masc,plur,nomn
+1	с	1 d PREP
+2	киева	2 d NOUN,inan,masc,Geox,sing,gent
+3	на	3 d PREP
+4	7	4 d NUMB,intg
+5	ночей	5 d NOUN,inan,femn,plur,gent
+6	.	6 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	ещё	1 d ADVB
+2	нас	2 d NPRO,1per,plur,gent
+3	с	3 d PREP
+4	дарьей	4 d NOUN,anim,femn,Name,sing,ablt
+5	владимировной	5 d NOUN,anim,femn,Patr,sing,ablt
+6	разлучили	6 d VERB,perf,tran,plur,past,indc
+7	.	7 d PNCT
+/sent
+sent
+0	мы	0 d NPRO,1per,plur,nomn
+1	хлеба	1 d NOUN,inan,masc,sing,gent
+2	горбушку	2 d NOUN,inan,femn,sing,accs
+3	и	3 d CONJ
+4	ту	4 d ADJF,Apro,Subx,Anph,femn,sing,accs
+5	пополам	5 d ADVB
+6	...	6 d PNCT
+7	на	7 d PREP
+8	яндекс	8 d NOUN,inan,masc,Orgn,sing,nomn
+9	.	9 d PNCT
+/sent
+sent
+0	одно	0 d ADJF,Apro,neut,sing,accs
+1	из	1 d PREP
+2	главных	2 d ADJF,Qual,plur,gent
+3	свойств	3 d NOUN,inan,neut,plur,gent
+4	либерализма	4 d NOUN,inan,masc,sing,gent
+5	—	5 d PNCT
+6	свобода	6 d NOUN,inan,femn,sing,nomn
+7	изменения	7 d NOUN,inan,neut,sing,gent
+8	своего	8 d ADJF,Apro,Anph,neut,sing,gent
+9	мнения	9 d NOUN,inan,neut,sing,gent
+10	.	10 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	это	1 d PRCL
+2	не	2 d PRCL
+3	является	3 d VERB,impf,intr,sing,3per,pres,indc
+4	беспринципностью	4 d NOUN,inan,femn,sing,ablt
+5	.	5 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	если	1 d CONJ
+2	бросить	2 d INFN,perf,tran
+3	лягушку	3 d NOUN,anim,femn,sing,accs
+4	в	4 d PREP
+5	кастрюлю	5 d NOUN,inan,femn,sing,accs
+6	с	6 d PREP
+7	кипящей	7 d PRTF,impf,intr,pres,actv,femn,sing,gent
+8	водой	8 d NOUN,inan,femn,sing,ablt
+9	,	9 d PNCT
+10	она	10 d NPRO,femn,3per,Anph,sing,nomn
+11	моментально	11 d ADVB
+12	попробует	12 d VERB,perf,tran,sing,3per,futr,indc
+13	выбраться	13 d INFN,perf,intr
+14	.	14 d PNCT
+15	но	15 d CONJ
+16	если	16 d CONJ
+17	вода	17 d NOUN,inan,masc,sing,gent
+18	будет	18 d VERB,impf,intr,sing,3per,futr,indc
+19	комнатной	19 d ADJF,femn,sing,gent
+20	температуры	20 d NOUN,inan,femn,sing,gent
+21	,	21 d PNCT
+22	лягушка	22 d NOUN,anim,femn,sing,nomn
+23	останется	23 d VERB,perf,intr,sing,3per,futr,indc
+24	плавать	24 d INFN,impf,intr
+25	в	25 d PREP
+26	кастрюле	26 d NOUN,inan,femn,sing,loct
+27	.	27 d PNCT
+28	если	28 d CONJ
+29	теперь	29 d ADVB
+30	поставить	30 d INFN,perf,tran
+31	кастрюлю	31 d NOUN,inan,femn,sing,accs
+32	на	32 d PREP
+33	огонь	33 d NOUN,inan,masc,sing,nomn
+34	,	34 d PNCT
+35	получится	35 d VERB,perf,intr,sing,3per,futr,indc
+36	вот	36 d PRCL
+37	что	37 d PRCL
+38	.	38 d PNCT
+39	пока	39 d CONJ
+40	вода	40 d NOUN,inan,masc,sing,gent
+41	будет	41 d VERB,impf,intr,sing,3per,futr,indc
+42	нагреваться	42 d INFN,impf,intr
+43	до	43 d PREP
+44	температуры	44 d NOUN,inan,femn,sing,gent
+45	20—30	45 d UNKN
+46	градусов	46 d NOUN,inan,masc,plur,gent
+47	,	47 d PNCT
+48	лягушка	48 d NOUN,anim,femn,sing,nomn
+49	будет	49 d VERB,impf,intr,sing,3per,futr,indc
+50	наслаждаться	50 d INFN,impf,intr
+51	жизнью	51 d NOUN,inan,femn,sing,ablt
+52	и	52 d CONJ
+53	,	53 d PNCT
+54	соответственно	54 d PREP
+55	,	55 d PNCT
+56	ничего	56 d ADVB
+57	предпринимать	57 d INFN,impf,tran
+58	не	58 d PRCL
+59	станет	59 d VERB,perf,intr,sing,3per,futr,indc
+60	.	60 d PNCT
+61	по_мере	61 d NOUN,inan,femn,sing,datv
+62	нагревания	62 d NOUN,inan,neut,sing,gent
+63	воды	63 d NOUN,inan,femn,sing,gent
+64	лягушка	64 d NOUN,anim,femn,sing,nomn
+65	станет	65 d VERB,perf,intr,sing,3per,futr,indc
+66	слабеть	66 d INFN,impf,intr
+67	,	67 d PNCT
+68	сделается	68 d VERB,perf,intr,sing,3per,futr,indc
+69	вялой	69 d ADJF,femn,sing,gent
+70	и	70 d CONJ
+71	будет	71 d VERB,impf,intr,sing,3per,futr,indc
+72	уже	72 d ADVB
+73	просто	73 d PRCL
+74	неспособна	74 d ADJS,femn,sing
+75	выбраться	75 d INFN,perf,intr
+76	из	76 d PREP
+77	кастрюли	77 d NOUN,inan,femn,sing,gent
+78	.	78 d PNCT
+79	ей	79 d NPRO,femn,3per,Anph,sing,datv
+80	ничто	80 d NPRO,neut,sing,nomn
+81	не	81 d PRCL
+82	мешает	82 d VERB,impf,intr,sing,3per,pres,indc
+83	,	83 d PNCT
+84	но	84 d CONJ
+85	она	85 d NPRO,femn,3per,Anph,sing,nomn
+86	останется	86 d VERB,perf,intr,sing,3per,futr,indc
+87	в	87 d PREP
+88	кастрюле	88 d NOUN,inan,femn,sing,loct
+89	и	89 d CONJ
+90	будет	90 d VERB,impf,intr,sing,3per,futr,indc
+91	сварена	91 d PRTS,perf,past,pssv,femn,sing
+92	.	92 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	минут	1 d NOUN,inan,femn,plur,gent
+2	через	2 d PREP
+3	десять	3 d NUMR,nomn
+4	вы	4 d NPRO,2per,plur,nomn
+5	заметите	5 d VERB,perf,tran,plur,2per,futr,indc
+6	,	6 d PNCT
+7	что	7 d CONJ
+8	пруд	8 d NOUN,inan,masc,sing,nomn
+9	ожил	9 d VERB,perf,intr,masc,sing,past,indc
+10	.	10 d PNCT
+11	этот	11 d ADJF,Apro,Subx,Anph,inan,masc,sing,accs
+12	мир	12 d NOUN,inan,masc,sing,accs
+13	малых	13 d NOUN,inan,neut,plur,gent
+14	прелестных	14 d ADJF,Qual,plur,gent
+15	созданий	15 d NOUN,ANim,neut,plur,gent
+16	всегда	16 d ADVB
+17	был	17 d VERB,impf,intr,masc,sing,past,indc
+18	здесь	18 d ADVB,Prdx
+19	,	19 d PNCT
+20	но	20 d CONJ
+21	они	21 d NPRO,3per,Anph,plur,nomn
+22	движутся	22 d VERB,impf,intr,plur,3per,pres,indc,Infr
+23	слишком	23 d ADVB
+24	медленно	24 d ADVB
+25	и	25 d PRCL
+26	незаметно	26 d ADVB
+27	.	27 d PNCT
+28	проблема	28 d NOUN,inan,femn,sing,nomn
+29	в	29 d PREP
+30	том	30 d ADJF,Apro,Subx,Anph,neut,sing,loct
+31	,	31 d PNCT
+32	что	32 d CONJ
+33	наше	33 d ADJF,Apro,neut,sing,nomn
+34	сознание	34 d NOUN,inan,neut,sing,accs
+35	жёстко	35 d ADVB
+36	настроено	36 d PRTS,perf,past,pssv,neut,sing
+37	только	37 d PRCL
+38	на	38 d PREP
+39	одну	39 d ADJF,Apro,femn,sing,accs
+40	частоту	40 d NOUN,inan,femn,sing,accs
+41	...	41 d PNCT
+42	нам	42 d NPRO,1per,plur,datv
+43	не	43 d PRCL
+44	избежать	44 d INFN,perf,intr
+45	судьбы	45 d NOUN,inan,femn,sing,gent
+46	лягушки	46 d NOUN,anim,femn,plur,nomn
+47	,	47 d PNCT
+48	если	48 d CONJ
+49	мы	49 d NPRO,1per,plur,nomn
+50	не	50 d PRCL
+51	научимся	51 d VERB,perf,intr,plur,1per,futr,indc
+52	замедляться	52 d INFN,impf,intr
+53	и	53 d CONJ
+54	видеть	54 d INFN,impf,tran
+55	постепенные	55 d ADJF,Qual,plur,nomn
+56	процессы	56 d NOUN,inan,masc,plur,nomn
+57	,	57 d PNCT
+58	которые	58 d ADJF,Apro,Subx,Anph,plur,nomn
+59	зачастую	59 d ADVB
+60	являются	60 d VERB,impf,intr,plur,3per,pres,indc
+61	источником	61 d NOUN,inan,masc,sing,ablt
+62	самых	62 d ADJF,Apro,plur,gent
+63	больших	63 d ADJF,plur,gent
+64	опасностей	64 d NOUN,inan,femn,plur,gent
+65	.	65 d PNCT
+66	"	66 d PNCT
+/sent
+sent
+0	туры	0 d NOUN,inan,masc,plur,nomn
+1	в	1 d PREP
+2	египет	2 d NOUN,inan,masc,Sgtm,Geox,sing,accs
+3	из	3 d PREP
+4	запорожья	4 d NOUN,inan,neut,Sgtm,Geox,sing,gent
+5	!	5 d PNCT
+/sent
+sent
+0	когда	0 d CONJ
+1	такая	1 d ADJF,Apro,femn,sing,nomn
+2	погода	2 d NOUN,inan,femn,sing,nomn
+3	мне	3 d NPRO,1per,sing,datv
+4	хочется	4 d VERB,impf,intr,Impe,sing,pres,indc
+5	уюта	5 d NOUN,inan,masc,sing,gent
+6	и	6 d CONJ
+7	тепла	7 d NOUN,inan,neut,Sgtm,sing,gent
+8	!	8 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	что	1 d PRCL
+2	в	2 d PREP
+3	окне	3 d NOUN,inan,neut,sing,loct
+4	видишь	4 d VERB,impf,tran,sing,2per,pres,indc
+5	ты	5 d NPRO,2per,sing,nomn
+6	?	6 d PNCT
+7	)	7 d PNCT
+/sent
+sent
+0	когда	0 d CONJ
+1	вы	1 d NPRO,2per,plur,nomn
+2	перестанете	2 d VERB,perf,intr,plur,2per,futr,indc
+3	копаться	3 d INFN,impf,intr
+4	в	4 d PREP
+5	том	5 d ADJF,Apro,Subx,Anph,neut,sing,loct
+6	,	6 d PNCT
+7	что	7 d CONJ
+8	уже	8 d ADVB
+9	произошло	9 d VERB,perf,intr,neut,sing,past,indc
+10	...	10 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	тревожиться	1 d INFN,impf,intr
+2	о	2 d PREP
+3	том	3 d ADJF,Apro,Subx,Anph,neut,sing,loct
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	ещё	6 d ADVB
+7	не	7 d PRCL
+8	случилось	8 d VERB,perf,intr,neut,sing,past,indc
+9	...	9 d PNCT
+/sent
+sent
+0	тогда	0 d ADVB,Dmns
+1	вы	1 d NPRO,2per,plur,nomn
+2	сможете	2 d VERB,perf,intr,plur,2per,futr,indc
+3	ощущать	3 d INFN,impf,tran
+4	радость	4 d NOUN,inan,femn,sing,accs
+5	жизни	5 d NOUN,inan,femn,sing,gent
+6	.	6 d PNCT
+/sent
+sent
+0	самое	0 d ADJF,Apro,neut,sing,nomn
+1	удивительное	1 d ADJF,Qual,neut,sing,nomn
+2	,	2 d PNCT
+3	что	3 d CONJ
+4	простые	4 d ADJF,Qual,plur,nomn
+5	манипуляции	5 d NOUN,inan,femn,sing,gent
+6	с	6 d PREP
+7	телом	7 d NOUN,inan,neut,sing,ablt
+8	меняют	8 d VERB,impf,tran,plur,3per,pres,indc
+9	внутреннее	9 d ADJF,neut,sing,nomn
+10	состояние	10 d NOUN,inan,neut,sing,accs
+11	.	11 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	про	1 d PREP
+2	этот	2 d ADJF,Apro,Subx,Anph,inan,masc,sing,accs
+3	приём	3 d NOUN,inan,masc,sing,nomn
+4	знала	4 d VERB,impf,tran,femn,sing,past,indc
+5	давно	5 d ADVB
+6	,	6 d PNCT
+7	но	7 d CONJ
+8	пользовалась	8 d VERB,impf,intr,femn,sing,past,indc
+9	не	9 d PRCL
+10	часто	10 d ADVB
+11	.	11 d PNCT
+/sent
+sent
+0	происходит	0 d VERB,impf,intr,sing,3per,pres,indc
+1	хороший	1 d ADJF,Qual,masc,sing,nomn
+2	отдых	2 d NOUN,inan,masc,sing,accs
+3	для	3 d PREP
+4	мозга	4 d NOUN,inan,masc,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	мои	0 d ADJF,Apro,plur,nomn
+1	мысли	1 d NOUN,inan,femn,sing,gent
+2	улетели	2 d VERB,perf,intr,plur,past,indc
+3	только	3 d PRCL
+4	2	4 d NUMB,intg
+5	раза	5 d NOUN,inan,masc,sing,gent
+6	за	6 d PREP
+7	30	7 d NUMB,intg
+8	дыхательных	8 d ADJF,plur,gent
+9	кругов	9 d NOUN,inan,masc,plur,gent
+10	!	10 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	это	1 d PRCL
+2	,	2 d PNCT
+3	хочу	3 d VERB,impf,tran,sing,1per,pres,indc
+4	вам	4 d NPRO,2per,plur,datv
+5	сказать	5 d INFN,perf,tran
+6	,	6 d PNCT
+7	достижение	7 d NOUN,inan,neut,sing,accs
+8	!	8 d PNCT
+/sent
+sent
+0	идеи	0 d NOUN,inan,femn,sing,gent
+1	по	1 d PREP
+2	заданиям	2 d NOUN,inan,neut,plur,datv
+3	приходят	3 d VERB,impf,intr,plur,3per,pres,indc
+4	пока	4 d ADVB
+5	банальные	5 d ADJF,Qual,plur,nomn
+6	.	6 d PNCT
+/sent
+sent
+0	привет	0 d NOUN,inan,masc,sing,nomn
+1	любовь	1 d NOUN,inan,femn,sing,nomn
+2	моя	2 d ADJF,Apro,femn,sing,nomn
+3	)	3 d PNCT
+4	как	4 d CONJ
+5	твои	5 d ADJF,Apro,plur,nomn
+6	дела	6 d NOUN,inan,neut,sing,gent
+7	?	7 d PNCT
+8	как	8 d CONJ
+9	ты	9 d NPRO,2per,sing,nomn
+10	?	10 d PNCT
+11	надеюсь	11 d VERB,impf,intr,sing,1per,pres,indc
+12	все	12 d ADJF,Apro,plur,nomn
+13	хорошо	13 d ADVB,Prdx
+14	у	14 d PREP
+15	вас	15 d NPRO,2per,plur,accs
+16	.	16 d PNCT
+/sent
+sent
+0	какой	0 d ADJF,Apro,femn,sing,gent
+1	дождливый	1 d ADJF,Qual,masc,sing,nomn
+2	апрель	2 d NOUN,inan,masc,sing,accs
+3	,	3 d PNCT
+4	да	4 d CONJ
+5	любимая	5 d ADJF,Subx,Qual,femn,sing,nomn
+6	?	6 d PNCT
+/sent
+sent
+0	под	0 d PREP
+1	звуки	1 d NOUN,inan,masc,plur,nomn
+2	капающего	2 d PRTF,impf,tran,pres,actv,masc,sing,gent
+3	дождя	3 d NOUN,inan,masc,sing,gent
+4	мы	4 d NPRO,1per,plur,nomn
+5	проводили	5 d VERB,perf,tran,plur,past,indc
+6	вместе	6 d ADVB
+7	время	7 d NOUN,inan,neut,sing,accs
+8	...	8 d PNCT
+/sent
+sent
+0	лежали	0 d VERB,impf,intr,plur,past,indc
+1	,	1 d PNCT
+2	кушали	2 d VERB,impf,tran,plur,past,indc
+3	,	3 d PNCT
+4	принимали	4 d VERB,impf,tran,plur,past,indc
+5	вместе	5 d ADVB
+6	ванну	6 d NOUN,inan,femn,sing,accs
+7	и/или	7 d VERB,perf,tran,plur,past,indc
+8	душ	8 d NOUN,inan,femn,plur,gent
+9	,	9 d PNCT
+10	гуляли	10 d VERB,impf,intr,plur,past,indc
+11	...	11 d PNCT
+/sent
+sent
+0	как	0 d CONJ
+1	же	1 d PRCL
+2	всего	2 d ADVB
+3	этого	3 d NPRO,neut,sing,gent
+4	не	4 d PRCL
+5	хватает	5 d VERB,impf,tran,sing,3per,pres,indc
+6	...	6 d PNCT
+/sent
+sent
+0	период	0 d NOUN,inan,masc,sing,accs
+1	,	1 d PNCT
+2	когда	2 d CONJ
+3	мы	3 d NPRO,1per,plur,nomn
+4	узнали	4 d VERB,perf,tran,plur,past,indc
+5	о	5 d PREP
+6	малыше	6 d NOUN,anim,masc,sing,loct
+7	состоял	7 d VERB,impf,intr,masc,sing,past,indc
+8	в_основном	8 d ADJF,Qual,masc,sing,loct
+9	из	9 d PREP
+10	прогулок	10 d NOUN,inan,femn,plur,gent
+11	и	11 d CONJ
+12	разговоров	12 d NOUN,inan,masc,plur,gent
+13	...	13 d PNCT
+/sent
+sent
+0	мы	0 d NPRO,1per,plur,nomn
+1	так	1 d CONJ
+2	быстро	2 d ADVB
+3	изменили	3 d VERB,perf,tran,plur,past,indc
+4	отношения	4 d NOUN,inan,neut,sing,gent
+5	,	5 d PNCT
+6	а	6 d CONJ
+7	ведь	7 d PRCL
+8	до	8 d PREP
+9	твоей	9 d ADJF,Apro,femn,sing,ablt
+10	поездки	10 d NOUN,inan,femn,sing,gent
+11	в	11 d PREP
+12	турцию	12 d NOUN,inan,femn,Sgtm,Geox,sing,accs
+13	у	13 d PREP
+14	нас	14 d NPRO,1per,plur,gent
+15	был	15 d VERB,impf,intr,masc,sing,past,indc
+16	просто	16 d PRCL
+17	сказочный	17 d ADJF,Qual,masc,sing,nomn
+18	период	18 d NOUN,inan,masc,sing,accs
+19	...	19 d PNCT
+/sent
+sent
+0	столько	0 d CONJ
+1	было	1 d PRCL
+2	трепета	2 d NOUN,inan,masc,sing,gent
+3	конечно	3 d CONJ,Prnt
+4	,	4 d PNCT
+5	капец	5 d NOUN,inan,masc,sing,nomn
+6	...	6 d PNCT
+7	столько	7 d CONJ
+8	страсти	8 d NOUN,inan,femn,sing,datv
+9	.	9 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	была	1 d VERB,impf,intr,femn,sing,past,indc
+2	моей	2 d ADJF,Apro,femn,sing,gent
+3	любимой	3 d ADJF,Subx,Qual,femn,sing,gent
+4	,	4 d PNCT
+5	а	5 d CONJ
+6	я	6 d NPRO,1per,sing,nomn
+7	твоим	7 d ADJF,Apro,plur,datv
+8	любимым	8 d ADJF,Subx,Qual,masc,sing,ablt
+9	,	9 d PNCT
+10	солнышком	10 d NOUN,inan,neut,sing,ablt
+11	и	11 d CONJ
+12	малышом	12 d NOUN,anim,masc,sing,ablt
+13	...	13 d PNCT
+/sent
+sent
+0	а	0 d CONJ
+1	теперь	1 d ADVB
+2	тебя	2 d NPRO,2per,sing,accs
+3	нет	3 d PRED,pres
+4	...	4 d PNCT
+5	нигде	5 d ADVB
+6	...	6 d PNCT
+/sent
+sent
+0	зачем	0 d ADVB,Ques,Prdx
+1	и	1 d CONJ
+2	почему	2 d ADVB,Ques
+3	все	3 d ADJF,Apro,plur,nomn
+4	так	4 d CONJ
+5	...	5 d PNCT
+/sent
+sent
+0	очень	0 d ADVB
+1	сильно	1 d ADVB
+2	скучаю	2 d VERB,impf,intr,sing,1per,pres,indc
+3	по	3 d PREP
+4	тебе	4 d NPRO,2per,sing,datv
+5	,	5 d PNCT
+6	любимая	6 d ADJF,Subx,Qual,femn,sing,nomn
+7	....	7 d PNCT
+/sent
+sent
+0	олесь	0 d NOUN,anim,masc,Name,sing,nomn
+1	бузина	1 d NOUN,inan,femn,Sgtm,sing,nomn
+2	о	2 d PREP
+3	цене	3 d NOUN,inan,femn,sing,loct
+4	победы	4 d NOUN,inan,femn,sing,gent
+5	и	5 d CONJ
+6	георгиевской	6 d ADJF,femn,sing,gent
+7	ленточке	7 d NOUN,inan,femn,sing,datv
+/sent
+sent
+0	кому	0 d NOUN,inan,femn,sing,accs
+1	дали	1 d VERB,perf,tran,plur,past,indc
+2	2	2 d NUMB,intg
+3	года	3 d NOUN,inan,masc,sing,gent
+4	колонии	4 d NOUN,inan,femn,sing,gent
+5	-	5 d PNCT
+6	поселения	6 d NOUN,inan,neut,sing,gent
+7	за	7 d PREP
+8	призывы	8 d NOUN,inan,masc,plur,nomn
+9	убивать	9 d INFN,impf,tran
+10	москалей	10 d NOUN,anim,masc,plur,gent
+11	?	11 d PNCT
+/sent
+sent
+0	за	0 d PREP
+1	что	1 d PRCL
+2	воевали	2 d VERB,impf,intr,plur,past,indc
+3	наши	3 d ADJF,Apro,plur,nomn
+4	деды	4 d NOUN,anim,masc,plur,nomn
+5	?	5 d PNCT
+/sent
+sent
+0	лично	0 d ADVB
+1	у	1 d PREP
+2	меня	2 d NPRO,1per,sing,accs
+3	всё	3 d ADJF,Apro,neut,sing,nomn
+4	основательнее	4 d COMP,Qual
+5	складывается	5 d VERB,impf,intr,sing,3per,pres,indc
+6	мнение	6 d NOUN,inan,neut,sing,accs
+7	,	7 d PNCT
+8	что	8 d CONJ
+9	наши	9 d ADJF,Apro,plur,nomn
+10	деды	10 d NOUN,anim,masc,plur,nomn
+11	-	11 d PNCT
+12	прадеды	12 d NOUN,anim,masc,plur,nomn
+13	70	13 d NUMB,intg
+14	лет	14 d NOUN,inan,masc,plur,gent
+15	назад	15 d ADVB
+16	воевали	16 d VERB,impf,intr,plur,past,indc
+17	за	17 d PREP
+18	какую-то	18 d ADJF,Apro,femn,sing,accs
+19	другую	19 d ADJF,Apro,Subx,femn,sing,accs
+20	страну	20 d NOUN,inan,femn,sing,accs
+21	—	21 d PNCT
+22	нормальную	22 d ADJF,Qual,femn,sing,accs
+23	,	23 d PNCT
+24	в	24 d PREP
+25	которой	25 d ADJF,Apro,Subx,Anph,femn,sing,loct
+26	жили	26 d VERB,impf,intr,plur,past,indc
+27	люди	27 d NOUN,anim,masc,plur,nomn
+28	,	28 d PNCT
+29	а	29 d CONJ
+30	не	30 d PRCL
+31	идиоты	31 d NOUN,anim,masc,plur,nomn
+32	.	32 d PNCT
+/sent
+sent
+0	но	0 d CONJ
+1	современная	1 d ADJF,Qual,femn,sing,nomn
+2	россия	2 d NOUN,inan,femn,Sgtm,Geox,sing,nomn
+3	,	3 d PNCT
+4	по-моему	4 d ADVB
+5	,	5 d PNCT
+6	выходит	6 d VERB,impf,intr,sing,3per,pres,indc
+7	за	7 d PREP
+8	рамки	8 d NOUN,inan,femn,sing,gent
+9	всяких	9 d ADJF,Apro,plur,gent
+10	норм	10 d NOUN,inan,femn,plur,gent
+11	.	11 d PNCT
+/sent
+sent
+0	другой	0 d ADJF,Apro,Subx,femn,sing,gent
+1	тортик	1 d NOUN,inan,masc,sing,nomn
+2	представлял	2 d VERB,impf,tran,masc,sing,past,indc
+3	собой	3 d NPRO,Anph,sing,ablt
+4	шоколадного	4 d ADJF,Qual,masc,sing,gent
+5	старика	5 d NOUN,anim,masc,sing,gent
+6	с	6 d PREP
+7	убитым	7 d ADJF,Qual,masc,sing,ablt
+8	внуком	8 d NOUN,anim,masc,sing,ablt
+9	на	9 d PREP
+10	руках	10 d NOUN,inan,femn,plur,loct
+11	.	11 d PNCT
+/sent
+sent
+0	при	0 d PREP
+1	этом	1 d NPRO,neut,sing,loct
+2	бисквитное	2 d ADJF,Qual,neut,sing,nomn
+3	основание	3 d NOUN,inan,neut,sing,nomn
+4	композиции	4 d NOUN,inan,femn,sing,gent
+5	было	5 d VERB,impf,intr,neut,sing,past,indc
+6	утыкано	6 d PRTS,perf,past,pssv,neut,sing
+7	живыми	7 d NOUN,anim,masc,plur,ablt
+8	похоронками	8 d NOUN,inan,femn,plur,ablt
+9	.	9 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	с-петербурге	1 d NOUN,inan,femn,Fixd,Abbr,sing,loct
+2	решено	2 d PRTS,perf,past,pssv,neut,sing
+3	устроить	3 d INFN,perf,tran
+4	на	4 d PREP
+5	9	5 d NUMB,intg
+6	мая	6 d NOUN,inan,masc,Sgtm,sing,gent
+7	акцию	7 d NOUN,inan,femn,sing,accs
+8	с	8 d PREP
+9	привлечение	9 d NOUN,inan,neut,sing,accs
+10	трёх	10 d NUMR,gent
+11	сотен	11 d NOUN,inan,femn,plur,gent
+12	ветеранов	12 d NOUN,anim,masc,plur,gent
+13	.	13 d PNCT
+/sent
+sent
+0	по-другому	0 d ADVB
+1	,	1 d PNCT
+2	видимо	2 d ADVB
+3	,	3 d PNCT
+4	никак	4 d ADVB
+5	не	5 d PRCL
+6	получается	6 d VERB,impf,intr,sing,3per,pres,indc
+7	.	7 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	екатеринбурге	1 d NOUN,inan,masc,Geox,sing,loct
+2	устроили	2 d VERB,perf,tran,plur,past,indc
+3	реконструкцию	3 d NOUN,inan,femn,sing,accs
+4	великой	4 d ADJF,femn,sing,gent
+5	отечественной	5 d ADJF,femn,sing,gent
+6	войны	6 d NOUN,inan,femn,sing,gent
+7	в	7 d PREP
+8	...	8 d PNCT
+9	цирке	9 d NOUN,inan,masc,sing,loct
+10	.	10 d PNCT
+/sent
+sent
+0	там	0 d PRCL
+1	же	1 d PRCL
+2	,	2 d PNCT
+3	в	3 d PREP
+4	екатеринбурге	4 d NOUN,inan,masc,Geox,sing,loct
+5	,	5 d PNCT
+6	местное	6 d ADJF,Qual,neut,sing,nomn
+7	агентство	7 d NOUN,inan,neut,sing,nomn
+8	ритуальных	8 d ADJF,Qual,plur,gent
+9	услуг	9 d NOUN,inan,femn,plur,gent
+10	устроило	10 d VERB,perf,tran,neut,sing,past,indc
+11	для	11 d PREP
+12	ветеранов	12 d NOUN,anim,masc,plur,gent
+13	экскурсию	13 d NOUN,inan,femn,sing,accs
+14	в	14 d PREP
+15	салон	15 d NOUN,inan,masc,sing,nomn
+16	похоронных	16 d ADJF,plur,gent
+17	принадлежностей	17 d NOUN,inan,femn,plur,gent
+18	.	18 d PNCT
+/sent
+sent
+0	среди	0 d PREP
+1	венков	1 d NOUN,inan,masc,plur,gent
+2	,	2 d PNCT
+3	крестов	3 d ADJS,Qual,masc,sing
+4	и	4 d CONJ
+5	надгробий	5 d NOUN,inan,neut,plur,gent
+6	ветеранов	6 d NOUN,anim,masc,plur,gent
+7	попотчевали	7 d VERB,perf,tran,plur,past,indc
+8	чаем	8 d ADJS,Qual,masc,sing
+9	.	9 d PNCT
+/sent
+sent
+0	затем	0 d ADVB,Dmns
+1	раздали	1 d VERB,perf,tran,plur,past,indc
+2	им	2 d NOUN,inan,neut,sing,gent,Abbr
+3	подарки	3 d NOUN,inan,masc,plur,accs
+4	с	4 d PREP
+5	рекламными	5 d ADJF,Qual,plur,ablt
+6	буклетами	6 d NOUN,inan,masc,plur,ablt
+7	дельцов	7 d NOUN,anim,masc,plur,gent
+8	кладбищенского	8 d ADJF,masc,sing,gent
+9	бизнеса	9 d NOUN,inan,masc,sing,gent
+10	.	10 d PNCT
+/sent
+sent
+0	примеров	0 d NOUN,inan,masc,plur,gent
+1	такого	1 d ADJF,Apro,neut,sing,gent
+2	идиотизма	2 d NOUN,inan,masc,sing,gent
+3	в	3 d PREP
+4	нашей	4 d ADJF,Apro,femn,sing,gent
+5	стране	5 d NOUN,inan,femn,sing,loct
+6	сегодня	6 d ADVB
+7	не	7 d PRCL
+8	перечесть	8 d INFN,perf,tran
+9	.	9 d PNCT
+/sent
+sent
+0	нет	0 d PRCL
+1	,	1 d PNCT
+2	всё-таки	2 d CONJ
+3	,	3 d PNCT
+4	по-моему	4 d ADVB
+5	,	5 d PNCT
+6	не	6 d PRCL
+7	за	7 d PREP
+8	такую	8 d ADJF,Apro,femn,sing,accs
+9	страну	9 d NOUN,inan,femn,sing,accs
+10	дураков	10 d NOUN,anim,masc,plur,gent
+11	воевали	11 d VERB,impf,intr,plur,past,indc
+12	наши	12 d ADJF,Apro,plur,nomn
+13	деды	13 d NOUN,anim,masc,plur,nomn
+14	-	14 d PNCT
+15	прадеды	15 d NOUN,anim,masc,plur,nomn
+16	.	16 d PNCT
+/sent
+sent
+0	мама	0 d NOUN,anim,femn,sing,nomn
+1	учила	1 d VERB,impf,tran,femn,sing,past,indc
+2	нас	2 d NPRO,1per,plur,gent
+3	невозможному	3 d ADJF,Qual,masc,sing,datv
+4	"	4 d PNCT
+5	закрой	5 d VERB,perf,tran,sing,impr,excl
+6	рот	6 d NOUN,inan,femn,plur,gent
+7	и	7 d CONJ
+8	ешь	8 d VERB,impf,tran,sing,2per,pres,indc
+9	суп	9 d NOUN,inan,masc,sing,nomn
+10	!	10 d PNCT
+11	"	11 d PNCT
+/sent
+sent
+0	любовь	0 d NOUN,inan,femn,sing,nomn
+1	и	1 d CONJ
+2	боль	2 d NOUN,inan,femn,sing,accs
+3	неразлучны	3 d ADJS,Qual,plur
+4	,	4 d PNCT
+5	они	5 d NPRO,3per,Anph,plur,nomn
+6	как	6 d CONJ
+/sent
+sent
+0	две	0 d NUMR,femn,nomn
+1	сестры	1 d NOUN,anim,femn,sing,gent
+2	,	2 d PNCT
+3	если	3 d CONJ
+4	одна	4 d ADJF,Apro,femn,sing,nomn
+5	ушла	5 d VERB,perf,intr,femn,sing,past,indc
+6	в	6 d PREP
+7	тень	7 d NOUN,inan,femn,sing,accs
+/sent
+sent
+0	сборник	0 d NOUN,inan,masc,sing,nomn
+1	песен	1 d NOUN,inan,femn,plur,gent
+2	"	2 d PNCT
+3	кот	3 d NOUN,anim,masc,sing,nomn
+4	и	4 d CONJ
+5	енот	5 d NOUN,anim,masc,sing,nomn
+6	.	6 d PNCT
+7	"	7 d PNCT
+/sent
+sent
+0	мысли	0 d NOUN,inan,femn,sing,gent
+1	—	1 d PNCT
+2	это	2 d PRCL
+3	главный	3 d ADJF,Qual,masc,sing,nomn
+4	источник	4 d NOUN,inan,masc,sing,nomn
+5	вашего	5 d ADJF,Apro,neut,sing,gent
+6	хорошего	6 d ADJF,Qual,neut,sing,gent
+7	настроения	7 d NOUN,inan,neut,sing,gent
+8	.	8 d PNCT
+/sent
+sent
+0	очищайте	0 d VERB,impf,tran,plur,impr,excl
+1	мысли	1 d NOUN,inan,femn,sing,gent
+2	—	2 d PNCT
+3	и	3 d CONJ
+4	все	4 d ADVB
+5	невзгоды	5 d NOUN,inan,femn,sing,gent
+6	уйдут	6 d VERB,perf,intr,plur,3per,futr,indc
+7	.	7 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	смысл	1 d NOUN,inan,masc,sing,nomn
+2	токового	2 d ADJF,masc,sing,gent
+3	общение	3 d NOUN,inan,neut,sing,nomn
+4	когда	4 d CONJ
+5	один	5 d ADJF,Apro,masc,sing,nomn
+6	человек	6 d NOUN,anim,masc,sing,nomn
+7	хочет	7 d VERB,impf,tran,sing,3per,pres,indc
+8	,	8 d PNCT
+9	а	9 d CONJ
+10	другой	10 d ADJF,Apro,Subx,femn,sing,gent
+11	не	11 d PRCL
+12	хочет	12 d VERB,impf,tran,sing,3per,pres,indc
+13	.	13 d PNCT
+/sent
+sent
+0	вот	0 d PRCL
+1	советы	1 d NOUN,inan,masc,plur,accs
+2	для	2 d PREP
+3	идеального	3 d ADJF,Qual,neut,sing,gent
+4	свидания	4 d NOUN,inan,neut,sing,gent
+5	,	5 d PNCT
+6	не	6 d PRCL
+7	благодарите	7 d VERB,impf,tran,plur,2per,pres,indc
+8	.	8 d PNCT
+/sent
+sent
+0	выберите	0 d VERB,perf,tran,plur,impr,excl
+1	место	1 d NOUN,inan,neut,sing,accs
+2	для	2 d PREP
+3	свидания	3 d NOUN,inan,neut,sing,gent
+4	,	4 d PNCT
+5	хорошо	5 d PRCL
+6	подойдёт	6 d VERB,perf,intr,sing,3per,futr,indc
+7	место	7 d NOUN,inan,neut,sing,accs
+8	на	8 d PREP
+9	природе	9 d NOUN,inan,femn,sing,loct
+10	,	10 d PNCT
+11	что-нибудь	11 d NPRO,neut,sing,accs
+12	необычное	12 d ADJF,Qual,neut,sing,nomn
+13	,	13 d PNCT
+14	например	14 d CONJ,Prnt
+15	заброшенный	15 d PRTF,perf,tran,past,pssv,masc,sing,nomn
+16	склад	16 d NOUN,inan,masc,sing,nomn
+17	или	17 d CONJ
+18	деревообрабатывающий	18 d ADJF,masc,sing,nomn
+19	завод	19 d NOUN,inan,masc,sing,nomn
+20	.	20 d PNCT
+/sent
+sent
+0	прежде_чем	0 d ADVB
+1	ухаживать	1 d INFN,impf,intr
+2	за	2 d PREP
+3	девушкой	3 d NOUN,anim,femn,sing,ablt
+4	убедитесь	4 d VERB,perf,intr,plur,2per,futr,indc
+5	что	5 d CONJ
+6	ей	6 d NPRO,femn,3per,Anph,sing,datv
+7	некуда	7 d PRED,pres
+8	бежать	8 d INFN,perf,intr
+9	.	9 d PNCT
+/sent
+sent
+0	полностью	0 d ADVB
+1	овладейте	1 d VERB,perf,intr,plur,impr,excl
+2	её	2 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+3	вниманием	3 d NOUN,inan,neut,sing,ablt
+4	,	4 d PNCT
+5	сделайте	5 d VERB,perf,tran,plur,impr,excl
+6	что-нибудь	6 d NPRO,neut,sing,accs
+7	неожиданное	7 d ADJF,Qual,neut,sing,nomn
+8	:	8 d PNCT
+9	притащите	9 d VERB,perf,tran,plur,2per,futr,indc
+10	труп	10 d NOUN,inan,masc,sing,nomn
+11	оленя	11 d NOUN,anim,masc,sing,gent
+12	и	12 d CONJ
+13	расчлените	13 d VERB,perf,tran,plur,2per,futr,indc
+14	его	14 d NPRO,masc,3per,Anph,sing,accs
+15	бензопилой	15 d NOUN,inan,femn,sing,ablt
+16	.	16 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	процессе	1 d NOUN,inan,masc,sing,loct
+2	ухаживая	2 d GRND,impf,intr,pres
+3	находитесь	3 d VERB,impf,intr,plur,2per,pres,indc
+4	вне	4 d PREP
+5	досягаемости	5 d NOUN,inan,femn,sing,gent
+6	не	6 d PRCL
+7	зафиксированных	7 d PRTF,perf,tran,past,pssv,plur,gent
+8	движущихся	8 d PRTF,impf,intr,pres,actv,plur,gent,Infr
+9	частей	9 d NOUN,inan,femn,plur,gent
+10	девушки	10 d NOUN,anim,femn,plur,nomn
+11	.	11 d PNCT
+/sent
+sent
+0	ухаживая	0 d GRND,impf,intr,pres
+1	за	1 d PREP
+2	девушкой	2 d NOUN,anim,femn,sing,ablt
+3	убедитесь	3 d VERB,perf,intr,plur,2per,futr,indc
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	она	6 d NPRO,femn,3per,Anph,sing,nomn
+7	на	7 d PREP
+8	сможет	8 d VERB,perf,intr,sing,3per,futr,indc
+9	вам	9 d NPRO,2per,plur,datv
+10	отказать	10 d INFN,perf,tran
+11	.	11 d PNCT
+/sent
+sent
+0	хорошо	0 d PRCL
+1	подойдёт	1 d VERB,perf,intr,sing,3per,futr,indc
+2	кляп	2 d NOUN,inan,masc,sing,accs
+3	из	3 d PREP
+4	хлопчатобумажной	4 d ADJF,femn,sing,gent
+5	ткани	5 d NOUN,inan,femn,sing,gent
+6	,	6 d PNCT
+7	прикреплённый	7 d PRTF,perf,tran,past,pssv,masc,sing,nomn
+8	скотчем	8 d NOUN,inan,masc,sing,ablt
+9	к	9 d PREP
+10	голове	10 d NOUN,anim,masc,Sgtm,Surn,sing,loct
+11	девушки	11 d NOUN,anim,femn,plur,nomn
+12	.	12 d PNCT
+/sent
+sent
+0	делая	0 d GRND,impf,tran,pres
+1	кляп	1 d NOUN,inan,masc,sing,accs
+2	убедитесь	2 d VERB,perf,intr,plur,2per,futr,indc
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	он	5 d NPRO,masc,3per,Anph,sing,nomn
+6	не	6 d PRCL
+7	перекрывает	7 d VERB,impf,tran,sing,3per,pres,indc
+8	дыхательные	8 d ADJF,plur,nomn
+9	пути	9 d NOUN,inan,masc,sing,loct
+10	.	10 d PNCT
+/sent
+sent
+0	не	0 d PRCL
+1	все	1 d ADVB
+2	девушки	2 d NOUN,anim,femn,plur,nomn
+3	акцентируют	3 d VERB,perf,tran,plur,3per,futr,indc
+4	своё	4 d ADJF,Apro,Anph,neut,sing,accs
+5	внимание	5 d NOUN,inan,neut,sing,accs
+6	на	6 d PREP
+7	внешности	7 d NOUN,inan,femn,sing,gent
+8	,	8 d PNCT
+9	будьте	9 d VERB,impf,intr,plur,impr,excl
+10	скромны	10 d ADJS,Qual,plur
+11	и	11 d CONJ
+12	загадочны	12 d ADJS,Qual,plur
+13	,	13 d PNCT
+14	не	14 d PRCL
+15	показывайте	15 d VERB,impf,tran,plur,impr,excl
+16	своё	16 d ADJF,Apro,Anph,neut,sing,accs
+17	лицо	17 d NOUN,inan,neut,sing,nomn
+18	,	18 d PNCT
+19	хорошо	19 d PRCL
+20	подойдёт	20 d VERB,perf,intr,sing,3per,futr,indc
+21	вязанная	21 d PRTF,impf,tran,past,pssv,femn,sing,nomn
+22	лыжная	22 d ADJF,Qual,femn,sing,nomn
+23	маска	23 d NOUN,inan,femn,sing,nomn
+24	с	24 d PREP
+25	прорезями	25 d NOUN,inan,femn,plur,ablt
+26	для	26 d PREP
+27	ваших	27 d ADJF,Apro,plur,gent
+28	красивых	28 d ADJF,Qual,plur,gent
+29	глаз	29 d NOUN,inan,masc,plur,gent
+30	.	30 d PNCT
+/sent
+sent
+0	снимайте	0 d VERB,impf,tran,plur,impr,excl
+1	на	1 d PREP
+2	видео	2 d NOUN,inan,neut,Fixd,sing,nomn
+3	,	3 d PNCT
+4	когда-нибудь	4 d ADVB
+5	вы	5 d NPRO,2per,plur,nomn
+6	вместе	6 d ADVB
+7	будете	7 d VERB,impf,intr,plur,2per,futr,indc
+8	сидеть	8 d INFN,impf,intr
+9	на	9 d PREP
+10	диване	10 d NOUN,inan,masc,sing,loct
+11	,	11 d PNCT
+12	есть	12 d INTJ
+13	попкорн	13 d NOUN,inan,masc,sing,nomn
+14	и	14 d CONJ
+15	смотреть	15 d INFN,impf,tran
+16	видео	16 d NOUN,inan,neut,Fixd,sing,nomn
+17	с	17 d PREP
+18	вашего	18 d ADJF,Apro,neut,sing,gent
+19	первого	19 d NOUN,inan,neut,sing,gent
+20	свидания	20 d NOUN,inan,neut,sing,gent
+21	.	21 d PNCT
+/sent
+sent
+0	оставайтесь	0 d VERB,impf,intr,plur,impr,excl
+1	загадочным	1 d ADJF,Qual,masc,sing,ablt
+2	и	2 d CONJ
+3	ненавязчивым	3 d ADJF,masc,sing,ablt
+4	,	4 d PNCT
+5	не	5 d PRCL
+6	провожайте	6 d VERB,impf,tran,plur,impr,excl
+7	девушку	7 d NOUN,anim,femn,sing,accs
+8	до	8 d PREP
+9	дома	9 d ADVB
+10	,	10 d PNCT
+11	оставьте	11 d VERB,perf,tran,plur,impr,excl
+12	её	12 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+13	посреди	13 d ADVB
+14	ночи	14 d NOUN,inan,femn,sing,loc2
+15	на	15 d PREP
+16	междугородней	16 d COMP,V-ej
+17	трассе	17 d NOUN,inan,femn,sing,loct
+18	,	18 d PNCT
+19	не	19 d PRCL
+20	давайте	20 d VERB,impf,tran,plur,impr,excl
+21	ей	21 d NPRO,femn,3per,Anph,sing,datv
+22	своих	22 d ADJF,Apro,Anph,plur,gent
+23	контактов	23 d NOUN,inan,masc,plur,gent
+24	и	24 d CONJ
+25	скажите	25 d VERB,perf,tran,plur,impr,excl
+26	,	26 d PNCT
+27	что	27 d CONJ
+28	обязательно	28 d ADVB,Prdx
+29	вернётесь	29 d VERB,perf,intr,plur,2per,futr,indc
+30	за	30 d PREP
+31	ней	31 d NPRO,femn,3per,Anph,sing,loct,Af-p
+32	,	32 d PNCT
+33	когда-нибудь	33 d ADVB
+34	.	34 d PNCT
+/sent
+sent
+0	девушки	0 d NOUN,anim,femn,plur,nomn
+1	обожают	1 d VERB,impf,tran,plur,3per,pres,indc
+2	загадочность	2 d NOUN,inan,femn,sing,nomn
+3	и	3 d CONJ
+4	романтику	4 d NOUN,anim,masc,sing,datv
+5	.	5 d PNCT
+/sent
+sent
+0	семейные	0 d ADJF,Qual,plur,nomn
+1	психологи	1 d NOUN,anim,masc,plur,nomn
+2	советуют	2 d VERB,impf,intr,plur,3per,pres,indc
+3	:	3 d PNCT
+4	мёртвые	4 d NOUN,anim,masc,plur,nomn
+5	птицы	5 d NOUN,anim,femn,plur,nomn
+6	и	6 d CONJ
+7	кровь	7 d NOUN,inan,femn,sing,nomn
+8	животных	8 d NOUN,anim,neut,plur,gent
+9	,	9 d PNCT
+10	оставленные	10 d PRTF,perf,tran,past,pssv,plur,nomn
+11	на	11 d PREP
+12	пороге	12 d NOUN,inan,masc,sing,loct
+13	дома	13 d NOUN,inan,masc,sing,gent
+14	,	14 d PNCT
+15	смогут	15 d VERB,perf,intr,plur,3per,futr,indc
+16	подчеркнуть	16 d INFN,perf,tran
+17	вашу	17 d ADJF,Apro,femn,sing,accs
+18	неразрывную	18 d ADJF,femn,sing,accs
+19	связь	19 d NOUN,inan,femn,sing,nomn
+20	.	20 d PNCT
+/sent
+sent
+0	хочу	0 d VERB,impf,tran,sing,1per,pres,indc
+1	стать	1 d INFN,perf,intr
+2	"	2 d PNCT
+3	гуру	3 d NOUN,anim,masc,Sgtm,Fixd,sing,nomn
+4	бизнеса	4 d NOUN,inan,masc,sing,gent
+5	"	5 d PNCT
+6	с	6 d PREP
+7	приложением	7 d NOUN,inan,neut,sing,ablt
+8	"	8 d PNCT
+9	бизнес	9 d NOUN,inan,masc,sing,nomn
+10	в	10 d PREP
+11	кармане	11 d NOUN,inan,masc,sing,loct
+12	:	12 d PNCT
+13	"	13 d PNCT
+14	читаю	14 d VERB,impf,tran,sing,1per,pres,indc
+15	статьи	15 d NOUN,inan,femn,sing,gent
+16	,	16 d PNCT
+17	повышаю	17 d VERB,impf,tran,sing,1per,pres,indc
+18	уровень	18 d NOUN,inan,masc,sing,nomn
+19	знаний	19 d NOUN,inan,neut,plur,gent
+20	и	20 d CONJ
+21	получаю	21 d VERB,impf,tran,sing,1per,pres,indc
+22	бонусы	22 d NOUN,inan,masc,plur,nomn
+23	.	23 d PNCT
+/sent
+sent
+0	ты	0 d NPRO,2per,sing,nomn
+1	не	1 d PRCL
+2	вправе	2 d PRED,pres
+3	требовать	3 d INFN,impf,tran
+4	от	4 d PREP
+5	женщины	5 d NOUN,anim,femn,plur,nomn
+6	,	6 d PNCT
+/sent
+sent
+0	чтобы	0 d CONJ
+1	она	1 d NPRO,femn,3per,Anph,sing,nomn
+2	рассказывала	2 d VERB,impf,tran,femn,sing,past,indc
+3	о	3 d PREP
+4	своих	4 d ADJF,Apro,Anph,plur,gent
+5	бывших	5 d ADJF,plur,gent
+6	.	6 d PNCT
+/sent
+sent
+0	тогда	0 d ADVB,Dmns
+1	вы	1 d NPRO,2per,plur,nomn
+2	поймёте	2 d VERB,perf,tran,plur,2per,futr,indc
+3	,	3 d PNCT
+4	если	4 d CONJ
+5	он	5 d NPRO,masc,3per,Anph,sing,nomn
+6	рядом	6 d NOUN,inan,masc,sing,ablt
+7	,	7 d PNCT
+8	жив	8 d ADJS,Qual,masc,sing
+9	и	9 d CONJ
+10	здоров	10 d ADJS,Qual,masc,sing
+11	,	11 d PNCT
+12	у	12 d PREP
+13	вас	13 d NPRO,2per,plur,accs
+14	нет	14 d PRED,pres
+15	проблем	15 d NOUN,inan,femn,plur,gent
+16	.	16 d PNCT
+/sent
+sent
+0	они	0 d NPRO,3per,Anph,plur,nomn
+1	просто	1 d PRCL
+2	не	2 d PRCL
+3	любят	3 d VERB,impf,tran,plur,3per,pres,indc
+4	спортсменов	4 d NOUN,anim,masc,plur,gent
+5	...	5 d PNCT
+/sent
+sent
+0	всем	0 d ADJF,Apro,plur,datv
+1	бабам	1 d NOUN,anim,femn,plur,datv
+2	нужны	2 d ADJS,Qual,plur
+3	только	3 d PRCL
+4	деньги	4 d NOUN,inan,femn,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	мой	0 d ADJF,Apro,masc,sing,nomn
+1	преподаватель	1 d NOUN,anim,masc,sing,nomn
+2	рассказывал	2 d VERB,impf,tran,masc,sing,past,indc
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	вёл	5 d VERB,impf,tran,masc,sing,past,indc
+6	беседу	6 d NOUN,inan,femn,sing,accs
+7	с	7 d PREP
+8	одним	8 d ADJF,Apro,plur,datv
+9	молодым	9 d NOUN,anim,femn,plur,datv
+10	человеком	10 d NOUN,anim,masc,sing,ablt
+11	.	11 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	жизнь	1 d NOUN,inan,femn,sing,accs
+2	—	2 d PNCT
+3	одна	3 d ADJF,Apro,femn,sing,nomn
+4	,	4 d PNCT
+5	и	5 d CONJ
+6	жить	6 d INFN,impf,intr
+7	нужно	7 d PRED,pres
+8	только	8 d PRCL
+9	для	9 d PREP
+10	себя	10 d NPRO,Anph,sing,accs
+11	—	11 d PNCT
+12	!	12 d PNCT
+13	утверждал	13 d VERB,impf,intr,masc,sing,past,indc
+14	тот	14 d ADJF,Apro,Subx,Anph,masc,sing,nomn
+15	молодой	15 d NOUN,anim,femn,sing,gent
+16	человек	16 d NOUN,anim,masc,sing,nomn
+17	—	17 d PNCT
+18	.	18 d PNCT
+19	не	19 d PRCL
+20	понимаю	20 d VERB,impf,tran,sing,1per,pres,indc
+21	,	21 d PNCT
+22	зачем	22 d ADVB,Ques,Prdx
+23	мне	23 d NPRO,1per,sing,datv
+24	нужна	24 d ADJS,Qual,femn,sing
+25	девушка	25 d NOUN,anim,femn,sing,nomn
+26	,	26 d PNCT
+27	и	27 d CONJ
+28	уж	28 d ADVB
+29	тем_более	29 d ADVB
+30	жена	30 d NOUN,anim,femn,sing,nomn
+31	.	31 d PNCT
+/sent
+sent
+0	ведь	0 d CONJ
+1	это	1 d PRCL
+2	нужно	2 d PRED,pres
+3	тратиться	3 d INFN,impf,intr
+4	на	4 d PREP
+5	нее	5 d NOUN,inan,femn,Sgtm,Geox,sing,datv
+6	—	6 d PNCT
+7	то	7 d CONJ
+8	купи	8 d VERB,perf,tran,sing,impr,excl
+9	,	9 d PNCT
+10	это	10 d PRCL
+11	купи	11 d VERB,perf,tran,sing,impr,excl
+12	.	12 d PNCT
+/sent
+sent
+0	бабам	0 d NOUN,anim,femn,plur,datv
+1	же	1 d PRCL
+2	только	2 d PRCL
+3	деньги	3 d NOUN,inan,femn,sing,gent
+4	и	4 d CONJ
+5	нужны	5 d ADJS,Qual,plur
+6	.	6 d PNCT
+/sent
+sent
+0	прошло	0 d ADJS,neut,sing
+1	несколько	1 d ADVB
+2	месяцев	2 d NOUN,inan,masc,plur,gent
+3	и	3 d CONJ
+4	этот	4 d ADJF,Apro,Subx,Anph,inan,masc,sing,accs
+5	молодой	5 d NOUN,anim,femn,sing,gent
+6	человек	6 d NOUN,anim,masc,sing,nomn
+7	вновь	7 d ADVB
+8	начинает	8 d VERB,impf,tran,sing,3per,pres,indc
+9	тему	9 d NOUN,inan,femn,sing,accs
+10	со	10 d PREP,Vpre
+11	своим	11 d ADJF,Apro,Anph,plur,datv
+12	преподавателем	12 d NOUN,anim,masc,sing,ablt
+13	.	13 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	помните	1 d VERB,impf,tran,plur,2per,pres,indc
+2	,	2 d PNCT
+3	я	3 d NPRO,1per,sing,nomn
+4	говорил	4 d VERB,impf,tran,masc,sing,past,indc
+5	,	5 d PNCT
+6	что	6 d CONJ
+7	всем	7 d ADJF,Apro,plur,datv
+8	нужны	8 d ADJS,Qual,plur
+9	только	9 d PRCL
+10	деньги	10 d NOUN,inan,femn,sing,gent
+11	?	11 d PNCT
+/sent
+sent
+0	она	0 d NPRO,femn,3per,Anph,sing,nomn
+1	показалась	1 d VERB,perf,intr,femn,sing,past,indc
+2	мне	2 d NPRO,1per,sing,datv
+3	очень	3 d ADVB
+4	милой	4 d NOUN,anim,femn,Name,sing,ablt
+5	.	5 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	я	1 d NPRO,1per,sing,nomn
+2	понял	2 d VERB,perf,tran,masc,sing,past,indc
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	хочу	5 d VERB,impf,tran,sing,1per,pres,indc
+6	быть	6 d INFN,impf,intr
+7	с	7 d PREP
+8	ней	8 d NPRO,femn,3per,Anph,sing,loct,Af-p
+9	.	9 d PNCT
+/sent
+sent
+0	в_общем	0 d ADJF,masc,sing,loct
+1	,	1 d PNCT
+2	я	2 d NPRO,1per,sing,nomn
+3	пригласил	3 d VERB,perf,tran,masc,sing,past,indc
+4	её	4 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+5	в	5 d PREP
+6	кафе	6 d NOUN,inan,neut,Fixd,plur,gent
+7	.	7 d PNCT
+/sent
+sent
+0	решил	0 d VERB,perf,tran,masc,sing,past,indc
+1	через	1 d PREP
+2	неделю	2 d NOUN,inan,femn,sing,accs
+3	найти	3 d INFN,perf,tran
+4	её	4 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	подруги	0 d NOUN,anim,femn,sing,gent
+1	её	1 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+2	сказали	2 d VERB,perf,tran,plur,past,indc
+3	,	3 d PNCT
+4	что	4 d CONJ
+5	она	5 d NPRO,femn,3per,Anph,sing,nomn
+6	в	6 d PREP
+7	кафе	7 d NOUN,inan,neut,Fixd,plur,gent
+8	.	8 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	пришёл	1 d VERB,perf,intr,masc,sing,past,indc
+2	и	2 d CONJ
+3	обнаружил	3 d VERB,perf,tran,masc,sing,past,indc
+4	её	4 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+5	в	5 d PREP
+6	компании	6 d NOUN,inan,femn,sing,gent
+7	другого	7 d ADJF,Apro,Subx,neut,sing,gent
+8	парня	8 d NOUN,anim,masc,sing,gent
+9	.	9 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	на	1 d PREP
+2	нее	2 d NOUN,inan,femn,Sgtm,Geox,sing,datv
+3	столько	3 d ADVB
+4	денег	4 d NOUN,inan,femn,plur,gent
+5	потратил	5 d VERB,perf,tran,masc,sing,past,indc
+6	.	6 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	что	1 d CONJ
+2	произошло	2 d VERB,perf,intr,neut,sing,past,indc
+3	тогда	3 d ADVB,Dmns
+4	в	4 d PREP
+5	кафе	5 d NOUN,inan,neut,Fixd,plur,gent
+6	?	6 d PNCT
+/sent
+sent
+0	правда	0 d PRCL
+1	,	1 d PNCT
+2	недолго	2 d ADVB
+3	,	3 d PNCT
+4	мне	4 d NPRO,1per,sing,datv
+5	нужно	5 d PRED,pres
+6	было	6 d VERB,impf,intr,neut,sing,past,indc
+7	просто	7 d PRCL
+8	на	8 d PREP
+9	тренировку	9 d NOUN,inan,femn,sing,accs
+10	.	10 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	рассказал	1 d VERB,perf,tran,masc,sing,past,indc
+2	ей	2 d NPRO,femn,3per,Anph,sing,datv
+3	о	3 d PREP
+4	своей	4 d ADJF,Apro,Anph,femn,sing,gent
+5	жизни	5 d NOUN,inan,femn,sing,gent
+6	,	6 d PNCT
+7	о	7 d PREP
+8	своих	8 d ADJF,Apro,Anph,plur,gent
+9	увлечениях	9 d NOUN,inan,neut,plur,loct
+10	,	10 d PNCT
+11	она	11 d NPRO,femn,3per,Anph,sing,nomn
+12	смеялась	12 d VERB,impf,intr,femn,sing,past,indc
+13	все	13 d ADJF,Apro,plur,nomn
+14	это	14 d PRCL
+15	время	15 d NOUN,inan,neut,sing,accs
+16	.	16 d PNCT
+/sent
+sent
+0	попросил	0 d VERB,perf,tran,masc,sing,past,indc
+1	у	1 d PREP
+2	нее	2 d NOUN,inan,femn,Sgtm,Geox,sing,datv
+3	номер	3 d NOUN,inan,masc,sing,nomn
+4	телефона	4 d NOUN,inan,masc,sing,gent
+5	.	5 d PNCT
+/sent
+sent
+0	затем	0 d ADVB,Dmns
+1	мы	1 d NPRO,1per,plur,nomn
+2	заплатили	2 d VERB,perf,tran,plur,past,indc
+3	каждый	3 d ADJF,Apro,inan,masc,sing,accs
+4	сам	4 d ADJF,Apro,masc,sing,nomn
+5	за	5 d PREP
+6	себя	6 d NPRO,Anph,sing,accs
+7	.	7 d PNCT
+/sent
+sent
+0	хотел	0 d VERB,impf,tran,masc,sing,past,indc
+1	её	1 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+2	поцеловать	2 d INFN,perf,tran
+3	,	3 d PNCT
+4	а	4 d CONJ
+5	она	5 d NPRO,femn,3per,Anph,sing,nomn
+6	развернулась	6 d VERB,perf,intr,femn,sing,past,indc
+7	и	7 d CONJ
+8	села	8 d NOUN,inan,neut,sing,gent
+9	в	9 d PREP
+10	свой	10 d ADJF,Apro,Anph,inan,masc,sing,accs
+11	автобус	11 d NOUN,inan,masc,sing,nomn
+12	.	12 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	ага	1 d PRCL
+2	,	2 d PNCT
+3	то_есть	3 d VERB,impf,intr,sing,3per,pres,indc
+4	вы	4 d NPRO,2per,plur,nomn
+5	пригласили	5 d VERB,perf,tran,plur,past,indc
+6	её	6 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+7	в	7 d PREP
+8	кафе	8 d NOUN,inan,neut,Fixd,plur,gent
+9	,	9 d PNCT
+10	за	10 d PREP
+11	которое	11 d ADJF,Apro,Subx,Anph,neut,sing,nomn
+12	она	12 d NPRO,femn,3per,Anph,sing,nomn
+13	сама	13 d ADJF,Apro,femn,sing,nomn
+14	заплатила	14 d VERB,perf,tran,femn,sing,past,indc
+15	,	15 d PNCT
+16	пол	16 d NOUN,inan,femn,Fixd,Abbr,sing,nomn
+17	вечера	17 d NOUN,inan,masc,sing,gent
+18	она	18 d NPRO,femn,3per,Anph,sing,nomn
+19	слушала	19 d VERB,impf,tran,femn,sing,past,indc
+20	о	20 d PREP
+21	ваших	21 d ADJF,Apro,plur,gent
+22	увлечениях	22 d NOUN,inan,neut,plur,loct
+23	,	23 d PNCT
+24	и	24 d CONJ
+25	ни	25 d PRCL
+26	разу	26 d NOUN,inan,masc,sing,datv
+27	не	27 d PRCL
+28	рассказала	28 d VERB,perf,tran,femn,sing,past,indc
+29	о	29 d PREP
+30	себе	30 d PRCL
+31	,	31 d PNCT
+32	и	32 d CONJ
+33	в	33 d PREP
+34	конце	34 d NOUN,inan,masc,sing,loct
+35	,	35 d PNCT
+36	она	36 d NPRO,femn,3per,Anph,sing,nomn
+37	ехала	37 d VERB,impf,intr,femn,sing,past,indc
+38	одна	38 d ADJF,Apro,femn,sing,nomn
+39	на	39 d PREP
+40	общественном	40 d ADJF,masc,sing,loct
+41	транспорте	41 d NOUN,inan,masc,sing,loct
+42	,	42 d PNCT
+43	потому_что	43 d ADVB,Ques
+44	вы	44 d NPRO,2per,plur,nomn
+45	не	45 d PRCL
+46	удосужились	46 d VERB,perf,intr,plur,past,indc
+47	проводить	47 d INFN,impf,tran
+48	её	48 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+49	до	49 d PREP
+50	дома	50 d ADVB
+51	,	51 d PNCT
+52	так_как	52 d ADVB
+53	опаздывали	53 d VERB,impf,intr,plur,past,indc
+54	на	54 d PREP
+55	тренировку	55 d NOUN,inan,femn,sing,accs
+56	...	56 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	после	1 d ADVB
+2	вы	2 d NPRO,2per,plur,nomn
+3	удивляетесь	3 d VERB,impf,intr,plur,2per,pres,indc
+4	,	4 d PNCT
+5	почему	5 d ADVB,Ques
+6	она	6 d NPRO,femn,3per,Anph,sing,nomn
+7	не	7 d PRCL
+8	хочет	8 d VERB,impf,tran,sing,3per,pres,indc
+9	быть	9 d INFN,impf,intr
+10	с	10 d PREP
+11	вами	11 d NPRO,2per,plur,ablt
+12	?	12 d PNCT
+/sent
+sent
+0	вы	0 d NPRO,2per,plur,nomn
+1	же	1 d PRCL
+2	ничего	2 d ADVB
+3	не	3 d PRCL
+4	сделали	4 d VERB,perf,tran,plur,past,indc
+5	,	5 d PNCT
+6	чтобы	6 d CONJ
+7	как-то	7 d ADVB
+8	её	8 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+9	привлечь	9 d INFN,perf,tran
+10	!	10 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	а	1 d CONJ
+2	что	2 d PRCL
+3	делать	3 d INFN,impf,tran
+4	-	4 d PNCT
+5	то	5 d CONJ
+6	нужно	6 d PRED,pres
+7	?	7 d PNCT
+/sent
+sent
+0	я	0 d NPRO,1per,sing,nomn
+1	же	1 d PRCL
+2	пригласил	2 d VERB,perf,tran,masc,sing,past,indc
+3	её	3 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+4	в	4 d PREP
+5	кафе	5 d NOUN,inan,neut,Fixd,plur,gent
+6	!	6 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	и	1 d CONJ
+2	вы	2 d NPRO,2per,plur,nomn
+3	думаете	3 d VERB,impf,intr,plur,2per,pres,indc
+4	,	4 d PNCT
+5	что	5 d CONJ
+6	после	6 d ADVB
+7	этого	7 d NPRO,neut,sing,gent
+8	она	8 d NPRO,femn,3per,Anph,sing,nomn
+9	будет	9 d VERB,impf,intr,sing,3per,futr,indc
+10	кланяться	10 d INFN,impf,intr
+11	вам	11 d NPRO,2per,plur,datv
+12	в	12 d PREP
+13	ноги	13 d NOUN,inan,femn,sing,gent
+14	?	14 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	она	1 d NPRO,femn,3per,Anph,sing,nomn
+2	должна	2 d ADJS,femn,sing
+3	принять	3 d INFN,perf,tran
+4	меня	4 d NPRO,1per,sing,accs
+5	таким	5 d ADJF,Apro,plur,datv
+6	,	6 d PNCT
+7	какой	7 d ADJF,Apro,femn,sing,gent
+8	я	8 d NPRO,1per,sing,nomn
+9	есть	9 d INTJ
+10	!	10 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	но	1 d CONJ
+2	я	2 d NPRO,1per,sing,nomn
+3	же	3 d PRCL
+4	на	4 d PREP
+5	тренировку	5 d NOUN,inan,femn,sing,accs
+6	опаздывал	6 d VERB,impf,intr,masc,sing,past,indc
+7	!	7 d PNCT
+/sent
+sent
+0	о	0 d PREP
+1	украине	1 d NOUN,inan,femn,Sgtm,Geox,sing,loct
+2	и	2 d CONJ
+3	третьей	3 d ADJF,Anum,femn,sing,gent
+4	мировой	4 d ADJF,femn,sing,gent
+5	войне	5 d NOUN,inan,femn,sing,loct
+6	(	6 d PNCT
+7	правда	7 d PRCL
+8	от	8 d PREP
+9	немцев	9 d NOUN,anim,masc,plur,gent
+10	)	10 d PNCT
+/sent
+sent
+0	берегите	0 d VERB,impf,tran,plur,impr,excl
+1	людей	1 d NOUN,anim,masc,plur,gent
+2	,	2 d PNCT
+3	после	3 d PREP
+4	встречи	4 d NOUN,inan,femn,sing,gent
+5	с	5 d PREP
+6	которыми	6 d ADJF,Apro,Subx,Anph,plur,ablt
+7	,	7 d PNCT
+8	что-то	8 d ADVB
+9	светлое	9 d ADJF,Qual,neut,sing,nomn
+10	и	10 d CONJ
+11	радостное	11 d ADJF,Qual,neut,sing,nomn
+12	поселяется	12 d VERB,impf,intr,sing,3per,pres,indc
+13	в	13 d PREP
+14	вашей	14 d ADJF,Apro,femn,sing,gent
+15	душе	15 d NOUN,inan,femn,sing,datv
+16	.	16 d PNCT
+/sent
+sent
+0	сельдерей	0 d NOUN,inan,masc,sing,nomn
+1	на	1 d PREP
+2	подоконнике	2 d NOUN,inan,masc,sing,loct
+3	,	3 d PNCT
+4	хрен	4 d NOUN,inan,masc,sing,nomn
+5	,	5 d PNCT
+6	корнеплод	6 d NOUN,inan,masc,sing,nomn
+7	петрушки	7 d NOUN,inan,femn,sing,gent
+/sent
+sent
+0	...	0 d PNCT
+1	но	1 d CONJ
+2	не	2 d PRCL
+3	могу	3 d VERB,impf,intr,sing,1per,pres,indc
+4	я	4 d NPRO,1per,sing,nomn
+5	воспринимать	5 d INFN,impf,tran
+6	информацию	6 d NOUN,inan,femn,sing,accs
+7	на	7 d PREP
+8	украинском	8 d NOUN,inan,masc,Geox,sing,ablt
+9	!	9 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	малыш	1 d NOUN,anim,masc,sing,nomn
+2	бесит	2 d VERB,impf,tran,sing,3per,pres,indc
+3	...	3 d PNCT
+4	уже	4 d ADVB
+5	мозги	5 d NOUN,inan,GNdr,Pltm,plur,nomn
+6	кипят	6 d VERB,impf,intr,plur,3per,pres,indc
+7	от	7 d PREP
+8	языка	8 d NOUN,anim,masc,sing,gent
+9	моей	9 d ADJF,Apro,femn,sing,gent
+10	любимой	10 d ADJF,Subx,Qual,femn,sing,gent
+11	страны	11 d NOUN,inan,femn,sing,gent
+/sent
+sent
+0	бывают	0 d VERB,impf,intr,plur,3per,pres,indc
+1	минуты	1 d NOUN,inan,femn,sing,gent
+2	,	2 d PNCT
+3	за	3 d PREP
+4	которые	4 d ADJF,Apro,Subx,Anph,plur,nomn
+5	можно	5 d PRED,pres
+6	отдать	6 d INFN,perf,tran
+7	месяцы	7 d NOUN,inan,masc,plur,accs
+8	и	8 d CONJ
+9	годы	9 d NOUN,inan,masc,plur,accs
+10	...	10 d PNCT
+/sent
+sent
+0	больше	0 d ADVB
+1	всего	1 d ADVB
+2	я	2 d NPRO,1per,sing,nomn
+3	хочу	3 d VERB,impf,tran,sing,1per,pres,indc
+4	прийти	4 d INFN,perf,intr
+5	к	5 d PREP
+6	тебе	6 d NPRO,2per,sing,datv
+7	и	7 d CONJ
+8	лечь	8 d INFN,perf,intr
+9	рядом	9 d NOUN,inan,masc,sing,ablt
+10	.	10 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	знать	1 d INFN,impf,tran
+2	,	2 d PNCT
+3	что	3 d CONJ
+4	у	4 d PREP
+5	нас	5 d NPRO,1per,plur,gent
+6	есть	6 d INTJ
+7	завтра	7 d ADVB
+8	.	8 d PNCT
+/sent
+sent
+0	только	0 d CONJ
+1	наши	1 d ADJF,Apro,plur,nomn
+2	букеты	2 d NOUN,inan,masc,plur,nomn
+3	,	3 d PNCT
+4	для	4 d PREP
+5	вас	5 d NPRO,2per,plur,accs
+6	,	6 d PNCT
+7	делаются	7 d VERB,impf,intr,plur,3per,pres,indc
+8	с	8 d PREP
+9	добротой	9 d NOUN,inan,femn,sing,ablt
+10	и	10 d CONJ
+11	большой	11 d ADJF,Qual,femn,sing,gent
+12	любовью	12 d NOUN,inan,femn,sing,ablt
+13	!	13 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	сильная	1 d ADJF,Qual,femn,sing,nomn
+2	"	2 d PNCT
+3	женщина	3 d NOUN,anim,femn,sing,nomn
+4	,	4 d PNCT
+5	такой	5 d ADJF,Apro,femn,sing,gent
+6	она	6 d NPRO,femn,3per,Anph,sing,nomn
+7	стала	7 d VERB,perf,intr,femn,sing,past,indc
+/sent
+sent
+0	как	0 d CONJ
+1	только	1 d PRCL
+2	в	2 d PREP
+3	ней	3 d NPRO,femn,3per,Anph,sing,loct,Af-p
+4	слабость	4 d NOUN,inan,femn,sing,accs
+5	всю	5 d ADJF,Apro,femn,sing,accs
+6	растоптали	6 d VERB,perf,tran,plur,past,indc
+/sent
+sent
+0	когда	0 d CONJ
+1	в	1 d PREP
+2	ней	2 d NPRO,femn,3per,Anph,sing,loct,Af-p
+3	от	3 d PREP
+4	боли	4 d NOUN,inan,femn,sing,gent
+5	душа	5 d GRND,impf,tran,pres
+6	умирала	6 d VERB,impf,intr,femn,sing,past,indc
+/sent
+sent
+0	когда	0 d CONJ
+1	её	1 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+2	веру	2 d NOUN,inan,femn,sing,accs
+3	в	3 d PREP
+4	любовь	4 d NOUN,inan,femn,sing,nomn
+5	поломали	5 d VERB,perf,tran,plur,past,indc
+6	...	6 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	сильная	1 d ADJF,Qual,femn,sing,nomn
+2	"	2 d PNCT
+3	женщина	3 d NOUN,anim,femn,sing,nomn
+4	одевает	4 d VERB,impf,tran,sing,3per,pres,indc
+5	с	5 d PREP
+6	утра	6 d NOUN,inan,neut,sing,gent
+7	маску	7 d NOUN,inan,femn,sing,accs
+/sent
+sent
+0	и	0 d CONJ
+1	вечером	1 d ADVB
+2	грубо	2 d ADVB
+3	смывает	3 d VERB,impf,tran,sing,3per,pres,indc
+4	с	4 d PREP
+5	лица	5 d NOUN,anim,neut,sing,gent
+6	краску	6 d NOUN,inan,femn,sing,accs
+/sent
+sent
+0	сквозь	0 d PREP
+1	боль	1 d NOUN,inan,femn,sing,accs
+2	пришивает	2 d VERB,impf,tran,sing,3per,pres,indc
+3	себя	3 d NPRO,Anph,sing,accs
+4	по	4 d PREP
+5	кусочкам	5 d NOUN,inan,masc,plur,datv
+/sent
+sent
+0	нитью	0 d NOUN,inan,femn,sing,ablt
+1	по	1 d PREP
+2	-	2 d PNCT
+3	толще	3 d NOUN,inan,femn,sing,datv
+4	да	4 d PRCL
+5	ржавой	5 d ADJF,Qual,femn,sing,gent
+6	иголкой	6 d NOUN,inan,femn,sing,ablt
+7	...	7 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	сильная	1 d ADJF,Qual,femn,sing,nomn
+2	"	2 d PNCT
+3	женщина	3 d NOUN,anim,femn,sing,nomn
+4	с	4 d PREP
+5	опустевшим	5 d PRTF,perf,intr,past,actv,masc,sing,ablt
+6	взглядом	6 d NOUN,inan,masc,sing,ablt
+/sent
+sent
+0	смотрит	0 d VERB,impf,tran,sing,3per,pres,indc
+1	сквозь	1 d PREP
+2	толщу	2 d NOUN,inan,femn,sing,accs
+3	оконного	3 d ADJF,Qual,masc,sing,gent
+4	стекла	4 d NOUN,inan,neut,sing,gent
+/sent
+sent
+0	её	0 d ADJF,Fixd,Apro,Anph,neut,sing,gent
+1	ещё	1 d ADVB
+2	никто	2 d NPRO,sing,nomn
+3	не	3 d PRCL
+4	видел	4 d VERB,impf,tran,masc,sing,past,indc
+5	такой	5 d ADJF,Apro,femn,sing,gent
+6	слабой	6 d ADJF,Qual,femn,sing,loct
+/sent
+sent
+0	зажмурит	0 d VERB,perf,tran,sing,3per,futr,indc
+1	веки	1 d NOUN,inan,neut,plur,nomn
+2	,	2 d PNCT
+3	чтоб	3 d CONJ
+4	слеза	4 d NOUN,inan,femn,sing,nomn
+5	не	5 d PRCL
+6	потекла	6 d VERB,perf,intr,femn,sing,past,indc
+7	...	7 d PNCT
+/sent
+sent
+0	напротив	0 d PREP
+1	сидел	1 d VERB,impf,intr,masc,sing,past,indc
+2	парень	2 d NOUN,anim,masc,sing,nomn
+3	,	3 d PNCT
+4	то	4 d CONJ
+5	поднимал	5 d VERB,impf,tran,masc,sing,past,indc
+6	глаза	6 d NOUN,inan,masc,sing,gent
+7	на	7 d PREP
+8	меня	8 d NPRO,1per,sing,accs
+9	,	9 d PNCT
+10	то	10 d CONJ
+11	опускал	11 d VERB,impf,tran,masc,sing,past,indc
+12	.	12 d PNCT
+/sent
+sent
+0	когда	0 d CONJ
+1	народ	1 d NOUN,inan,masc,sing,nomn
+2	вышел	2 d VERB,perf,intr,masc,sing,past,indc
+3	,	3 d PNCT
+4	я	4 d NPRO,1per,sing,nomn
+5	увидела	5 d VERB,perf,tran,femn,sing,past,indc
+6	,	6 d PNCT
+7	что	7 d CONJ
+8	он	8 d NPRO,masc,3per,Anph,sing,nomn
+9	читает	9 d VERB,impf,tran,sing,3per,pres,indc
+10	книгу	10 d NOUN,inan,femn,sing,accs
+11	"	11 d PNCT
+12	как	12 d CONJ
+13	распознать	13 d INFN,perf,tran
+14	ведьму	14 d NOUN,anim,femn,sing,accs
+15	.	15 d PNCT
+16	"	16 d PNCT
+/sent
+sent
+0	гормон	0 d NOUN,inan,masc,sing,nomn
+1	счастья	1 d NOUN,inan,neut,sing,gent,V-be
+2	в	2 d PREP
+3	зависимости	3 d NOUN,inan,femn,sing,loct
+4	от	4 d PREP
+5	кишечника	5 d NOUN,inan,masc,sing,gent
+/sent
+sent
+0	кто	0 d NPRO,masc,sing,nomn
+1	занимается	1 d VERB,impf,intr,sing,3per,pres,indc
+2	исследованиями	2 d NOUN,inan,neut,plur,ablt
+3	и	3 d CONJ
+4	поиском	4 d NOUN,inan,masc,sing,ablt
+5	солдат	5 d NOUN,anim,masc,sing,nomn
+6	вов	6 d NOUN,anim,masc,Name,plur,gent
+7	прошу	7 d VERB,impf,tran,sing,1per,pres,indc
+8	помочь	8 d INFN,perf,intr
+9	.	9 d PNCT
+/sent
+sent
+0	никогда	0 d ADVB
+1	ни	1 d PRCL
+2	на	2 d PREP
+3	кого	3 d NPRO,masc,sing,accs
+4	не	4 d PRCL
+5	надейся	5 d VERB,impf,intr,sing,impr,excl
+6	.	6 d PNCT
+/sent
+sent
+0	никогда	0 d ADVB
+1	ни	1 d PRCL
+2	от	2 d PREP
+3	кого	3 d NPRO,masc,sing,accs
+4	ничего	4 d NPRO,neut,sing,gent
+5	не	5 d PRCL
+6	жди	6 d VERB,impf,tran,sing,impr,excl
+7	.	7 d PNCT
+/sent
+sent
+0	просто	0 d PRCL
+1	возьми	1 d VERB,perf,tran,sing,impr,excl
+2	и	2 d CONJ
+3	сделай	3 d VERB,perf,tran,sing,impr,excl
+4	все	4 d ADJF,Apro,plur,nomn
+5	сам	5 d ADJF,Apro,masc,sing,nomn
+6	.	6 d PNCT
+/sent
+sent
+0	"	0 d PNCT
+1	правый	1 d NOUN,anim,masc,sing,nomn
+2	сектор	2 d NOUN,inan,masc,sing,nomn
+3	"	3 d PNCT
+4	затыкает	4 d VERB,impf,tran,sing,3per,pres,indc
+5	рты	5 d NOUN,anim,masc,plur,nomn
+6	депутатам	6 d NOUN,anim,masc,plur,datv
+/sent
+sent
+0	в	0 d PREP
+1	стране	1 d NOUN,inan,femn,sing,loct
+2	абзац	2 d NOUN,inan,masc,sing,accs
+3	,	3 d PNCT
+4	все	4 d ADVB
+5	паникуют	5 d VERB,impf,intr,plur,3per,pres,indc
+6	,	6 d PNCT
+7	а	7 d CONJ
+8	кэл	8 d UNKN
+9	сидит	9 d VERB,impf,intr,sing,3per,pres,indc
+10	в	10 d PREP
+11	кабинете	11 d NOUN,inan,masc,sing,loct
+12	и	12 d CONJ
+13	докуривает	13 d VERB,impf,tran,sing,3per,pres,indc
+14	остатки	14 d NOUN,inan,masc,plur,nomn
+15	грибочков	15 d NOUN,inan,masc,plur,gent
+16	.	16 d PNCT
+/sent
+sent
+0	вдруг	0 d ADVB
+1	к	1 d PREP
+2	нему	2 d NPRO,masc,3per,Anph,sing,datv,Af-p
+3	врывается	3 d VERB,impf,intr,sing,3per,pres,indc
+4	(	4 d PNCT
+5	через	5 d PREP
+6	окно	6 d NOUN,inan,neut,sing,accs
+7	)	7 d PNCT
+8	лавджой	8 d NOUN,anim,masc,Sgtm,Surn,sing,ablt
+9	.	9 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	выдыхай	1 d VERB,impf,tran,sing,impr,excl
+2	бобёр	2 d NOUN,anim,masc,sing,nomn
+3	,	3 d PNCT
+4	у	4 d PREP
+5	меня	5 d NPRO,1per,sing,accs
+6	план	6 d NOUN,inan,masc,sing,accs
+7	—	7 d PNCT
+8	!	8 d PNCT
+9	стекает	9 d VERB,impf,intr,sing,3per,pres,indc
+10	кэла	10 d NOUN,anim,femn,Name,sing,nomn
+11	по	11 d PREP
+12	спине	12 d NOUN,inan,femn,sing,datv
+13	.	13 d PNCT
+/sent
+sent
+0	-	0 d PNCT
+1	это	1 d PRCL
+2	хорошо	2 d PRCL
+3	,	3 d PNCT
+4	а_то	4 d ADVB
+5	у	5 d PREP
+6	меня	6 d NPRO,1per,sing,accs
+7	кончился	7 d VERB,perf,intr,masc,sing,past,indc
+8	.	8 d PNCT
+/sent
+sent
+0	потом	0 d ADVB
+1	пистолет	1 d NOUN,inan,masc,sing,nomn
+2	,	2 d PNCT
+3	засовывает	3 d VERB,impf,tran,sing,3per,pres,indc
+4	ему	4 d NPRO,masc,3per,Anph,sing,datv
+5	в	5 d PREP
+6	рот	6 d NOUN,inan,femn,plur,gent
+7	и	7 d CONJ
+8	стреляет	8 d VERB,impf,tran,sing,3per,pres,indc
+9	.	9 d PNCT
+/sent
+sent
+0	морда	0 d NOUN,inan,femn,sing,nomn
+1	мужика	1 d NOUN,anim,masc,sing,accs
+2	превращается	2 d VERB,impf,intr,sing,3per,pres,indc
+3	в	3 d PREP
+4	месиво	4 d NOUN,inan,neut,sing,nomn
+5	и	5 d CONJ
+6	он	6 d NPRO,masc,3per,Anph,sing,nomn
+7	умирает	7 d VERB,impf,intr,sing,3per,pres,indc
+8	.	8 d PNCT
+/sent
+sent
+0	и	0 d CONJ
+1	они	1 d NPRO,3per,Anph,plur,nomn
+2	на	2 d PREP
+3	ковре	3 d NOUN,inan,masc,sing,loct
+4	вертолёте	4 d NOUN,inan,masc,sing,loct
+5	сваливают	5 d VERB,impf,intr,plur,3per,pres,indc
+6	сначала	6 d ADVB
+7	на	7 d PRCL
+8	ямайку	8 d NOUN,inan,femn,Sgtm,Geox,sing,accs
+9	,	9 d PNCT
+10	а	10 d CONJ
+11	потом	11 d ADVB
+12	в	12 d PREP
+13	бразилию	13 d NOUN,inan,femn,Sgtm,Geox,sing,accs
+14	,	14 d PNCT
+15	ну	15 d PRCL
+16	это	16 d PRCL
+17	там	17 d PRCL
+18	где	18 d CONJ
+19	много	19 d ADVB,Prdx
+20	диких	20 d ADJF,Qual,plur,gent
+21	обезьян	21 d NOUN,anim,femn,plur,gent
+22	в	22 d PREP
+23	белых	23 d NOUN,anim,GNdr,Ms-f,Fixd,Surn,sing,nomn
+24	штанах	24 d NOUN,inan,GNdr,Pltm,plur,loct
+25	.	25 d PNCT
+/sent
+sent
+0	два	0 d NUMR,masc,nomn
+1	солнца	1 d NOUN,inan,neut,sing,gent
+2	в	2 d PREP
+3	одной	3 d ADJF,Apro,femn,sing,gent
+4	миске	4 d NOUN,inan,femn,sing,datv
+5	не	5 d PRCL
+6	отражаются	6 d VERB,impf,intr,plur,3per,pres,indc
+7	:	7 d PNCT
+/sent
+sent
+0	в	0 d PREP
+1	такую	1 d ADJF,Apro,femn,sing,accs
+2	погоду	2 d NOUN,inan,femn,sing,accs
+3	есть	3 d INTJ
+4	одно	4 d ADJF,Apro,neut,sing,accs
+5	разумное	5 d ADJF,Qual,neut,sing,nomn
+6	решение	6 d NOUN,inan,neut,sing,accs
+7	—	7 d PNCT
+8	лечь	8 d INFN,perf,intr
+9	спать	9 d INFN,impf,intr
+10	до	10 d PREP
+11	весны	11 d NOUN,inan,femn,sing,gent
+12	.	12 d PNCT
+/sent
+sent
+0	почему	0 d ADVB,Ques
+1	уничтожают	1 d VERB,impf,tran,plur,3per,pres,indc
+2	луганск	2 d NOUN,inan,masc,Geox,sing,nomn
+3	и	3 d CONJ
+4	донецк	4 d NOUN,inan,masc,Geox,sing,nomn
+5	?	5 d PNCT
+/sent
